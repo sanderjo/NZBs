@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1520877517" subject="ecoji test f316b54c91fe [2/9] - &quot;blabla.par2&quot; yEnc (1/1) 40556">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="41337" number="1">KiNgMbNsLfYrYaBlIdUzJiQc-1520877517401@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1520877478" subject="ecoji test f316b54c91fe [1/9] - &quot;🏗📩🎦🐇🎛📘🔯🚜💞😽🆖🐊🎱🥁🚄🌱💞😭💮🇵💢🕥🐭🔸🍉🚲🦑🐶💢🕥🔮🔺🍉📸🐮🌼👦🚟🥴📑&quot; yEnc (1/147) 104857600">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728288" number="1">JpXgByPdTwIwAlQzZbEoLlGz-1520877478916@nyuu</segment>
+			<segment bytes="728294" number="2">WhSlQqYvAzDlFwUlNwIiAgJc-1520877478922@nyuu</segment>
+			<segment bytes="728295" number="3">XpCzQmShXaXlEsKzEdEkReGg-1520877478928@nyuu</segment>
+			<segment bytes="728295" number="4">KfBdMkAmDeQnLvHdAoKrCvYa-1520877478929@nyuu</segment>
+			<segment bytes="728295" number="5">BfIcScArMoIeNsRfDsKfHsEg-1520877478973@nyuu</segment>
+			<segment bytes="728295" number="6">AyYkOjFwXkQdFfCqYtCcPmBm-1520877478978@nyuu</segment>
+			<segment bytes="728295" number="7">HtAjOxNiNaNrTgFxKdCeVfDm-1520877479004@nyuu</segment>
+			<segment bytes="728295" number="8">SiPpLaNhRmWjWdSsOmFgWmYc-1520877479018@nyuu</segment>
+			<segment bytes="728295" number="9">ZgYgWrZlRlHbJhMzWqRoXcXz-1520877479026@nyuu</segment>
+			<segment bytes="728297" number="10">WgBcOzEdCwFvTaJhVoXzSvTd-1520877479028@nyuu</segment>
+			<segment bytes="728297" number="11">FxBmTiCpQtMdRzTzXkWzMdSf-1520877481036@nyuu</segment>
+			<segment bytes="728297" number="12">EfEyLtJbOzJiJvDzClLxBkZe-1520877481138@nyuu</segment>
+			<segment bytes="728297" number="13">FmHtUrVmKxPkBdGoNfGtTdQs-1520877481168@nyuu</segment>
+			<segment bytes="728298" number="14">QxMxVuQvAfIbXrUvOzStHpWz-1520877481170@nyuu</segment>
+			<segment bytes="728299" number="15">OqTjUhWwGlXkIuAeXuZmRkMo-1520877481198@nyuu</segment>
+			<segment bytes="728299" number="16">HyYvHlLiWqFaPhLwYfCaCvMy-1520877481310@nyuu</segment>
+			<segment bytes="728299" number="17">YrQsSpGzDzGgVtOqHbLdDcNp-1520877482675@nyuu</segment>
+			<segment bytes="728299" number="18">OgLqWaKpGjYzAwSrMbLxZnRl-1520877483353@nyuu</segment>
+			<segment bytes="728299" number="19">QxHgHcEyJhWxSkTaJaVnNvPr-1520877483377@nyuu</segment>
+			<segment bytes="728299" number="20">VoSbFjJhJsEuYbCzOcJbTaUh-1520877483391@nyuu</segment>
+			<segment bytes="728299" number="21">UeUmHxJeEsAlQtEqFaSgAmLr-1520877483427@nyuu</segment>
+			<segment bytes="728299" number="22">NdWrNsVsWkZeRqBxHeFoFcNs-1520877483622@nyuu</segment>
+			<segment bytes="728299" number="23">DlMnTnCsFkOoEiEwTwLiTxNx-1520877483822@nyuu</segment>
+			<segment bytes="728299" number="24">DsUxQbMuLyNtQvGsRtHyFlWu-1520877485285@nyuu</segment>
+			<segment bytes="728299" number="25">NzPmEtYvCtCqEsWxCgGnXmEo-1520877485373@nyuu</segment>
+			<segment bytes="728299" number="26">TvBoQjUwDvQpNcMzXhPmLoZf-1520877485438@nyuu</segment>
+			<segment bytes="728299" number="27">PvNqTwDiGgSrNlHjXeXqVhRk-1520877485467@nyuu</segment>
+			<segment bytes="728299" number="28">ZjBuMbFsMeTrDyLnYxKwIpRn-1520877485660@nyuu</segment>
+			<segment bytes="728299" number="29">YkNpRaWiVeNaMcRfLyJiPaQs-1520877485716@nyuu</segment>
+			<segment bytes="728299" number="30">IrTnGaIwOyZeGtTcXdMhMkSr-1520877486821@nyuu</segment>
+			<segment bytes="728299" number="31">SdWrWlLrKbSwEqSqDzKhUhQl-1520877487105@nyuu</segment>
+			<segment bytes="728299" number="32">MgCrQxLxBkNsKmKtUgWlXjWe-1520877487289@nyuu</segment>
+			<segment bytes="728299" number="33">LjGrGtNhFdDlYeSnWkQjTjIq-1520877487314@nyuu</segment>
+			<segment bytes="728299" number="34">WjFqHtHyErFcYxBsJrTsDfLo-1520877487365@nyuu</segment>
+			<segment bytes="728299" number="35">AxPpZkHcPmWdEeRjXmEbAdUw-1520877487496@nyuu</segment>
+			<segment bytes="728299" number="36">IaHaIiOzYvWaNeNrKzLpVqZp-1520877487826@nyuu</segment>
+			<segment bytes="728299" number="37">FoNsHzBkBuYoHlWfHfUdQoXe-1520877488571@nyuu</segment>
+			<segment bytes="728299" number="38">CjEzIhVyBnOeIgGtNmNeFaZe-1520877489223@nyuu</segment>
+			<segment bytes="728299" number="39">KbOcGrJmQlNwMwEmRkZtIuAz-1520877489240@nyuu</segment>
+			<segment bytes="728299" number="40">UpVuRtBkCxOfEaPkYyQeAhYl-1520877489265@nyuu</segment>
+			<segment bytes="728299" number="41">IkQtKbPuYsQfSaZkFsEyZyGt-1520877489302@nyuu</segment>
+			<segment bytes="728299" number="42">VmKuTeSrWtPlBjQfYtAeStEb-1520877489370@nyuu</segment>
+			<segment bytes="728299" number="43">UaBwXtYrBwTzIkJcSwDhExRb-1520877489582@nyuu</segment>
+			<segment bytes="728299" number="44">FpNvLcHuOsPsLyDzSwDnHsEi-1520877491147@nyuu</segment>
+			<segment bytes="728299" number="45">VdFaZrKaBeHjKnJnZjWzUmCg-1520877491149@nyuu</segment>
+			<segment bytes="728299" number="46">KuYoQbLmIkOfLhDrVzOfNyVq-1520877491215@nyuu</segment>
+			<segment bytes="728299" number="47">YsTfWhTyFpNfZlHiGhJpAiVe-1520877491255@nyuu</segment>
+			<segment bytes="728299" number="48">YvBiRjMoQrXwEhCyKcBtPkFd-1520877491259@nyuu</segment>
+			<segment bytes="728299" number="49">BoMnGrKyOrChIkUoTmOfKeAo-1520877491419@nyuu</segment>
+			<segment bytes="728299" number="50">WwVyLeXwUqYxHuGqVnRdBhQq-1520877492780@nyuu</segment>
+			<segment bytes="728299" number="51">OhToCdHfDdEdWhOnEqAnJnPx-1520877492931@nyuu</segment>
+			<segment bytes="728299" number="52">McGmBtYzWtNcBsOwGdIsEcJf-1520877492978@nyuu</segment>
+			<segment bytes="728299" number="53">McQfSnDmFwEhYcNhTuRyCzWn-1520877493087@nyuu</segment>
+			<segment bytes="728299" number="54">FjRrPuScEzUhGzOxZgGiNfNi-1520877493110@nyuu</segment>
+			<segment bytes="728299" number="55">EtFjIvQeEbQcDaZxZgOlNcEa-1520877493132@nyuu</segment>
+			<segment bytes="728299" number="56">QeMyAlEwVzZrLiKsAcKhOaDf-1520877494126@nyuu</segment>
+			<segment bytes="728299" number="57">FhPuGjWeRdFaSgSoOmYqUgSn-1520877494517@nyuu</segment>
+			<segment bytes="728299" number="58">NvWdAiPmLyMtZeSrBbAiNaAp-1520877494667@nyuu</segment>
+			<segment bytes="728299" number="59">NnOkRvPbShToDzMrCbIlJeFb-1520877494898@nyuu</segment>
+			<segment bytes="728299" number="60">GqOcFdOyHkIrXgWzOoRmPgRy-1520877494900@nyuu</segment>
+			<segment bytes="728299" number="61">RzNyWqFpZrVhTgOeBmMbHnZo-1520877495123@nyuu</segment>
+			<segment bytes="728299" number="62">YuWsQcPiLwHmCmLmWvZuYeDl-1520877495349@nyuu</segment>
+			<segment bytes="728299" number="63">JhLaUmPdMwFnFuFlCzAwQjIm-1520877496174@nyuu</segment>
+			<segment bytes="728299" number="64">PnVsKaNkSvNiNuNdJmIiSjYv-1520877496497@nyuu</segment>
+			<segment bytes="728299" number="65">IrMlJlIzPxInCfAbAnHzCqRb-1520877496887@nyuu</segment>
+			<segment bytes="728299" number="66">QfPxGgUuRvAnChEeYxPcAcVs-1520877497008@nyuu</segment>
+			<segment bytes="728299" number="67">DcSqDtZaZqUtQfDlUbGaRwHo-1520877497196@nyuu</segment>
+			<segment bytes="728299" number="68">MxNyBzEaGiFbFrCpZgAcGhLp-1520877497621@nyuu</segment>
+			<segment bytes="728299" number="69">YqHhTzWrEuUeZhLaOcBrVjIc-1520877497831@nyuu</segment>
+			<segment bytes="728299" number="70">DuKsSpBfOzJhQuTqGnIjJoZq-1520877498022@nyuu</segment>
+			<segment bytes="728299" number="71">MmHwYiJaYuIbXtPqCyKkCtOa-1520877498473@nyuu</segment>
+			<segment bytes="728299" number="72">RnDrMwMuJdEtRiYkUiHfZvYm-1520877498605@nyuu</segment>
+			<segment bytes="728299" number="73">PmUuGfBeSjKmTuRbNoIuIwQh-1520877498889@nyuu</segment>
+			<segment bytes="728299" number="74">RcKoJpHxLdQoWpAlBjVrVsDn-1520877499277@nyuu</segment>
+			<segment bytes="728299" number="75">QdSaQjMoGgKrObAhPhSbFeIc-1520877499465@nyuu</segment>
+			<segment bytes="728299" number="76">XnBsPrOxGpXdFcFrQvKuGpWb-1520877499597@nyuu</segment>
+			<segment bytes="728299" number="77">ZsIuIbVsDiFqLnGhOoTzMrBv-1520877500223@nyuu</segment>
+			<segment bytes="728299" number="78">BhOoRpTfUaDbBkWxTdMkHkNa-1520877500226@nyuu</segment>
+			<segment bytes="728299" number="79">YiSbLjRvVhZlZkNtFcVeYjIb-1520877500352@nyuu</segment>
+			<segment bytes="728299" number="80">HiXmJwYcRtNfLsQjIcGlRtOi-1520877500689@nyuu</segment>
+			<segment bytes="728299" number="81">QuAdJiJuHhHlUsQkZbCuThUi-1520877500777@nyuu</segment>
+			<segment bytes="728299" number="82">EaInSwQuBsTtMiTmOsQpRlPi-1520877501053@nyuu</segment>
+			<segment bytes="728299" number="83">PaLxZzShYrSoXfYwBuZzLvJh-1520877501757@nyuu</segment>
+			<segment bytes="728299" number="84">BtHqRaQjVlCfHyEmZxZbMmJf-1520877501827@nyuu</segment>
+			<segment bytes="728299" number="85">OyNzZlCzFxSpWwOcVaHmLiLn-1520877502022@nyuu</segment>
+			<segment bytes="728299" number="86">RjNdQkZzSxZgUaWuHfLuNsLb-1520877502328@nyuu</segment>
+			<segment bytes="728299" number="87">EfQrHaVuGoJgIoBmEzFcVdWg-1520877502471@nyuu</segment>
+			<segment bytes="728299" number="88">SvFqBxHzAdGnKzFkSzMpVgWe-1520877502526@nyuu</segment>
+			<segment bytes="728299" number="89">HmNaXxAuQaKbIcUzXkSpUrHl-1520877503226@nyuu</segment>
+			<segment bytes="728299" number="90">YyZePvBbDfQaArZsCiTlBnUk-1520877503288@nyuu</segment>
+			<segment bytes="728299" number="91">AmNfBdIuGiNcIxJsXzHmHkKq-1520877503580@nyuu</segment>
+			<segment bytes="728299" number="92">KzQhOsVhJvBsRtMqVtHgZlJz-1520877503874@nyuu</segment>
+			<segment bytes="728299" number="93">EfDhWvQlGtVaSvTiSqVqNfOv-1520877504070@nyuu</segment>
+			<segment bytes="728299" number="94">AaVqFnHiPiOmWuFpFqFaWsXc-1520877504075@nyuu</segment>
+			<segment bytes="728299" number="95">BuDiRsFrHrJrKzXpPmYrWhQg-1520877504832@nyuu</segment>
+			<segment bytes="728299" number="96">BoUrHpXmOtXeFgWlNaPrZaAd-1520877504959@nyuu</segment>
+			<segment bytes="728299" number="97">NoJrVaOaBjHrDrKsAfUyVuRd-1520877505321@nyuu</segment>
+			<segment bytes="728299" number="98">LwEaCiXtWzXcEhPsZmBwCfZl-1520877505673@nyuu</segment>
+			<segment bytes="728299" number="99">DhRiNiAbRaQwUaCyChBlFzHn-1520877505728@nyuu</segment>
+			<segment bytes="728301" number="100">QeYzCvObVdAyJoYjNrUnNeGa-1520877505732@nyuu</segment>
+			<segment bytes="728301" number="101">VcJaBcNsWaMbZsOeIgEbBfVz-1520877506086@nyuu</segment>
+			<segment bytes="728301" number="102">KmCjQlPqUhWjCdJtEeHsVwIg-1520877506268@nyuu</segment>
+			<segment bytes="728301" number="103">KaBzYcJaBbPiNsXjJeDcMoKi-1520877506360@nyuu</segment>
+			<segment bytes="728301" number="104">UgRwXeYdOxZpMyFuCyHfShUo-1520877507248@nyuu</segment>
+			<segment bytes="728301" number="105">EsIfQhUhNdKdAlYfMqQyRbWd-1520877507260@nyuu</segment>
+			<segment bytes="728301" number="106">CzQtKaArAwMgUsJcZiSwLgYl-1520877507429@nyuu</segment>
+			<segment bytes="728301" number="107">WxDdQqIiIiYgCkPtAoXuYmDy-1520877507661@nyuu</segment>
+			<segment bytes="728301" number="108">MiDsBxWmQyOrCzJtHwQaYkQb-1520877507838@nyuu</segment>
+			<segment bytes="728301" number="109">VlUgNtJiThOdFfPmLiBbVxYb-1520877507855@nyuu</segment>
+			<segment bytes="728301" number="110">PrInDlQbUcMtNsGyHdDsDfIp-1520877508626@nyuu</segment>
+			<segment bytes="728301" number="111">VfMiMwKeLgDpKoBxNwVuTdWy-1520877508755@nyuu</segment>
+			<segment bytes="728301" number="112">YpQyNiApNnFfVmCtBzUuMsXf-1520877508996@nyuu</segment>
+			<segment bytes="728301" number="113">VjDxGhFxCfKaDsWdOgViYgSj-1520877509281@nyuu</segment>
+			<segment bytes="728301" number="114">PhHzEgDoLiMsJuVhNhEpEvTd-1520877509336@nyuu</segment>
+			<segment bytes="728301" number="115">FuUmFcEvAcTnPyXhArRvIpXa-1520877509591@nyuu</segment>
+			<segment bytes="728301" number="116">BnHfTtQmByQqFfXaPjOdAgTs-1520877509922@nyuu</segment>
+			<segment bytes="728301" number="117">NsFyQsDhGsMxJxKaSqPjNxTz-1520877510159@nyuu</segment>
+			<segment bytes="728301" number="118">ZeZaTjUfUlAiTiEwOgFrDiXd-1520877510443@nyuu</segment>
+			<segment bytes="728301" number="119">MuBbKxBaEfRgQhZyLzJiJeAo-1520877510748@nyuu</segment>
+			<segment bytes="728301" number="120">RlBkXzLtDlWvYcFsNsJoGvAj-1520877510897@nyuu</segment>
+			<segment bytes="728301" number="121">SaKzAdFzByRsYaAoRmMoLfAi-1520877511117@nyuu</segment>
+			<segment bytes="728301" number="122">BvQzTvMcXdFzGcQuYjImOnIv-1520877511320@nyuu</segment>
+			<segment bytes="728301" number="123">DuGyNvLvLkQdKvNbFzItRcTw-1520877511600@nyuu</segment>
+			<segment bytes="728301" number="124">SbYjLxOxVwNzNiXvYrUlNlLe-1520877511734@nyuu</segment>
+			<segment bytes="728301" number="125">PsZeChQyRcJoDsWgDyCfInEp-1520877512127@nyuu</segment>
+			<segment bytes="728301" number="126">ExGfKuDfAnJaZkPcWeDiEmQm-1520877512228@nyuu</segment>
+			<segment bytes="728301" number="127">IlVcLxYzPrUwUdCbEaKpHpGk-1520877512577@nyuu</segment>
+			<segment bytes="728301" number="128">DwUqVjFlOgYwNcZzXaZhPgVs-1520877512747@nyuu</segment>
+			<segment bytes="728301" number="129">VhUrTfLfVkMvHhJxUbDyNwRu-1520877513124@nyuu</segment>
+			<segment bytes="728301" number="130">TeTcFrXmHtWpSeGrVdRrRmUl-1520877513206@nyuu</segment>
+			<segment bytes="728301" number="131">NaUxFfTiOdQpJmQsQfNzJlCr-1520877513577@nyuu</segment>
+			<segment bytes="728301" number="132">DwYhZzCkZmPcXoScMpReMzTh-1520877513640@nyuu</segment>
+			<segment bytes="728301" number="133">ShQhQxSlAdWcVbYsMlIeOtWn-1520877513945@nyuu</segment>
+			<segment bytes="728301" number="134">OqShUkEbHsCuBeNrLpQeOuAy-1520877514155@nyuu</segment>
+			<segment bytes="728301" number="135">IgOyZiUuBdLtMnPkVvOrRxVv-1520877514530@nyuu</segment>
+			<segment bytes="728301" number="136">OaQzNfLyPwNbYfOxOnUiMdGv-1520877514573@nyuu</segment>
+			<segment bytes="728301" number="137">RcNqCsRhOiTgFxJwNuUcVgCs-1520877515133@nyuu</segment>
+			<segment bytes="728301" number="138">JwKqTyXfYcHjKeDeXxHhQjOi-1520877515297@nyuu</segment>
+			<segment bytes="728301" number="139">CoJrHgPvXoJwPyQpIxXpZaGe-1520877515318@nyuu</segment>
+			<segment bytes="728302" number="140">KqDuAxJzXwSbDiNgCjKnOsFj-1520877515464@nyuu</segment>
+			<segment bytes="728303" number="141">DfVeQpRtHuOgTaQyDgOtBdYv-1520877515830@nyuu</segment>
+			<segment bytes="728303" number="142">WvQnIgKgSzLeVbNeWaDiSpGz-1520877515859@nyuu</segment>
+			<segment bytes="728303" number="143">UvRoDhTfUaGeVuKrYyCmCzDv-1520877516592@nyuu</segment>
+			<segment bytes="728303" number="144">IgNcRhMkCpGdHqVrQfWdXjFk-1520877516907@nyuu</segment>
+			<segment bytes="728303" number="145">XuDfXmGsJhWvKkDrHeGlIqMn-1520877517024@nyuu</segment>
+			<segment bytes="728303" number="146">LqOvLmEcSpXhEvMcZfRwVdRa-1520877517039@nyuu</segment>
+			<segment bytes="208318" number="147">CaHdFoKkVuSeErNjJcQpGsJb-1520877517260@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1520877517" subject="ecoji test f316b54c91fe [3/9] - &quot;blabla.vol000+02.par2&quot; yEnc (1/1) 186008">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="189078" number="1">BrQnHfDbCtXmPeMiObRoCdBz-1520877517673@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1520877518" subject="ecoji test f316b54c91fe [4/9] - &quot;blabla.vol002+04.par2&quot; yEnc (1/1) 331460">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="336802" number="1">AhMgQxDuPkHjUeWxHjWmAbBd-1520877518342@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1520877518" subject="ecoji test f316b54c91fe [5/9] - &quot;blabla.vol006+08.par2&quot; yEnc (1/1) 581912">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="591171" number="1">FwPyRyGwVhSgOjZyKgNmNcJf-1520877518675@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1520877518" subject="ecoji test f316b54c91fe [6/9] - &quot;blabla.vol014+16.par2&quot; yEnc (1/2) 1042364">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728153" number="1">UySvKhCsVhQsPrCvFqHjMtUy-1520877518719@nyuu</segment>
+			<segment bytes="330822" number="2">NgVdVxQhAtJjBvLsGvOfArQb-1520877518937@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1520877518" subject="ecoji test f316b54c91fe [7/9] - &quot;blabla.vol030+32.par2&quot; yEnc (1/3) 1922816">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">GdEnIoEqBfDzUtByGnAsErGn-1520877518992@nyuu</segment>
+			<segment bytes="728159" number="2">MlFwBvTvQtDqRiDyPfMnStFm-1520877519072@nyuu</segment>
+			<segment bytes="497034" number="3">EkUuMuOcIsRrDaRuYkVqOuHn-1520877519297@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1520877519" subject="ecoji test f316b54c91fe [8/9] - &quot;blabla.vol062+64.par2&quot; yEnc (1/6) 3643268">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728152" number="1">RmTeGbMpEuCzJxAfShVnWgPy-1520877519356@nyuu</segment>
+			<segment bytes="728155" number="2">FnWhGuZrWeKdNgEaBeMnDrWw-1520877519420@nyuu</segment>
+			<segment bytes="728158" number="3">CeQoUmYmFmZuQcRbPaIeFyId-1520877519603@nyuu</segment>
+			<segment bytes="728157" number="4">WvIfTiXjQqLpTvOmEtVpPcZq-1520877519795@nyuu</segment>
+			<segment bytes="728160" number="5">PoLlGmIjNdUeKzMmOxCmZdUt-1520877520263@nyuu</segment>
+			<segment bytes="60364" number="6">LbOaJfKeZyVqUqPgImYkEgPe-1520877520324@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1520877520" subject="ecoji test f316b54c91fe [9/9] - &quot;blabla.vol126+74.par2&quot; yEnc (1/6) 4168268">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728152" number="1">YzLhHuJnBySgAaVfTdTdYdDq-1520877520933@nyuu</segment>
+			<segment bytes="728159" number="2">XpZfTbNoDtPtInKpSlZjMvQt-1520877521022@nyuu</segment>
+			<segment bytes="728158" number="3">CyLjVaCiMkKlZmAxKbHhEwHu-1520877521038@nyuu</segment>
+			<segment bytes="728158" number="4">VgSzGxVwIjDoVhKeFePzOpEx-1520877521207@nyuu</segment>
+			<segment bytes="728157" number="5">DtTdTaUuNrPxEyXySqSvQaBc-1520877521481@nyuu</segment>
+			<segment bytes="593567" number="6">DxOfKiAfMgIcDdUgWtJiDfYx-1520877521787@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
