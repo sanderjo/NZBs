@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="zebramannetje &lt;blabla@example.com&gt;" date="1535611350" subject="reftestnzb 87cbb544fdb4 Chinese [2/9] - &quot;你好安全.par2&quot; yEnc (1/1) 40448">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="43270" number="1">WpNtQbVvXqTwFeXiZuJsAiZv-1535611350999@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="zebramannetje &lt;blabla@example.com&gt;" date="1535611352" subject="reftestnzb 87cbb544fdb4 Chinese [3/9] - &quot;你好安全.vol000+02.par2&quot; yEnc (1/1) 84076">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="89630" number="1">MmZoUmJgBpDwRtHlOyJaSkUy-1535611352669@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="zebramannetje &lt;blabla@example.com&gt;" date="1535611350" subject="reftestnzb 87cbb544fdb4 Chinese [1/9] - &quot;你好安全.rar&quot; yEnc (1/5) 3145897">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728143" number="1">KkMpBbCjDeArBsFzQrIgNrBj-1535611350899@nyuu</segment>
+			<segment bytes="728146" number="2">SqNuTnPsZaMkUsTkLfJhQsKa-1535611350904@nyuu</segment>
+			<segment bytes="728147" number="3">JaYfOnDnHiLdKnPmSwUdEdQq-1535611350910@nyuu</segment>
+			<segment bytes="728147" number="4">McBfDeYfAlAaUxByMtYkIwNq-1535611350984@nyuu</segment>
+			<segment bytes="283216" number="5">LqMkAaKjZjHtOaClRzCyOaAz-1535611350992@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="zebramannetje &lt;blabla@example.com&gt;" date="1535611352" subject="reftestnzb 87cbb544fdb4 Chinese [4/9] - &quot;你好安全.vol002+04.par2&quot; yEnc (1/1) 127704">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="135980" number="1">BzBgJqFnAkXkZbMrPrXeNaTz-1535611352672@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="zebramannetje &lt;blabla@example.com&gt;" date="1535611352" subject="reftestnzb 87cbb544fdb4 Chinese [5/9] - &quot;你好安全.vol006+08.par2&quot; yEnc (1/1) 174612">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="185668" number="1">GcMzSqEpJkZxXyByZsHqYrHw-1535611352680@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="zebramannetje &lt;blabla@example.com&gt;" date="1535611353" subject="reftestnzb 87cbb544fdb4 Chinese [6/9] - &quot;你好安全.vol014+16.par2&quot; yEnc (1/1) 228080">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="242030" number="1">MuRhYySkEiYlKeJeEtRzDvXe-1535611353098@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="zebramannetje &lt;blabla@example.com&gt;" date="1535611353" subject="reftestnzb 87cbb544fdb4 Chinese [7/9] - &quot;你好安全.vol030+32.par2&quot; yEnc (1/1) 294668">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="311738" number="1">QaGyYlQiZgSaHvGyHoScJaHu-1535611353396@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="zebramannetje &lt;blabla@example.com&gt;" date="1535611353" subject="reftestnzb 87cbb544fdb4 Chinese [8/9] - &quot;你好安全.vol062+64.par2&quot; yEnc (1/1) 387496">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="408139" number="1">GwVnPmHcOcKdPjEtIdNuBtFh-1535611353577@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="zebramannetje &lt;blabla@example.com&gt;" date="1535611353" subject="reftestnzb 87cbb544fdb4 Chinese [9/9] - &quot;你好安全.vol126+74.par2&quot; yEnc (1/1) 403896">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="424854" number="1">ErFxDvGxEvMrCxMjChQyXfCx-1535611353790@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
