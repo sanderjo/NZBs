@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1549486430" subject="reftestnzb chinese chars in resulting file 2b5683434096 [01/10] - &quot;chinese-chars.part1.rar&quot; yEnc (1/49) 34603008">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728153" number="1">IkNzJxGwOvCqEnNzHfAnQeDa-1549486430632@nyuu</segment>
+			<segment bytes="728155" number="2">XkDrFeYkIxTcPtXbOjMyTcQs-1549486430638@nyuu</segment>
+			<segment bytes="728156" number="3">UgCyOxWcOjUtZnGcJtKoAhCj-1549486430642@nyuu</segment>
+			<segment bytes="728156" number="4">OvPyVtVeXrBuFhKoBkJlDgUb-1549486430693@nyuu</segment>
+			<segment bytes="728156" number="5">MkGsHgEvHhPmWbFpWcSoMxQp-1549486430694@nyuu</segment>
+			<segment bytes="728156" number="6">XcSfKpZzVeOuVnXfNlKhUuDy-1549486430695@nyuu</segment>
+			<segment bytes="728156" number="7">BkKyOyBkFrMnXwLvXwSeBeVb-1549486433504@nyuu</segment>
+			<segment bytes="728156" number="8">RnJtRzLcLfHvYyUxCcYlFhUv-1549486433510@nyuu</segment>
+			<segment bytes="728156" number="9">IvAvOnVnHsKlOpQtBfUxZsYw-1549486433513@nyuu</segment>
+			<segment bytes="728158" number="10">EuMxVwJaMxXoUoCxEpFxRnGj-1549486436158@nyuu</segment>
+			<segment bytes="728158" number="11">RbYjOwQzDuQbDbRbBjWgYoEm-1549486436162@nyuu</segment>
+			<segment bytes="728158" number="12">PbPtAcTfDkUjZySqIuReDaZi-1549486436165@nyuu</segment>
+			<segment bytes="728158" number="13">IpElDxXkPqSvFgVcYcHtVuJv-1549486438307@nyuu</segment>
+			<segment bytes="728159" number="14">QkTuCpHgNnBlXkFsKzGkEwEl-1549486438335@nyuu</segment>
+			<segment bytes="728160" number="15">ZsYqBbHkUbGqAkXjObEvHiKe-1549486438343@nyuu</segment>
+			<segment bytes="728160" number="16">YfYiKsRtUkAnDaTxFlVeUtZu-1549486440203@nyuu</segment>
+			<segment bytes="728160" number="17">YiWmWpBmIsZwAaSyMkKgSuHs-1549486440748@nyuu</segment>
+			<segment bytes="728160" number="18">FoSvAzFkLvOdKhDyRkIxCwDr-1549486440869@nyuu</segment>
+			<segment bytes="728160" number="19">MzGtBfOxDwGkBlJmDrIeJaPv-1549486441954@nyuu</segment>
+			<segment bytes="728160" number="20">SpAqGeQyCfQbKyKoGcTpHkTc-1549486444758@nyuu</segment>
+			<segment bytes="728160" number="21">ZdXrUsShBbMpXhTdZgMdGbZg-1549486444762@nyuu</segment>
+			<segment bytes="728160" number="22">QxIfRnGiCbFdViYcPfGsJiGr-1549486444789@nyuu</segment>
+			<segment bytes="728160" number="23">SjKsEnEsOxEzSaDyOdTpEjYz-1549486446473@nyuu</segment>
+			<segment bytes="728160" number="24">ZlOvAuClYqCtRcQqQpHvFoWk-1549486446815@nyuu</segment>
+			<segment bytes="728160" number="25">DlGcCnMhMoXaInKzVpBlGqIr-1549486447071@nyuu</segment>
+			<segment bytes="728160" number="26">BsLhPsAdCyImQhZmGoPkZlSt-1549486447969@nyuu</segment>
+			<segment bytes="728160" number="27">IvWrSfOiBpRwEuTuAwWySsVy-1549486448664@nyuu</segment>
+			<segment bytes="728160" number="28">IvWcIhPzZtGjXkMlJfPuRzTd-1549486449010@nyuu</segment>
+			<segment bytes="728160" number="29">QgFsYpByAdZpNmBoWfQxLiLy-1549486449690@nyuu</segment>
+			<segment bytes="728160" number="30">UcFrMnRrZpCzAfOdJlRfGsRs-1549486450686@nyuu</segment>
+			<segment bytes="728160" number="31">VaEuXbJlPjGuXyGoAgNhZaKz-1549486450945@nyuu</segment>
+			<segment bytes="728160" number="32">UiYoRiPcVtDyZnNsPsNlPwJz-1549486451306@nyuu</segment>
+			<segment bytes="728160" number="33">IlWdMtXdAhVkZvYgCuOnYqQz-1549486452567@nyuu</segment>
+			<segment bytes="728160" number="34">SnIyEkZtXrMwNnQoZlXpWfLy-1549486452851@nyuu</segment>
+			<segment bytes="728160" number="35">KyBgXbZqQmOqOlPpLoAtCnHw-1549486453259@nyuu</segment>
+			<segment bytes="728160" number="36">AaOhWwDjOdToGkKqRcAgBqAq-1549486455510@nyuu</segment>
+			<segment bytes="728160" number="37">NrFsMjTvJpXoBvLeWaHhJuNq-1549486455548@nyuu</segment>
+			<segment bytes="728160" number="38">ObScYoDyIiQwDzGgSiBrZtEf-1549486455572@nyuu</segment>
+			<segment bytes="728160" number="39">BmHcSdHyJyIrTfFfOzQgCuYv-1549486457213@nyuu</segment>
+			<segment bytes="728160" number="40">ErBqCmTjVoLzKhTeIuUkEuUr-1549486457705@nyuu</segment>
+			<segment bytes="728160" number="41">WeZoHnUaPgJsJaVmVhTbDuKh-1549486457716@nyuu</segment>
+			<segment bytes="728160" number="42">LoJlWgWyYeZuAjDuOcHlYhTa-1549486458503@nyuu</segment>
+			<segment bytes="728160" number="43">QvQvZlCkEpGqBnPlCbCbEnEf-1549486459610@nyuu</segment>
+			<segment bytes="728160" number="44">FeSdOeSvXyVzEwBaXrWlBmRa-1549486459789@nyuu</segment>
+			<segment bytes="728160" number="45">GlZtUtOhEjZuYkDwMcKzSvRp-1549486460149@nyuu</segment>
+			<segment bytes="728160" number="46">RaEuHsYvCbJvFkKnMwCaXlVc-1549486461196@nyuu</segment>
+			<segment bytes="728160" number="47">HbBuRgJdKaRoZoKhMsUmBnEx-1549486461679@nyuu</segment>
+			<segment bytes="728160" number="48">KkOvEzCeEpQvBaYfXbKeGxEk-1549486462276@nyuu</segment>
+			<segment bytes="199859" number="49">MzZqLcScMqCsWbEfOdRpWwAt-1549486462610@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1549486479" subject="reftestnzb chinese chars in resulting file 2b5683434096 [03/10] - &quot;chinese-chars.par2&quot; yEnc (1/1) 40656">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="41448" number="1">LnRlNyAyCoIpQjCmFuAzAtEl-1549486479390@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1549486463" subject="reftestnzb chinese chars in resulting file 2b5683434096 [02/10] - &quot;chinese-chars.part2.rar&quot; yEnc (1/25) 17826164">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728152" number="1">AgViZpUiHpBlAdGbSeVyQzTz-1549486463705@nyuu</segment>
+			<segment bytes="728155" number="2">IsYeQuRxAkVaIfXpCyMnIxPj-1549486464441@nyuu</segment>
+			<segment bytes="728156" number="3">SoMpJpRrEaGuGiCtNhUhVpCo-1549486464832@nyuu</segment>
+			<segment bytes="728156" number="4">BkNvJwLvTsEgJqAtPxLcZiFk-1549486465816@nyuu</segment>
+			<segment bytes="728156" number="5">SjIvSuYwLcWhKxLlTiGtKhJr-1549486466021@nyuu</segment>
+			<segment bytes="728156" number="6">QtYyNsWeRkSxDsFdHaNvOxOm-1549486466268@nyuu</segment>
+			<segment bytes="728156" number="7">CpMgFbVdPeJqKgYvIeEnFbQz-1549486467331@nyuu</segment>
+			<segment bytes="728156" number="8">EgHmYqMhPvKcEvRbFnDrFhBu-1549486467709@nyuu</segment>
+			<segment bytes="728156" number="9">JiDwUxUjQdNbFfUeMrHcEeBh-1549486468511@nyuu</segment>
+			<segment bytes="728158" number="10">QsTmZuTgTnNkYcDkOqCiDvWs-1549486468913@nyuu</segment>
+			<segment bytes="728158" number="11">TwBkDuSnIrQzJmLlRpXuQmNp-1549486469535@nyuu</segment>
+			<segment bytes="728158" number="12">PgAdFcVjJkCyRyXxJoNxDqCd-1549486470437@nyuu</segment>
+			<segment bytes="728158" number="13">HpRxTjPbKrKyXhBxHlOrUpPk-1549486470833@nyuu</segment>
+			<segment bytes="728159" number="14">BnCtFdWlGcMsGzKlViHtPpEa-1549486471122@nyuu</segment>
+			<segment bytes="728160" number="15">QkAkAsOeDsSiIcAsLsFrXtGa-1549486472219@nyuu</segment>
+			<segment bytes="728160" number="16">NkYmGfNiCaEnJkAyHcVbVeTn-1549486472637@nyuu</segment>
+			<segment bytes="728160" number="17">ZeMlBlZgRmQhEpZiVeApMqCt-1549486472940@nyuu</segment>
+			<segment bytes="728160" number="18">WdMxBkTyYwAnDpCuYnEyEgZa-1549486474122@nyuu</segment>
+			<segment bytes="728160" number="19">LrQdNrQqLhMfFsTlVcFmBqIa-1549486474334@nyuu</segment>
+			<segment bytes="728160" number="20">RoMqXwIiZzCwHgRaTgQbTpUg-1549486475112@nyuu</segment>
+			<segment bytes="728160" number="21">DpPkXkHhTbOmZhWbRzQcKgUt-1549486477017@nyuu</segment>
+			<segment bytes="728160" number="22">QeTjKjSjCoNtJlHtRwUcQkIk-1549486477027@nyuu</segment>
+			<segment bytes="728160" number="23">MiHxReTrGpGdIeDtUiDaMeYx-1549486477371@nyuu</segment>
+			<segment bytes="728160" number="24">YfYbWjGqQsDcJgRyImLaTwIn-1549486478928@nyuu</segment>
+			<segment bytes="632874" number="25">NaVbNjXpIuNtEhAtZpQgGzEo-1549486479146@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1549486480" subject="reftestnzb chinese chars in resulting file 2b5683434096 [04/10] - &quot;chinese-chars.vol000+02.par2&quot; yEnc (1/1) 133804">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="136075" number="1">WbTzRzAoUvUaOkShSiQmCtNp-1549486480499@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1549486480" subject="reftestnzb chinese chars in resulting file 2b5683434096 [05/10] - &quot;chinese-chars.vol002+04.par2&quot; yEnc (1/1) 226952">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="230687" number="1">RzEsLcZaArFaSdYbSjHtLgCw-1549486480990@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1549486481" subject="reftestnzb chinese chars in resulting file 2b5683434096 [06/10] - &quot;chinese-chars.vol006+08.par2&quot; yEnc (1/1) 372692">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="378734" number="1">RuFyUmTtIoEjIwSeUsYkUfGk-1549486481367@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1549486481" subject="reftestnzb chinese chars in resulting file 2b5683434096 [07/10] - &quot;chinese-chars.vol014+16.par2&quot; yEnc (1/1) 623616">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="633611" number="1">CkZcDePjIwZhBmZoBsVxCbBd-1549486481986@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1549486482" subject="reftestnzb chinese chars in resulting file 2b5683434096 [08/10] - &quot;chinese-chars.vol030+32.par2&quot; yEnc (1/2) 1084908">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728254" number="1">TuVoVzWgNaDgLsQyGwDhRdMf-1549486482109@nyuu</segment>
+			<segment bytes="374084" number="2">VzPxRpQqYiDlYtVxVoJkToUm-1549486482315@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1549486482" subject="reftestnzb chinese chars in resulting file 2b5683434096 [09/10] - &quot;chinese-chars.vol062+64.par2&quot; yEnc (1/3) 1966936">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728260" number="1">AcCiXsRrMgLqXtMfSjEfAzQu-1549486482450@nyuu</segment>
+			<segment bytes="728282" number="2">EmHhAnBgAtJkFqMtKqEoZmLt-1549486482669@nyuu</segment>
+			<segment bytes="541903" number="3">SwJcGsDzSgRwOoPoVxQzRhXk-1549486483085@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1549486484" subject="reftestnzb chinese chars in resulting file 2b5683434096 [10/10] - &quot;chinese-chars.vol126+74.par2&quot; yEnc (1/4) 2229896">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728282" number="1">AqEgAhGyZaZfGwSvJrRsPlRc-1549486484288@nyuu</segment>
+			<segment bytes="728286" number="2">BzVhMoCbYeJfUgUnBoQeTkBm-1549486484392@nyuu</segment>
+			<segment bytes="728289" number="3">ByDpGoWiDxLxHvLpXzXrAtHm-1549486484441@nyuu</segment>
+			<segment bytes="80921" number="4">YjEdMcHcHhNpFlYuAwFcYuBf-1549486485752@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
