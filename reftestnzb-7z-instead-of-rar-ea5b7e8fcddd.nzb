@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561142941" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [01/14] - &quot;blabla.7z.001&quot; yEnc (1/30) 20971520">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739844" number="1">CxFdWgEtPmUzRmCvNaMgLnUg-1561142941799@nyuu</segment>
+			<segment bytes="739423" number="2">OuQeWmOeWxHhDhWiMwKqNuQc-1561142941802@nyuu</segment>
+			<segment bytes="739586" number="3">UcOkQmDrOaKbSkTdBoYgGkHh-1561142941805@nyuu</segment>
+			<segment bytes="739707" number="4">UvXhWnWiKjFyKtMxCtYqSfKz-1561142942598@nyuu</segment>
+			<segment bytes="739766" number="5">CaOeVdVbXjDqXvZsVmQyYgBh-1561142942600@nyuu</segment>
+			<segment bytes="739660" number="6">QnSwDcVuXyBtKaDrPoUzRlUi-1561142942649@nyuu</segment>
+			<segment bytes="739466" number="7">YaMeLfJaNeSmYvMhHfWhFaJe-1561142944868@nyuu</segment>
+			<segment bytes="739666" number="8">TrYnFjAwRuPvIoIxFlKqKtZu-1561142944901@nyuu</segment>
+			<segment bytes="739637" number="9">RmVsKjJlRvZsBsFqRkTcOjQz-1561142944977@nyuu</segment>
+			<segment bytes="739621" number="10">DpEjOtVvUyIlBiWhGyQxMlFn-1561142946701@nyuu</segment>
+			<segment bytes="739757" number="11">MdMaZqRdPlKzUtFbXmWtYyGu-1561142946963@nyuu</segment>
+			<segment bytes="739467" number="12">VqWfJkPdRdExTsUmKmAzKrFo-1561142947402@nyuu</segment>
+			<segment bytes="739572" number="13">KbNkAiNoJuNkQwSzCfHhFrYs-1561142948912@nyuu</segment>
+			<segment bytes="739709" number="14">ZhZsVdTbRvDxYkEnHaTqNeDi-1561142950054@nyuu</segment>
+			<segment bytes="739576" number="15">SnVqPeSgLhZeCbSbKrHnFiQk-1561142950631@nyuu</segment>
+			<segment bytes="739586" number="16">YhSaNsDyQyOzVpPxPyVfRcYu-1561142950812@nyuu</segment>
+			<segment bytes="739774" number="17">JiNnAnYwDkDqYsEhZlXiPoBb-1561142952261@nyuu</segment>
+			<segment bytes="739655" number="18">JsHaWvJaLgJuVxPhHcHlRiBs-1561142953418@nyuu</segment>
+			<segment bytes="739686" number="19">OxOkJnVlFqNxCkTbKmGmTcSd-1561142953438@nyuu</segment>
+			<segment bytes="739617" number="20">CbIdReDcEjZvFdHiBuUgVhLs-1561142954266@nyuu</segment>
+			<segment bytes="739760" number="21">AsDtOgJcVaZnEjUjHxZpFdQs-1561142955614@nyuu</segment>
+			<segment bytes="739715" number="22">VpNqMiZxRnCuUaCkNpEoSrCq-1561142955646@nyuu</segment>
+			<segment bytes="739561" number="23">UwBvBiDvEpLxOrJcBpLfFeLr-1561142956652@nyuu</segment>
+			<segment bytes="739524" number="24">LtRrYmQtWbOwMjLoRcRwWpFd-1561142957600@nyuu</segment>
+			<segment bytes="739652" number="25">KiRcPfXnUsRvDmIhQeZcSfPo-1561142957603@nyuu</segment>
+			<segment bytes="739462" number="26">CwNjVcWhCpGwTfMwRaHgKtJd-1561142958072@nyuu</segment>
+			<segment bytes="739694" number="27">PcHgKrZuBhAkNsZyLqHlJqPl-1561142958674@nyuu</segment>
+			<segment bytes="739583" number="28">PeDnSoOgDdLvYzVkTcRbRpYu-1561142959404@nyuu</segment>
+			<segment bytes="739591" number="29">AqPhLcMcZwQlZiDlXjSxJmGv-1561142960228@nyuu</segment>
+			<segment bytes="190310" number="30">DbEdKgNlEhVaLwCfWeZpCjUy-1561142960711@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561142961" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [02/14] - &quot;blabla.7z.002&quot; yEnc (1/30) 20971520">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739714" number="1">SoPlTxPqPkOoSqKoJbSlMhOl-1561142961518@nyuu</segment>
+			<segment bytes="739538" number="2">QjAkOePtIzUsZhDgAwNvRqPv-1561142961839@nyuu</segment>
+			<segment bytes="739703" number="3">XxMdIuZpBoDlDmZaXeMkXnPb-1561142962235@nyuu</segment>
+			<segment bytes="739495" number="4">EgEnNbHoTfLjPiErSrXoGfAa-1561142963346@nyuu</segment>
+			<segment bytes="739651" number="5">QfHbOyKyIyDnZhSqMcWwQcFy-1561142963543@nyuu</segment>
+			<segment bytes="739517" number="6">BuXiUgDeRvIpClArSyDxSlYf-1561142963900@nyuu</segment>
+			<segment bytes="739767" number="7">StCiZbUdTrKnLzInDhFoDoQr-1561142964150@nyuu</segment>
+			<segment bytes="739813" number="8">QwKsFtMvTpLjHwIrUwPbQsUy-1561142965413@nyuu</segment>
+			<segment bytes="739638" number="9">NqNiOzKeHxOcGsNkKtErVrPa-1561142965538@nyuu</segment>
+			<segment bytes="739633" number="10">GgGtCgIhXvMxVlHdEiJeYlQl-1561142965583@nyuu</segment>
+			<segment bytes="739739" number="11">OtHvFmNyFbUdHtBxKnJpHsTz-1561142966761@nyuu</segment>
+			<segment bytes="739580" number="12">HrNsQvJkVzNvUcGjBbEhIiJi-1561142967180@nyuu</segment>
+			<segment bytes="739743" number="13">HfEbTqAzXzUkQuXgYiZzPiUm-1561142967577@nyuu</segment>
+			<segment bytes="739495" number="14">EyQoRhCkUdEeNyPuPeIfIbCi-1561142968382@nyuu</segment>
+			<segment bytes="739761" number="15">AnWePtXyDmKiGmDpVjJmDuEo-1561142968605@nyuu</segment>
+			<segment bytes="739584" number="16">VcQkKbRoXgDrTkIlRaZvAcMg-1561142969050@nyuu</segment>
+			<segment bytes="739769" number="17">OiUiLoXiBcPiLeOnFpVjUqQn-1561142969461@nyuu</segment>
+			<segment bytes="739334" number="18">GrQeGcFoFwUaOoOpCqTeZrEc-1561142970193@nyuu</segment>
+			<segment bytes="739534" number="19">CbOoEhZyDlOgWgTlUxOiGsXq-1561142970607@nyuu</segment>
+			<segment bytes="739634" number="20">ZqDiVaNlOrMbXdOaWpLrYwOh-1561142970764@nyuu</segment>
+			<segment bytes="739605" number="21">PfBsSuOtNdItYaZlMwPwJuGj-1561142971173@nyuu</segment>
+			<segment bytes="739689" number="22">PvPiRkTaZpAqJdHiJtSoWfKh-1561142972622@nyuu</segment>
+			<segment bytes="739763" number="23">CaZiVuMcYlNbYuAlHoSpLxMi-1561142973177@nyuu</segment>
+			<segment bytes="739779" number="24">KlAzFyEzSyChKqLiTiPvVoFz-1561142974336@nyuu</segment>
+			<segment bytes="739808" number="25">WmBtPcWnRjAnTgDeQsXtUvUr-1561142975084@nyuu</segment>
+			<segment bytes="739636" number="26">SuRwDkJoAuHhWoFwSbNpMtBz-1561142975367@nyuu</segment>
+			<segment bytes="739713" number="27">UoEpYqQhFoZvMqBoLwDsTlLn-1561142975392@nyuu</segment>
+			<segment bytes="739781" number="28">WuKyIfYwBcJqLrEdUtYdAmDm-1561142975943@nyuu</segment>
+			<segment bytes="739775" number="29">XgIvFeLkQnEgVhVaZdOaLuGz-1561142976304@nyuu</segment>
+			<segment bytes="190281" number="30">HtKpMdGgNkXtFoPjAdHgDfMy-1561142977868@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561142978" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [03/14] - &quot;blabla.7z.003&quot; yEnc (1/30) 20971520">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739699" number="1">KwNwMmAfXxLyLgSvBdDaNgAb-1561142978213@nyuu</segment>
+			<segment bytes="739779" number="2">MkRkWkOgSaLxMrNzPnSqLcXa-1561142978338@nyuu</segment>
+			<segment bytes="739687" number="3">YvWkEpQfWvSuCzZhNwDdOgQa-1561142978644@nyuu</segment>
+			<segment bytes="739421" number="4">ZiKtRcLjOfKwEtMnLoYeGxRl-1561142979175@nyuu</segment>
+			<segment bytes="739710" number="5">QyXrBwLhCqSsTaKfWhRgWrZf-1561142979336@nyuu</segment>
+			<segment bytes="739757" number="6">AkEsFxVkNnPvEmKeNiTuRwGf-1561142980316@nyuu</segment>
+			<segment bytes="739711" number="7">HjYfAfWtZcGfBmAlJdXkWyKo-1561142980527@nyuu</segment>
+			<segment bytes="739694" number="8">WsXfUiBkJiOsEoSpObDdSyEf-1561142980647@nyuu</segment>
+			<segment bytes="739462" number="9">BnUwJuMaUgBrUqMeZvEdBiDq-1561142981077@nyuu</segment>
+			<segment bytes="739770" number="10">XeQgKoTcKiFkOyIpCwZuHxWg-1561142981871@nyuu</segment>
+			<segment bytes="739552" number="11">IpQxQeDsIdUaUwBxTtUkTxQy-1561142982553@nyuu</segment>
+			<segment bytes="739648" number="12">EzOuCsVsAdNcEpYwJzCuDqQc-1561142982614@nyuu</segment>
+			<segment bytes="739738" number="13">XcPjUlXjMqDgIcSmRvOyBpVo-1561142982924@nyuu</segment>
+			<segment bytes="739548" number="14">CrRtExNlQqEkLdQcPwGhSjXu-1561142983507@nyuu</segment>
+			<segment bytes="739789" number="15">SjKiLdQxVsYoTjKxNoVuBfQg-1561142984466@nyuu</segment>
+			<segment bytes="739640" number="16">AoNwOjEyKlVdXgTsZiJkKyGo-1561142984781@nyuu</segment>
+			<segment bytes="739552" number="17">HfBoJxWkTkJwBoTsEsFpGhOa-1561142985407@nyuu</segment>
+			<segment bytes="739435" number="18">KrLbZwPvDnUhMfCqYuCeYqIc-1561142985562@nyuu</segment>
+			<segment bytes="739665" number="19">ClCrXuNaXjUqSkGlHjNtEfHt-1561142985797@nyuu</segment>
+			<segment bytes="739614" number="20">DgNhAnOdCgZhGlRhMpUwGfOq-1561142986837@nyuu</segment>
+			<segment bytes="739725" number="21">QjEsZwLqOkThWvDeMxNdKpJj-1561142987185@nyuu</segment>
+			<segment bytes="739621" number="22">LjXfPiZzWfLdCvJdGwBiVaSj-1561142987348@nyuu</segment>
+			<segment bytes="739712" number="23">RkWvQfMcIsMwBrZdNhApOsCv-1561142987594@nyuu</segment>
+			<segment bytes="739526" number="24">JkYyAmAzUnJuVrAzHoBmCmHa-1561142988532@nyuu</segment>
+			<segment bytes="739658" number="25">QfWhInRmWhCnUdXwOiQfUiXt-1561142988566@nyuu</segment>
+			<segment bytes="739828" number="26">CwEoGtYkAmYzEbOxZfEiRnBo-1561142988973@nyuu</segment>
+			<segment bytes="739768" number="27">UyWaSgWiOlCoSlGoRfYnBhNb-1561142989976@nyuu</segment>
+			<segment bytes="739384" number="28">QfPoOuRwHoQeKxZaEnLwIrKh-1561142990441@nyuu</segment>
+			<segment bytes="739668" number="29">WjEeLtKbJsScRmOiQsGiQkLd-1561142990523@nyuu</segment>
+			<segment bytes="190348" number="30">QxLxNlWgLjIlWxKcYiTrJfVo-1561142991215@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561142992" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [04/14] - &quot;blabla.7z.004&quot; yEnc (1/30) 20971520">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739802" number="1">NzIeNcCsMeFuCoCzCsHzMkJj-1561142992032@nyuu</segment>
+			<segment bytes="739665" number="2">OpZyGrUkTrFuOkNdOkNzWkHk-1561142992086@nyuu</segment>
+			<segment bytes="739524" number="3">LvKwPuYeTxWfIkZzMpDvBwKx-1561142992541@nyuu</segment>
+			<segment bytes="739581" number="4">OvJjNdWiDoQgSsAvCwCdLwOs-1561142993271@nyuu</segment>
+			<segment bytes="739736" number="5">MbKbWwPoEqUkEwSfUqIwCkGx-1561142993581@nyuu</segment>
+			<segment bytes="739874" number="6">KpSnLwInBzWcAlNwUfLdIfPk-1561142993649@nyuu</segment>
+			<segment bytes="739602" number="7">ZyArCcYkGuQdAiDkOrUgDoPx-1561142994048@nyuu</segment>
+			<segment bytes="739557" number="8">LoVuUyZxElCqLyVaLyFoGfLu-1561142995100@nyuu</segment>
+			<segment bytes="739687" number="9">PaYrUaMuXxXrDiJiKqNlVfDf-1561142995336@nyuu</segment>
+			<segment bytes="739700" number="10">OmWlMjMaKtBbDjCvArYoReFn-1561142995462@nyuu</segment>
+			<segment bytes="739708" number="11">ZrZpGrJtNmClSdAyAaMdBaCh-1561142996134@nyuu</segment>
+			<segment bytes="739489" number="12">AyIeRcQnDrBvVaOzLmNmKbUo-1561142996556@nyuu</segment>
+			<segment bytes="739574" number="13">ZkLxBsUjGyBpNfGuPeUoXmZp-1561142996750@nyuu</segment>
+			<segment bytes="739439" number="14">YkZrYpSsBlOmIeRwRbCsNxSd-1561142997620@nyuu</segment>
+			<segment bytes="739511" number="15">JoRwSrFkOpMoOrFeVyHpBkVg-1561142997642@nyuu</segment>
+			<segment bytes="739614" number="16">AhKuDtUsLgNjFnRiZpXpLxFx-1561142998249@nyuu</segment>
+			<segment bytes="739398" number="17">LkTzUpKmFfJeMqBlOjKkWhVs-1561142998944@nyuu</segment>
+			<segment bytes="739632" number="18">BvUyMhUaElVoEoZuItBvAqIp-1561142999148@nyuu</segment>
+			<segment bytes="739541" number="19">EbObXhSzZiHuIgCvUwBlPvXh-1561142999503@nyuu</segment>
+			<segment bytes="739663" number="20">WjRqNjCaUzTrSoXtJcSiNbNr-1561143000676@nyuu</segment>
+			<segment bytes="739524" number="21">HnEdGqExVfAfRkZoQuWrQbFp-1561143003241@nyuu</segment>
+			<segment bytes="739666" number="22">AoLyGrTcCsPzBaZjZmReRwXv-1561143003243@nyuu</segment>
+			<segment bytes="739631" number="23">FqIwKdTrRlPfMiXrLnAfYhSk-1561143005433@nyuu</segment>
+			<segment bytes="739539" number="24">LjHyKvTcIaBzXqFhYhEsUrFs-1561143005707@nyuu</segment>
+			<segment bytes="739593" number="25">XxBlJzLrWiMhJmBrBiBeNrYq-1561143006142@nyuu</segment>
+			<segment bytes="739550" number="26">EkSiGeNyStIqKnRjSjTiCbTy-1561143007390@nyuu</segment>
+			<segment bytes="739382" number="27">HlGmZyAfFsQiNmEwBiJcNzSs-1561143007675@nyuu</segment>
+			<segment bytes="739671" number="28">EoUeUlMcQbShLbZoMuDwLmIi-1561143007735@nyuu</segment>
+			<segment bytes="739546" number="29">HyGvYrCbDlZbKgQvLiJnRnLt-1561143008218@nyuu</segment>
+			<segment bytes="190283" number="30">PbAzOiSjCvRzAxDrOeGmGgOg-1561143009734@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561143009" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [05/14] - &quot;blabla.7z.005&quot; yEnc (1/30) 20971520">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739674" number="1">NuCbNoPyHaEjZjOnSpSdYjBz-1561143009751@nyuu</segment>
+			<segment bytes="739812" number="2">QfXoJaFdOjYqDfUrXqYtBkNf-1561143011544@nyuu</segment>
+			<segment bytes="739745" number="3">KfHeKfXeOkQcErVcGmVvFvBw-1561143013494@nyuu</segment>
+			<segment bytes="739828" number="4">YwBdGnMuFjQgAlXyJhBwAeUf-1561143013537@nyuu</segment>
+			<segment bytes="739529" number="5">YdNwFfKeUyXhMaQnEqKgHjYx-1561143014091@nyuu</segment>
+			<segment bytes="739635" number="6">AaDfXhQdAiAmLxNqErZxZzKb-1561143014428@nyuu</segment>
+			<segment bytes="739718" number="7">TdKaGaPxRvJbLcFbHdRuBwRk-1561143015111@nyuu</segment>
+			<segment bytes="739507" number="8">IwCmMlCdSgFkVtNyTtXgFwGp-1561143015648@nyuu</segment>
+			<segment bytes="739530" number="9">BsNiKnVvIuVlScUhLfRgIaEh-1561143016907@nyuu</segment>
+			<segment bytes="739603" number="10">IsWxDcEkQlBqOwDpAlQiWoIc-1561143018479@nyuu</segment>
+			<segment bytes="739651" number="11">WjKhFbHgGoFyAuUtNbHuFuZi-1561143018836@nyuu</segment>
+			<segment bytes="739671" number="12">BmPmOoErIuUwOyRzQmAjGkDa-1561143019574@nyuu</segment>
+			<segment bytes="739705" number="13">MlSxZxYvLbLjWcEiUhVpRnMz-1561143019932@nyuu</segment>
+			<segment bytes="739552" number="14">NqCeXgNiOvOoUrJiXuEzGaCs-1561143021015@nyuu</segment>
+			<segment bytes="739653" number="15">IdMnHnTtWdPwVoAtByAkQvGh-1561143021760@nyuu</segment>
+			<segment bytes="739576" number="16">MfUwYxNzRzUiEqZwZbFhLtEi-1561143022018@nyuu</segment>
+			<segment bytes="739518" number="17">CnTpLaFsGfWgHzErGwWkJhPb-1561143022583@nyuu</segment>
+			<segment bytes="739612" number="18">TyWaEkGwYkTjXbIoFsPdMcYt-1561143022626@nyuu</segment>
+			<segment bytes="739637" number="19">EmJkMbJgOyWoKtTyFcGgSxTv-1561143023896@nyuu</segment>
+			<segment bytes="739673" number="20">UqFoEcPvMiFeFjSoMyAaXcNn-1561143024201@nyuu</segment>
+			<segment bytes="739498" number="21">JoErOdUsAgCcDpFgZnNoUhSz-1561143024742@nyuu</segment>
+			<segment bytes="739791" number="22">XqVnSoShJcMcFyMiIvAeUzDa-1561143024921@nyuu</segment>
+			<segment bytes="739693" number="23">JzAqCsUySkGrAdKxMpHqDrHw-1561143025698@nyuu</segment>
+			<segment bytes="739579" number="24">NeUrHoZwOyCnJiEbFoMqHmBv-1561143026322@nyuu</segment>
+			<segment bytes="739722" number="25">YkZrJkBiEpYxEuInLsJmYhHw-1561143026513@nyuu</segment>
+			<segment bytes="739665" number="26">ZnDbOvIdBfOhOsCzXaBwJfPt-1561143027908@nyuu</segment>
+			<segment bytes="739775" number="27">JoEkPdKbNsWfAwShErPgOwZz-1561143027984@nyuu</segment>
+			<segment bytes="739611" number="28">TcGmOiZpAvWeXyEjJmXrNmPv-1561143028023@nyuu</segment>
+			<segment bytes="739616" number="29">BlGhNiRvKhHzEnOhFiWwAdRf-1561143028866@nyuu</segment>
+			<segment bytes="190402" number="30">CuWqJlHzJaWkWkDsOqGaZfGw-1561143029084@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561143030" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [06/14] - &quot;blabla.7z.006&quot; yEnc (1/1) 5704">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="6038" number="1">TcFaZyUfCkXxTuBwFqByNvOk-1561143030198@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561143030" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [07/14] - &quot;blabla.par2&quot; yEnc (1/1) 41588">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="43064" number="1">EuRvRuInQxQoTeFpJlTwOdVw-1561143030327@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561143031" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [09/14] - &quot;blabla.vol002+04.par2&quot; yEnc (1/1) 334868">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="345679" number="1">WsYnAaQeLoHtZrVaXcWeBeHw-1561143031652@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561143030" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [08/14] - &quot;blabla.vol000+02.par2&quot; yEnc (1/1) 188228">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="194344" number="1">WuRhZzYpRwEjTuHiMfQdMoDl-1561143030580@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561143031" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [10/14] - &quot;blabla.vol006+08.par2&quot; yEnc (1/1) 586660">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="605392" number="1">TgNmOzJkWsFkNkYfAaHcHgHt-1561143031654@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561143031" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [11/14] - &quot;blabla.vol014+16.par2&quot; yEnc (1/2) 1048756">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739609" number="1">JlMzSoPqUuWdAlRkCbNaShWw-1561143031690@nyuu</segment>
+			<segment bytes="342591" number="2">FfKxWaDgYbRrLcVcMuPzNhCj-1561143031963@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561143032" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [12/14] - &quot;blabla.vol030+32.par2&quot; yEnc (1/3) 1931460">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739890" number="1">TnOvZiKqZvOeTiUbVmZmZfFj-1561143032038@nyuu</segment>
+			<segment bytes="739664" number="2">AcViIyMiBxLsApXdSjMgHwKx-1561143032680@nyuu</segment>
+			<segment bytes="513775" number="3">WxAxGeYqSiIgWuFvFoSlEvBo-1561143033363@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561143033" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [13/14] - &quot;blabla.vol062+64.par2&quot; yEnc (1/6) 3655380">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739758" number="1">EnXiZkSrUtJpGkVuWyDtTjVg-1561143033471@nyuu</segment>
+			<segment bytes="739561" number="2">UaDkPvKbIcXuWsOlAnNhIjUa-1561143034369@nyuu</segment>
+			<segment bytes="739776" number="3">FcSqPfHdSyWhJmZoBeHdOaOb-1561143034507@nyuu</segment>
+			<segment bytes="739612" number="4">EaFbGqCwUmZmWjJpOnGsCiGy-1561143034799@nyuu</segment>
+			<segment bytes="739807" number="5">IgCuRyOqVzAkFnPmPbClBnAm-1561143035280@nyuu</segment>
+			<segment bytes="73783" number="6">BmMiIyShWyPaMuZtYrPrWlTj-1561143035864@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561143036" subject="reftestnzb 7z instead of rar ea5b7e8fcddd [14/14] - &quot;blabla.vol126+74.par2&quot; yEnc (1/6) 4181140">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739574" number="1">ZjUvErCgUiXsYySsEgZqIbZo-1561143036274@nyuu</segment>
+			<segment bytes="739669" number="2">LyOfYuYsLkJoIgTnRzMsRqMf-1561143037230@nyuu</segment>
+			<segment bytes="739558" number="3">PiKvPmLmWmSpVaZnEjDpEcYr-1561143037305@nyuu</segment>
+			<segment bytes="739539" number="4">TeZaLkZzLuNmByAlWuNdIrRq-1561143037642@nyuu</segment>
+			<segment bytes="739694" number="5">MfJdFcTxLkVaPzCyYdGbSgCd-1561143037669@nyuu</segment>
+			<segment bytes="616289" number="6">YfLvMyNkPuDfCmZgQcRmKlOf-1561143038977@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
