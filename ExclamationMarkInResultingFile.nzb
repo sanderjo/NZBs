@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561129811" subject="reftestnzb exclamation mark in resulting file 13550f3f27b3 [01/11] - &quot;blabla.part1.rar&quot; yEnc (1/15) 10485760">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728146" number="1">RuXhJrIaCcOoXzNgNqBhYvWx-1561129811036@nyuu</segment>
+			<segment bytes="728148" number="2">ItZfBlImJlRqPqScDeUeUlPv-1561129811039@nyuu</segment>
+			<segment bytes="728149" number="3">DsZgUmHjCgFkBgMxCwVuCxRr-1561129811040@nyuu</segment>
+			<segment bytes="728149" number="4">EvCqPaKvGcZaOeJfLgQqCpRi-1561129811107@nyuu</segment>
+			<segment bytes="728149" number="5">QjDyUlMkKbWiZnQgStMzJvUq-1561129811108@nyuu</segment>
+			<segment bytes="728149" number="6">TcMcBhGxGsIjQaItWjYdArCv-1561129811109@nyuu</segment>
+			<segment bytes="728149" number="7">MaAbLkRwVdNtXqLySbVhYnJu-1561129811832@nyuu</segment>
+			<segment bytes="728149" number="8">YrVeStZfVeLeSoZiVyEmXgVn-1561129811833@nyuu</segment>
+			<segment bytes="728149" number="9">TuQpHyUaNgBeCrObHaCqGvGp-1561129811839@nyuu</segment>
+			<segment bytes="728151" number="10">NtKxZzEoDmVqQxPpFvNpSyYj-1561129812389@nyuu</segment>
+			<segment bytes="728151" number="11">AuYyGdXzGxMtTkUcHjMiMbUf-1561129812390@nyuu</segment>
+			<segment bytes="728151" number="12">SqEeCpQkTwSxLeEqMfJnNbKk-1561129812391@nyuu</segment>
+			<segment bytes="728151" number="13">SmMlVhNsEdGjHiKsAuQsKkEv-1561129813004@nyuu</segment>
+			<segment bytes="728152" number="14">CxMwXmNbHeJpAtSsBvXtKbKe-1561129813005@nyuu</segment>
+			<segment bytes="457772" number="15">AzJsVdBbSfYjNtQmGrRhTsFv-1561129813006@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561129813" subject="reftestnzb exclamation mark in resulting file 13550f3f27b3 [02/11] - &quot;blabla.part2.rar&quot; yEnc (1/15) 10485760">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728145" number="1">VpSbHrUpPdIdRoIaQjFgZoFn-1561129813518@nyuu</segment>
+			<segment bytes="728148" number="2">ScLcEdEaRoHgZlSbWuYtDvHk-1561129813519@nyuu</segment>
+			<segment bytes="728149" number="3">VwKsGhRaMrIuEtPaQhTbApUv-1561129813520@nyuu</segment>
+			<segment bytes="728149" number="4">XdNeSjLaTnJqWuXqSsQiBuUr-1561129814029@nyuu</segment>
+			<segment bytes="728149" number="5">YiRyJiKuNbLcYyFaWnKxVlJc-1561129814030@nyuu</segment>
+			<segment bytes="728149" number="6">FyYsAzMwAwLqBcNvCoVpZiQe-1561129814030@nyuu</segment>
+			<segment bytes="728149" number="7">TeQiVnVzJxCnYfDvBuIyDhEm-1561129814538@nyuu</segment>
+			<segment bytes="728149" number="8">MrUrTtPpQpOzYlZtTtOpXiCe-1561129814539@nyuu</segment>
+			<segment bytes="728149" number="9">WnFiKoThNvAtXlPjHkBmKcUx-1561129814539@nyuu</segment>
+			<segment bytes="728151" number="10">OmVdTyVbRiSwLmUaTiRnCkVc-1561129815153@nyuu</segment>
+			<segment bytes="728151" number="11">JcLbCoHmWbSpOiKlPtEeZsOj-1561129815155@nyuu</segment>
+			<segment bytes="728151" number="12">NxBwIvExFzLmLmRySjIkXeRu-1561129815156@nyuu</segment>
+			<segment bytes="728151" number="13">BdDmUaLnIjTlFqUoJxNjQvTp-1561129815568@nyuu</segment>
+			<segment bytes="728152" number="14">HsLqWoWoBcMgYaXcFlNfCdXv-1561129815609@nyuu</segment>
+			<segment bytes="457771" number="15">LvBqDjAtZpGhDxMqBhGhEmFq-1561129815613@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561129817" subject="reftestnzb exclamation mark in resulting file 13550f3f27b3 [04/11] - &quot;blabla.par2&quot; yEnc (1/1) 40872">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="41667" number="1">NpRhOzFjGyGuGjEyPgWcLbJh-1561129817265@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561129815" subject="reftestnzb exclamation mark in resulting file 13550f3f27b3 [03/11] - &quot;blabla.part3.rar&quot; yEnc (1/8) 5243436">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728143" number="1">VlBkAbRoWiQeMpQvXyOjTnZh-1561129815966@nyuu</segment>
+			<segment bytes="728146" number="2">WbPrOqMeJzBuKhInHvMpPgFi-1561129816102@nyuu</segment>
+			<segment bytes="728147" number="3">OmIrFuZzJeEhSwBhPgHeQvKo-1561129816104@nyuu</segment>
+			<segment bytes="728147" number="4">JuPxLiKlPlWkKwZuLaYaNcKm-1561129816587@nyuu</segment>
+			<segment bytes="728147" number="5">FtKkSgSeFlXjZuQrLzPzHeIb-1561129816588@nyuu</segment>
+			<segment bytes="728147" number="6">BvXaWbMzDwZkCoTqWgBtFnCw-1561129816594@nyuu</segment>
+			<segment bytes="728147" number="7">GlKdSlFaMsJzIjBqOoOdLyVt-1561129817097@nyuu</segment>
+			<segment bytes="229529" number="8">PcCaSsQyRiObJtMsRsSwWrJa-1561129817250@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561129817" subject="reftestnzb exclamation mark in resulting file 13550f3f27b3 [05/11] - &quot;blabla.vol000+02.par2&quot; yEnc (1/1) 108012">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="109893" number="1">SvQhKeJrQeAqWeHxFpUtHgSg-1561129817519@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561129817" subject="reftestnzb exclamation mark in resulting file 13550f3f27b3 [06/11] - &quot;blabla.vol002+04.par2&quot; yEnc (1/1) 175152">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="178088" number="1">XzRkSdJvWnCiGyDgYsRwWjQe-1561129817817@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561129817" subject="reftestnzb exclamation mark in resulting file 13550f3f27b3 [07/11] - &quot;blabla.vol006+08.par2&quot; yEnc (1/1) 268660">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="273080" number="1">DnAwCwYoWeOcFmXjGoLyDzWz-1561129817818@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561129817" subject="reftestnzb exclamation mark in resulting file 13550f3f27b3 [08/11] - &quot;blabla.vol014+16.par2&quot; yEnc (1/1) 414904">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="421674" number="1">HmQzHlUsVhZwBdKqBbKtYnAv-1561129817972@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561129818" subject="reftestnzb exclamation mark in resulting file 13550f3f27b3 [09/11] - &quot;blabla.vol030+32.par2&quot; yEnc (1/1) 666620">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="677412" number="1">KvFuGxPySjTjRiUkJjFnBwCx-1561129818116@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561129818" subject="reftestnzb exclamation mark in resulting file 13550f3f27b3 [10/11] - &quot;blabla.vol062+64.par2&quot; yEnc (1/2) 1129280">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728351" number="1">JfCiFjNiEbJeMjDxQePxMwRk-1561129818151@nyuu</segment>
+			<segment bytes="419234" number="2">AyRzKhKpRiQmEaHoFdYzUtJn-1561129818279@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1561129818" subject="reftestnzb exclamation mark in resulting file 13550f3f27b3 [11/11] - &quot;blabla.vol126+74.par2&quot; yEnc (1/2) 1261120">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728361" number="1">IpUuNaBmPdWkEtCzFzNyKbCy-1561129818536@nyuu</segment>
+			<segment bytes="553173" number="2">RgOvAtAhHqJdDsToZtKeLpJh-1561129818537@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
