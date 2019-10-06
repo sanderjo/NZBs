@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348322" subject="reftestnzb German Umlauts ea6f31c1c39c [01/25] - &quot;german-umlauts-etc.part01.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728157" number="1">YkJaOlPmCyLoQuAeYrZgNiUl-1570348322152@nyuu</segment>
+			<segment bytes="728159" number="2">WcSuNeFhXgSiUrWqUnLtDcLp-1570348322155@nyuu</segment>
+			<segment bytes="728160" number="3">CvFnYyIkMyPrKqFrLvVnPpOf-1570348322157@nyuu</segment>
+			<segment bytes="728160" number="4">JgXuQjMjEmEyGnHmWvYsBzAb-1570348322275@nyuu</segment>
+			<segment bytes="728160" number="5">SlAiNnXtAkCiFsMxWuPgEqRm-1570348322277@nyuu</segment>
+			<segment bytes="728160" number="6">VwAcCvUxIgSyQiQnRlFpXdIx-1570348322283@nyuu</segment>
+			<segment bytes="728160" number="7">BdRcYaLoYgQeVdWuJuHqDiJp-1570348323870@nyuu</segment>
+			<segment bytes="728160" number="8">ZmItHsGyCwRyAyUsChJqWvOp-1570348323873@nyuu</segment>
+			<segment bytes="565941" number="9">HyXpGiLlKuSrHzHcVjJwTiDp-1570348323874@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348325" subject="reftestnzb German Umlauts ea6f31c1c39c [02/25] - &quot;german-umlauts-etc.part02.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">IlZrRxNkCxGoWvOlNbHxRyHy-1570348325507@nyuu</segment>
+			<segment bytes="728159" number="2">SjTuYuUvMfTyFkXwUnXdZnNz-1570348325508@nyuu</segment>
+			<segment bytes="728160" number="3">XpMpMrMyVaFeJyQeYqOqAbBd-1570348325508@nyuu</segment>
+			<segment bytes="728160" number="4">CoEpTlKgXiHhAaPmFuLuErCf-1570348326937@nyuu</segment>
+			<segment bytes="728160" number="5">WzMiHoKkMkHvInOrSuAfBkXw-1570348326940@nyuu</segment>
+			<segment bytes="728160" number="6">VlWwLzEkFmFyXzHkEhKgIlVd-1570348327023@nyuu</segment>
+			<segment bytes="728160" number="7">ZhOhHbSxShImFhFzFuTdAnNb-1570348328576@nyuu</segment>
+			<segment bytes="728160" number="8">ZyLgVmJbStMeVaKpMzHgPtAv-1570348328577@nyuu</segment>
+			<segment bytes="565940" number="9">StGrYzUmJpZwZwIiOjYrDpMq-1570348328638@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348330" subject="reftestnzb German Umlauts ea6f31c1c39c [03/25] - &quot;german-umlauts-etc.part03.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">PkTbDvFxBsGzElClUrUdOkWz-1570348330114@nyuu</segment>
+			<segment bytes="728159" number="2">ZoChNfFjPyAtTpXvFhYhKsUq-1570348330114@nyuu</segment>
+			<segment bytes="728160" number="3">LuObVzKaQjZgEfAgRyNcLuQy-1570348330246@nyuu</segment>
+			<segment bytes="728160" number="4">CcGnTeAiVyJwSaQxKhVyRaOw-1570348331647@nyuu</segment>
+			<segment bytes="728160" number="5">OiLgVlPaJjDrZsMmNdJtTkTy-1570348331739@nyuu</segment>
+			<segment bytes="728160" number="6">WyCzBpJbDbSfRiCjHaDiTrEd-1570348331830@nyuu</segment>
+			<segment bytes="728160" number="7">TjWuLzLdFyNzEzWpNkVcXjIe-1570348332879@nyuu</segment>
+			<segment bytes="728160" number="8">QtJnWhDbCjFiQkGjAvIiDqJz-1570348333383@nyuu</segment>
+			<segment bytes="565940" number="9">AmEuZdInQjStRxAzSsKoPtRk-1570348333604@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348333" subject="reftestnzb German Umlauts ea6f31c1c39c [04/25] - &quot;german-umlauts-etc.part04.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">AfYlJjMpNsYjVgJeOeQwZgRw-1570348333961@nyuu</segment>
+			<segment bytes="728159" number="2">MhQyXyFsFaRbViRnZnZfThCu-1570348334714@nyuu</segment>
+			<segment bytes="728160" number="3">UtIpTfOwDhKfNxRnZbIwIxUb-1570348334841@nyuu</segment>
+			<segment bytes="728160" number="4">KgWcDzDjDiRyPmEuMeGyFcMd-1570348335231@nyuu</segment>
+			<segment bytes="728160" number="5">PaZzJaTxNxWzWrTuElPuIkNn-1570348335985@nyuu</segment>
+			<segment bytes="728160" number="6">JjAuGxMoOvMnJvIfUjNeGfKi-1570348336173@nyuu</segment>
+			<segment bytes="728160" number="7">NmZyJvBnHqRzHsXwTzAdJtOg-1570348336338@nyuu</segment>
+			<segment bytes="728160" number="8">GrLuDxZtJoRzUlRaTiEyTrFo-1570348337018@nyuu</segment>
+			<segment bytes="565940" number="9">EhIrCbWdCtOsNrTcLbUuNnWm-1570348337771@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348338" subject="reftestnzb German Umlauts ea6f31c1c39c [05/25] - &quot;german-umlauts-etc.part05.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">AhGqXeSjVmLmAuTzEwNcBuMk-1570348338181@nyuu</segment>
+			<segment bytes="728159" number="2">XsZcXfTuFlNnCtYmHnBdIzMs-1570348338492@nyuu</segment>
+			<segment bytes="728160" number="3">ZdCiTfJmNrOqDbUtNiEvTfPk-1570348338935@nyuu</segment>
+			<segment bytes="728160" number="4">QiEeIjOpMfTkWyQoBgEeNxXc-1570348339424@nyuu</segment>
+			<segment bytes="728160" number="5">GwZuJxGmMoMkKfJuZwSzEeYr-1570348340023@nyuu</segment>
+			<segment bytes="728160" number="6">FhUfUtYmEqTnDfIgXeHfGvVu-1570348340025@nyuu</segment>
+			<segment bytes="728160" number="7">JbImFwZsTqTdDnQoKbAdKwWu-1570348340435@nyuu</segment>
+			<segment bytes="728160" number="8">KrDuSfTrNmTgZhYvUkJjDzZv-1570348341493@nyuu</segment>
+			<segment bytes="565940" number="9">IjQjElZtBiMfPfGeQgPkAtMf-1570348341868@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348341" subject="reftestnzb German Umlauts ea6f31c1c39c [06/25] - &quot;german-umlauts-etc.part06.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">FgVaSlGwTpIeGvOgTaAhUaKn-1570348341912@nyuu</segment>
+			<segment bytes="728159" number="2">DpLcVuFgGlMkCiGcJfXyCbGp-1570348342272@nyuu</segment>
+			<segment bytes="728160" number="3">PdIhGuWaMaPbNbQcAkIeWmDo-1570348343300@nyuu</segment>
+			<segment bytes="728160" number="4">OrZaGeOkLkDfWdSdNeBjUgWc-1570348343651@nyuu</segment>
+			<segment bytes="728160" number="5">OaYiDlOpJrBwJsJnLfUrUaEg-1570348343677@nyuu</segment>
+			<segment bytes="728160" number="6">RwRlQgMfMdJeHfEmRdFzIiBs-1570348344034@nyuu</segment>
+			<segment bytes="728160" number="7">CfZnNsLjBhOyBvAjHaAxLcKx-1570348344861@nyuu</segment>
+			<segment bytes="728160" number="8">ZjCwIqCgLrXhUmQyFkVnTsAs-1570348344952@nyuu</segment>
+			<segment bytes="565940" number="9">WpLyBrPoIzKzKxBbTtApQzBy-1570348345243@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348345" subject="reftestnzb German Umlauts ea6f31c1c39c [07/25] - &quot;german-umlauts-etc.part07.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">DhFfXrFdKjJbNkSsQsDeImFl-1570348345863@nyuu</segment>
+			<segment bytes="728159" number="2">JvWxRwOrWvGjMnNoIoQmCcTj-1570348346578@nyuu</segment>
+			<segment bytes="728160" number="3">ZxWpKpJsIoAtDtZkWnWjEkSu-1570348346716@nyuu</segment>
+			<segment bytes="728160" number="4">PkYzLgEdXuOqQyRkBgFnQoAd-1570348346997@nyuu</segment>
+			<segment bytes="728160" number="5">FmByXtZgXzYgCoScFqHgJfQr-1570348347741@nyuu</segment>
+			<segment bytes="728160" number="6">BdKgBgZnIfCgAlRiIbXbYnCk-1570348348112@nyuu</segment>
+			<segment bytes="728160" number="7">QdWtWbSwKfDhDyYfPaOjElCf-1570348348140@nyuu</segment>
+			<segment bytes="728160" number="8">DkCvXuRiEdJbKlArIrOrByJw-1570348348626@nyuu</segment>
+			<segment bytes="565940" number="9">LhOaJgJzJhZqGpWpMqXtWvOo-1570348349746@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348349" subject="reftestnzb German Umlauts ea6f31c1c39c [08/25] - &quot;german-umlauts-etc.part08.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">SaLuAuBoTlXeNqPsIyKbMzIo-1570348349878@nyuu</segment>
+			<segment bytes="728159" number="2">ZdOeMsZyJyCjObDeXyKzGpHg-1570348350177@nyuu</segment>
+			<segment bytes="728160" number="3">XhZvDxCuNnFrJgTiBqZyFoFj-1570348350599@nyuu</segment>
+			<segment bytes="728160" number="4">BxSvQoOaXnTaOfPkQoOkPeWe-1570348351212@nyuu</segment>
+			<segment bytes="728160" number="5">HoZeLhAtHnIbEmZjUzEfSgZr-1570348351390@nyuu</segment>
+			<segment bytes="728160" number="6">YdLpKhPwQuGxUfZnYfQvHwZn-1570348351608@nyuu</segment>
+			<segment bytes="728160" number="7">SmXeSjQmArKbCrIiIcFhYnTa-1570348352001@nyuu</segment>
+			<segment bytes="728160" number="8">RhGqSuVjUqVnDgXbJzWcDwEp-1570348352718@nyuu</segment>
+			<segment bytes="565940" number="9">RsTeKlVyDiGeXwYfJxObEsGb-1570348353049@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348353" subject="reftestnzb German Umlauts ea6f31c1c39c [09/25] - &quot;german-umlauts-etc.part09.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">RuVcTjMkWzGiLrQtMzHcViZk-1570348353107@nyuu</segment>
+			<segment bytes="728159" number="2">YyEiPiFnIvRpLpLmRpLmKoMe-1570348353639@nyuu</segment>
+			<segment bytes="728160" number="3">PrLbTsFeOqWiWoDzNqHxQjMp-1570348354256@nyuu</segment>
+			<segment bytes="728160" number="4">PrHePgZaIbAbJuVcUgSvKdPi-1570348354258@nyuu</segment>
+			<segment bytes="728160" number="5">FzToGdQqNxMnScJxRkFoGuZy-1570348354785@nyuu</segment>
+			<segment bytes="728160" number="6">DvRkKrFqCqWwEoLfTsBbNtRh-1570348355195@nyuu</segment>
+			<segment bytes="728160" number="7">FaQtRdFgQeLnLiYhThOwPyNq-1570348355327@nyuu</segment>
+			<segment bytes="728160" number="8">DbSzRyKsAaIdIpXnBlOlXaAg-1570348355724@nyuu</segment>
+			<segment bytes="565940" number="9">DcScJjKcJpYdDbSmKxEpCtXz-1570348356201@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348356" subject="reftestnzb German Umlauts ea6f31c1c39c [10/25] - &quot;german-umlauts-etc.part10.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">HwPsYkTjAzFzNsZcCpZxNdWw-1570348356542@nyuu</segment>
+			<segment bytes="728159" number="2">SdLsZuGcXbWpRuDhGyBiXoXg-1570348356820@nyuu</segment>
+			<segment bytes="728160" number="3">SfLvRtIwHtGlDqViInDwIuDi-1570348357278@nyuu</segment>
+			<segment bytes="728160" number="4">FiJpSsCoUwUwNyYxSnXmJyLi-1570348357535@nyuu</segment>
+			<segment bytes="728160" number="5">SsGbOiOzRtCzDcIhAeImFnNy-1570348357963@nyuu</segment>
+			<segment bytes="728160" number="6">AtVpQxNpYoUfSjGjDfEsSrWl-1570348358513@nyuu</segment>
+			<segment bytes="728160" number="7">ZoJpNqWvQzWjKjHoOgFbQyHq-1570348358571@nyuu</segment>
+			<segment bytes="728160" number="8">HqAaQjRnWkUzUuMuIjJyEaSr-1570348358967@nyuu</segment>
+			<segment bytes="565940" number="9">CeQpUrVdBtVoYiXmRqEpDfSe-1570348359656@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348359" subject="reftestnzb German Umlauts ea6f31c1c39c [11/25] - &quot;german-umlauts-etc.part11.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">IdWgSeMnWoPbEeJjOvJyOrQr-1570348359740@nyuu</segment>
+			<segment bytes="728159" number="2">ZzOsJuLoHaHhBbKcMqIjOtGn-1570348360119@nyuu</segment>
+			<segment bytes="728160" number="3">LgFnRaPdKcPzOzLpIbCyYyHc-1570348360663@nyuu</segment>
+			<segment bytes="728160" number="4">XfYdWlEnKlLkZlUxZbDiDcHm-1570348360824@nyuu</segment>
+			<segment bytes="728160" number="5">XtNvGsMwEmSgXkVgIaWxIaMb-1570348361142@nyuu</segment>
+			<segment bytes="728160" number="6">KaHcHdZuRgZkTnJxKiPkPpHx-1570348361428@nyuu</segment>
+			<segment bytes="728160" number="7">VrGuWfIhKxSzZySjJyItDbQm-1570348362078@nyuu</segment>
+			<segment bytes="728160" number="8">OrObSiEsObFcMlUtFoYoBaBa-1570348362451@nyuu</segment>
+			<segment bytes="565940" number="9">XnXxFhRwRwMcUyKgYcCrIsKw-1570348362453@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348362" subject="reftestnzb German Umlauts ea6f31c1c39c [12/25] - &quot;german-umlauts-etc.part12.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">FsWlZoYmHpAiCwXaXyIdMtFy-1570348362862@nyuu</segment>
+			<segment bytes="728159" number="2">ToDjKoGaDyIlRqXdBeKfEyHx-1570348363672@nyuu</segment>
+			<segment bytes="728160" number="3">FwMxPiUwEiZfKbSbOdLkHvHa-1570348363674@nyuu</segment>
+			<segment bytes="728160" number="4">FsBnOtXjMfPcYpThGmWlUpTn-1570348363990@nyuu</segment>
+			<segment bytes="728160" number="5">KeWyJwOaWeLgLeNlXuUzVlFk-1570348364788@nyuu</segment>
+			<segment bytes="728160" number="6">UtStVtKaUuQhIsVsHjPuHlNq-1570348364904@nyuu</segment>
+			<segment bytes="728160" number="7">TtZaJzEyLoLxOtSrNpWlTmGy-1570348365112@nyuu</segment>
+			<segment bytes="728160" number="8">QeBkBkWtSiPcBhYpCmXpNvGn-1570348365915@nyuu</segment>
+			<segment bytes="565940" number="9">IgGkNhNcEwVaQsSnOpByAtBr-1570348366297@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348366" subject="reftestnzb German Umlauts ea6f31c1c39c [13/25] - &quot;german-umlauts-etc.part13.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">ZcIwMpLgIfVkHiBhPbYiQzIq-1570348366301@nyuu</segment>
+			<segment bytes="728159" number="2">BoFgVnCbMcGxIxRuCkRxZjNg-1570348366650@nyuu</segment>
+			<segment bytes="728160" number="3">JcHpBnFwMzPdVxRmWjIeTkMn-1570348367275@nyuu</segment>
+			<segment bytes="728160" number="4">GcJeBvGnThZcArMiHxIjNrYm-1570348367695@nyuu</segment>
+			<segment bytes="728160" number="5">MaTxMiYyTxHeQbGiEpBxAjPf-1570348367774@nyuu</segment>
+			<segment bytes="728160" number="6">VtDuSzXsDfMzRyXkQzTfSmIo-1570348368008@nyuu</segment>
+			<segment bytes="728160" number="7">TeWrFkEkSvHqLxXxZrDxYwYo-1570348368883@nyuu</segment>
+			<segment bytes="728160" number="8">QuLlHtGlJjHpNlPbJjYkFmLq-1570348369147@nyuu</segment>
+			<segment bytes="565940" number="9">BtSdGcJmEqRhOmJuGfIuAdDz-1570348369208@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348369" subject="reftestnzb German Umlauts ea6f31c1c39c [14/25] - &quot;german-umlauts-etc.part14.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">JdJoGdBvPuMoCtUfSnMbQpZn-1570348369733@nyuu</segment>
+			<segment bytes="728159" number="2">GsOdZlDgCoWqSzByLlRoSmVn-1570348370386@nyuu</segment>
+			<segment bytes="728160" number="3">BwRcEmWzChDqAhIfAhStWrZj-1570348370506@nyuu</segment>
+			<segment bytes="728160" number="4">GiNsNgVjKkGoQaMkZnOhHdFz-1570348370867@nyuu</segment>
+			<segment bytes="728160" number="5">MqUcVvTzXrOtGqZvIvEsUeOk-1570348371678@nyuu</segment>
+			<segment bytes="728160" number="6">OnZvGuNbHnKsGxBzCfOaLsAl-1570348371686@nyuu</segment>
+			<segment bytes="728160" number="7">ZoPgZfOrArDyDbMtZuFsNdEu-1570348372174@nyuu</segment>
+			<segment bytes="728160" number="8">SeSfPwNsFsXtDoDfQnIsKgWi-1570348372931@nyuu</segment>
+			<segment bytes="565940" number="9">JdWjCdUlIwLpNmCqJcIwKaAt-1570348373015@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348373" subject="reftestnzb German Umlauts ea6f31c1c39c [15/25] - &quot;german-umlauts-etc.part15.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">TnVhAqZeDlYrDjMwLzHwHpOm-1570348373408@nyuu</segment>
+			<segment bytes="728159" number="2">SvCxQjMwMfUjMkGjImSjSoDp-1570348373959@nyuu</segment>
+			<segment bytes="728160" number="3">CcCrZcQbQiVtDnYjOwRuWqVo-1570348374444@nyuu</segment>
+			<segment bytes="728160" number="4">EgMwTqWmKxTjEsMfKfIuKeWv-1570348374533@nyuu</segment>
+			<segment bytes="728160" number="5">UlNrTvCjDtGmRsYnYyFyLuEj-1570348374939@nyuu</segment>
+			<segment bytes="728160" number="6">RlEsOtDgMnZlTlTnUeZxFxKx-1570348375355@nyuu</segment>
+			<segment bytes="728160" number="7">MgUyRmNmSqDeBvGpGhPaMlFy-1570348375798@nyuu</segment>
+			<segment bytes="728160" number="8">SjGmMwJpBxIzYsZiVjFdHeMk-1570348376166@nyuu</segment>
+			<segment bytes="565940" number="9">UkRqHqOiIjQsQeDfPjArZkLy-1570348376530@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348376" subject="reftestnzb German Umlauts ea6f31c1c39c [16/25] - &quot;german-umlauts-etc.part16.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">XzKlHkNlAmPqNwHuDzUeLrFt-1570348376869@nyuu</segment>
+			<segment bytes="728159" number="2">TfVaBcUhCbPdVyHjFwQxNtKw-1570348377190@nyuu</segment>
+			<segment bytes="728160" number="3">TtBaHqMnVpNtDkCaXlMgDbBh-1570348377702@nyuu</segment>
+			<segment bytes="728160" number="4">MdIwTiFdPrKsXuAxYwJmBuMx-1570348378010@nyuu</segment>
+			<segment bytes="728160" number="5">OfRlXbZsClYyOvZySsMtOnHc-1570348378441@nyuu</segment>
+			<segment bytes="728160" number="6">DeTbAmOoOaDsVgBxRzAzHzVb-1570348378960@nyuu</segment>
+			<segment bytes="728160" number="7">ZfRrVcXlCdSeKuMmDkHeAbAs-1570348379193@nyuu</segment>
+			<segment bytes="728160" number="8">EsQzOlIyGiRuYpFvAtWoKyCj-1570348379550@nyuu</segment>
+			<segment bytes="565940" number="9">AuAaIlVyVePaKtMeLoOrRqEs-1570348379973@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348382" subject="reftestnzb German Umlauts ea6f31c1c39c [18/25] - &quot;german-umlauts-etc.par2&quot; yEnc (1/1) 44392">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="47272" number="1">ZkZfCpOxJkXpBxDrFwUqBeNc-1570348382726@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348380" subject="reftestnzb German Umlauts ea6f31c1c39c [17/25] - &quot;german-umlauts-etc.part17.rar&quot; yEnc (1/6) 4198070">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728156" number="1">SaPrIoJxNsMhVjLnLtKfLmHx-1570348380812@nyuu</segment>
+			<segment bytes="728159" number="2">DiCrCmOeBnGqSjRtFeXxOaRy-1570348381110@nyuu</segment>
+			<segment bytes="728160" number="3">VeHuOtCgKyGoJuZtWlEaPhTp-1570348381160@nyuu</segment>
+			<segment bytes="728160" number="4">LhRxCzVkIlWaAeRqFdPsJhPl-1570348381948@nyuu</segment>
+			<segment bytes="728160" number="5">RyWyLcMnMkWwTfDlUcAtOnWf-1570348382349@nyuu</segment>
+			<segment bytes="623844" number="6">GkRkBwOcSoOaDrUaXoYxKzHh-1570348382416@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348383" subject="reftestnzb German Umlauts ea6f31c1c39c [19/25] - &quot;german-umlauts-etc.vol000+02.par2&quot; yEnc (1/1) 194132">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="201406" number="1">BiIhAlQsPxNaAkUeNpTdAeLn-1570348383956@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348383" subject="reftestnzb German Umlauts ea6f31c1c39c [20/25] - &quot;german-umlauts-etc.vol002+04.par2&quot; yEnc (1/1) 343872">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="355518" number="1">GbJcAzQmMpVuLgDcIkItBsZr-1570348383965@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348384" subject="reftestnzb German Umlauts ea6f31c1c39c [21/25] - &quot;german-umlauts-etc.vol006+08.par2&quot; yEnc (1/1) 599060">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="616750" number="1">RaTxZsRuQzYvDbImSeExDeBy-1570348384281@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348384" subject="reftestnzb German Umlauts ea6f31c1c39c [22/25] - &quot;german-umlauts-etc.vol014+16.par2&quot; yEnc (1/2) 1065144">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="734535" number="1">JvMtEcMsTxAuPuGxLgLyDsIo-1570348384771@nyuu</segment>
+			<segment bytes="357801" number="2">KeVqZfFbFrYmQlSmTyXlRuZh-1570348385486@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348385" subject="reftestnzb German Umlauts ea6f31c1c39c [23/25] - &quot;german-umlauts-etc.vol030+32.par2&quot; yEnc (1/3) 1953020">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="732387" number="1">FaMfObOiGpYzApWuTeVoNkKs-1570348385616@nyuu</segment>
+			<segment bytes="732767" number="2">GzWwUtHcKhVnEfCeWrBqZzTn-1570348385618@nyuu</segment>
+			<segment bytes="531203" number="3">LqFaZrGhXiCbMzIsAuUvQgQe-1570348386309@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348387" subject="reftestnzb German Umlauts ea6f31c1c39c [24/25] - &quot;german-umlauts-etc.vol062+64.par2&quot; yEnc (1/6) 3684480">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="730860" number="1">OoUkCrRiDcJfIfTbHnVnPaTx-1570348387098@nyuu</segment>
+			<segment bytes="730883" number="2">AcEwDxFdHvZdDlRvWpCuPpNs-1570348387165@nyuu</segment>
+			<segment bytes="731056" number="3">FmJbEhTyBzZcGbPsZzGsRfWp-1570348387291@nyuu</segment>
+			<segment bytes="731005" number="4">CeEeWxGrVgXwIiFlDtZdIfSz-1570348387981@nyuu</segment>
+			<segment bytes="731122" number="5">HqIrVeWyNrBwArJnYmCgIdXc-1570348388444@nyuu</segment>
+			<segment bytes="102684" number="6">IcViYiJrUqNeDpVtNcBrBbSm-1570348388457@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1570348388" subject="reftestnzb German Umlauts ea6f31c1c39c [25/25] - &quot;german-umlauts-etc.vol126+74.par2&quot; yEnc (1/6) 4211720">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="730495" number="1">IdJmFoUcAzDbYdCtFhFkMkWo-1570348388871@nyuu</segment>
+			<segment bytes="730749" number="2">YpPyEmShVvVxXlGiXaXcDzCi-1570348389546@nyuu</segment>
+			<segment bytes="730515" number="3">GcDgVuZmNcOnKyKkNwCxDuFq-1570348389763@nyuu</segment>
+			<segment bytes="730749" number="4">WfUtEeIzGiGeBdFdGfXoEqUm-1570348389892@nyuu</segment>
+			<segment bytes="730673" number="5">RoTuEkLxKoTdUsJvZrCuPdOn-1570348390303@nyuu</segment>
+			<segment bytes="639934" number="6">UoJnVcCgMaVaAvWvPeUbBcCs-1570348390305@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
