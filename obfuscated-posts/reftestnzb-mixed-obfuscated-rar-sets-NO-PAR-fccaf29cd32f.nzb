@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821143" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [01/52] - &quot;020053eb-afa6-49bc-963b-58f1d42bc36c&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">KyPhPeJsTfQtGlIfDlGlPtEr-1582821143379@nyuu</segment>
+			<segment bytes="728166" number="2">DcEkPmUyUyUpTkCnUoUyYhIa-1582821143381@nyuu</segment>
+			<segment bytes="728167" number="3">GfVgWwMfPuAmZbPuVyRuInHf-1582821143386@nyuu</segment>
+			<segment bytes="728167" number="4">GpCsIxUtBxYlMiLgLrWrLlYo-1582821143497@nyuu</segment>
+			<segment bytes="728167" number="5">CwTjNjAoJtOrAyQzVpVrDeWo-1582821144190@nyuu</segment>
+			<segment bytes="728167" number="6">RrNfTtUoIuRdDkVpTfZkLcTi-1582821144840@nyuu</segment>
+			<segment bytes="728167" number="7">UuZjAiYjCrMlGcPlBwAuCuHr-1582821145620@nyuu</segment>
+			<segment bytes="728167" number="8">LrLmMqEzNrCtZeXgLfSiKfWb-1582821146337@nyuu</segment>
+			<segment bytes="565945" number="9">FvRmCjWvHxThRbGqLyRrIvFg-1582821146664@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821146" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [02/52] - &quot;0a95df8b-4fe4-4789-8219-5078789dc703&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">EhPuNxYtDjMcCtTlJqUjQyEg-1582821146892@nyuu</segment>
+			<segment bytes="728166" number="2">NdCvKpViJnNfDiLeVmEmXpHy-1582821147007@nyuu</segment>
+			<segment bytes="728167" number="3">LeBcZlWnIuViZnNdNdXfAiZq-1582821147333@nyuu</segment>
+			<segment bytes="728167" number="4">FfJpIdQiYcIrMoMoIrHbOhGv-1582821147738@nyuu</segment>
+			<segment bytes="728167" number="5">XyCyKnOhHmLtQwPmZbHvHaHa-1582821147750@nyuu</segment>
+			<segment bytes="728167" number="6">FuXyFfHfMxUjHkMyIaXnQxDt-1582821147993@nyuu</segment>
+			<segment bytes="728167" number="7">OcWqIfGuFwSoFlWcJiMzUjCr-1582821148590@nyuu</segment>
+			<segment bytes="728167" number="8">XvVlYeYgAjSmOrMtYkUcNuIc-1582821148634@nyuu</segment>
+			<segment bytes="565945" number="9">CeCaZyAmZhYnKmTjMpMsMuVq-1582821148774@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821149" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [03/52] - &quot;0b9f7bf9-6942-4f9c-98bc-1e2f77b66ac5&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">KrWeElCfIvCqQgWlQsExWfFm-1582821149521@nyuu</segment>
+			<segment bytes="728166" number="2">PvSyCjGvYyCcWtRlSrPbMoRu-1582821149578@nyuu</segment>
+			<segment bytes="728167" number="3">PdUwVlCtOsObMvQeBlInLsDe-1582821149617@nyuu</segment>
+			<segment bytes="728167" number="4">EjIeZnXyLyAnEiEvKbFuCzJo-1582821150433@nyuu</segment>
+			<segment bytes="728167" number="5">NkClUxZhPhGdTmWkJxYmOuLs-1582821150483@nyuu</segment>
+			<segment bytes="728167" number="6">BnUuKtXfKrMaCbUcRvObHzCb-1582821150498@nyuu</segment>
+			<segment bytes="728167" number="7">RwViAlYqFyUvZtXjOuOkSnNs-1582821151359@nyuu</segment>
+			<segment bytes="728167" number="8">ImOnPeWfQeQaJkJoGfGwMfUb-1582821151382@nyuu</segment>
+			<segment bytes="565945" number="9">UcKhXgDfEkZpGyBeSlPqTuHr-1582821151472@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821152" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [04/52] - &quot;0d8e4036-c5ff-460d-b67f-624204327519&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">SuJgDgCnUhNzFjXeCnCzBaWy-1582821152280@nyuu</segment>
+			<segment bytes="728166" number="2">RwEzJuTkGxYuXrVmMlTkTlUr-1582821152290@nyuu</segment>
+			<segment bytes="728167" number="3">PbUnEuAkTuRxNzEdEmMwBxNu-1582821152387@nyuu</segment>
+			<segment bytes="728167" number="4">LvAwWiPuWiLhErCoHwWkRjNv-1582821153198@nyuu</segment>
+			<segment bytes="728167" number="5">VqChBfPnVwWzEnOoVyXcBpXf-1582821153220@nyuu</segment>
+			<segment bytes="728167" number="6">AdEyHcItBbMzJuSgBxCwPoQz-1582821153248@nyuu</segment>
+			<segment bytes="728167" number="7">VhMyGuUvMjDrFlHrWbHhJhUy-1582821154154@nyuu</segment>
+			<segment bytes="728167" number="8">FeNkJnDiHsLgAyZqIvHrMmYq-1582821154164@nyuu</segment>
+			<segment bytes="565945" number="9">PvOeAnDiYxPsFhGcWpGbKuZg-1582821154279@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821154" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [05/52] - &quot;109a7ee3-f547-449d-91d5-996df35387b3&quot; yEnc (1/2) 1049891">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728164" number="1">HsOnCjTzWtUgLrLqEmYtSxEo-1582821154994@nyuu</segment>
+			<segment bytes="338479" number="2">OfQhRwJtRiWtTmEbUuMuDsJo-1582821155098@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821155" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [06/52] - &quot;18f32610-880b-47aa-8379-fcb166ab4ce3&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">BsSwVdKjDiBgRmXlRoLjHqIa-1582821155256@nyuu</segment>
+			<segment bytes="728166" number="2">OvCgPaYqYmHgUnUoBqElQbZr-1582821155681@nyuu</segment>
+			<segment bytes="728167" number="3">XmMiVtUtYbYqZoZvNaEbQbUi-1582821155906@nyuu</segment>
+			<segment bytes="728167" number="4">GtTxIcWrTcByMlIrQnRuNbMe-1582821155969@nyuu</segment>
+			<segment bytes="728167" number="5">KnThOjYrAcCxRpWpBlRxMbGb-1582821156372@nyuu</segment>
+			<segment bytes="728167" number="6">VxTwAtIfDnRuWuPsSqOyMtMh-1582821156438@nyuu</segment>
+			<segment bytes="728167" number="7">XlOzKzIzVvRoCyOgLjVqHxQg-1582821156656@nyuu</segment>
+			<segment bytes="728171" number="8">ApBnXdByNkHmCzEaGtPcCcNx-1582821157109@nyuu</segment>
+			<segment bytes="565947" number="9">RhXyWaIeDqYdCdKpFwLaCpKs-1582821157343@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821157" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [07/52] - &quot;1c263537-a319-484e-b2df-32e57fa4af07&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">RtWzZgVkFdIaUxIkKoZyPiHi-1582821157413@nyuu</segment>
+			<segment bytes="728166" number="2">ZbGkUyZyFzTdVzGfCoXzKdGt-1582821157757@nyuu</segment>
+			<segment bytes="728167" number="3">PjRmJqJcWzBsMnDmDzHeAbMk-1582821158137@nyuu</segment>
+			<segment bytes="728167" number="4">SsOqMqHtMrFfEhQlEfJiNtGk-1582821158190@nyuu</segment>
+			<segment bytes="728167" number="5">ZmDoEhQdZgMnMtCzIhNmYzUg-1582821158408@nyuu</segment>
+			<segment bytes="728167" number="6">NtDlMnCnBfZqXyEzCtElMuSo-1582821158826@nyuu</segment>
+			<segment bytes="728167" number="7">IdOgZfMjTrYgElRyQhGyKtAy-1582821159000@nyuu</segment>
+			<segment bytes="728167" number="8">UoStCnSnIbEuVvTaGsMwXwPs-1582821159130@nyuu</segment>
+			<segment bytes="565945" number="9">KmZfWxPtNmZmHfRfQgIvBcDb-1582821159490@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821159" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [08/52] - &quot;239c6c67-0385-45b7-868a-ff09cf0651f5&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">OoVkUdEyTvDtSuYlMbFoTiUg-1582821159807@nyuu</segment>
+			<segment bytes="728166" number="2">JzAnQaBuFnCvKiIrSxEbHwHc-1582821159870@nyuu</segment>
+			<segment bytes="728167" number="3">YyZfOcUfXoCiNxBwYhHmKpHf-1582821160201@nyuu</segment>
+			<segment bytes="728167" number="4">GxWqSzMaYeAfOfHlOjGvJjSw-1582821160675@nyuu</segment>
+			<segment bytes="728167" number="5">GvEuRzAvEmNqPcLdBjKwGhLq-1582821160676@nyuu</segment>
+			<segment bytes="728167" number="6">WlQhGnUmFgCeVzEuVpKbFnUu-1582821160810@nyuu</segment>
+			<segment bytes="728167" number="7">PgVaSkZjJlXpJpVxAtHkHgWv-1582821161595@nyuu</segment>
+			<segment bytes="728167" number="8">XiAkTlEsWeZkNwSrHqFkRhPl-1582821161597@nyuu</segment>
+			<segment bytes="565945" number="9">KiUpBdEjPkPcEnUrNuKuQeHa-1582821161711@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821162" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [09/52] - &quot;24b1a2d7-31fd-463b-a02f-c0fdfa657e8a&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">QmQmNnJrGeBfJxLaDtLvLvMa-1582821162418@nyuu</segment>
+			<segment bytes="728166" number="2">QgLbMiYeBwKtKlHoIyBfNuIw-1582821162553@nyuu</segment>
+			<segment bytes="728167" number="3">WmAwGfDaSwJeWdZmEoHmEhIu-1582821162633@nyuu</segment>
+			<segment bytes="728167" number="4">NrPiBcTgLjGkQcGvKlVeXhDh-1582821163083@nyuu</segment>
+			<segment bytes="728167" number="5">EgPuKiNvEyCfTgXdCyCcKfJa-1582821163486@nyuu</segment>
+			<segment bytes="728167" number="6">HsBxEzQiVxDyEiHvYpCsOzEr-1582821163508@nyuu</segment>
+			<segment bytes="728167" number="7">DvOsVyNePjKbWrAaInOqCtOu-1582821163735@nyuu</segment>
+			<segment bytes="728167" number="8">TdEiVqIaJtSnZcXgKeFmUoSv-1582821164462@nyuu</segment>
+			<segment bytes="565945" number="9">KsCsDwAjCrNlWuPtWsNrRuGo-1582821164462@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821164" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [10/52] - &quot;2b769740-4545-43ad-8c08-ba83a9b17259&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">CySkImUlRgIdCgIoVhIqLjXr-1582821164545@nyuu</segment>
+			<segment bytes="728166" number="2">XoRxNdGcSpLsNjZeCoYwHhKd-1582821165486@nyuu</segment>
+			<segment bytes="728167" number="3">ZhZhOgQzHnYaRfGeJnJcKeIt-1582821165488@nyuu</segment>
+			<segment bytes="728167" number="4">OqYhObJdCgZvIiQlGxXvRbTq-1582821165506@nyuu</segment>
+			<segment bytes="728167" number="5">DtHuMaPqKoUtZbEjGgJrNnLq-1582821166456@nyuu</segment>
+			<segment bytes="728167" number="6">GqEoLuJcCfJyOiTxZfTrZtQx-1582821166460@nyuu</segment>
+			<segment bytes="728167" number="7">ZhOaIrRyZcArOvMzEzQaOxVw-1582821166523@nyuu</segment>
+			<segment bytes="728167" number="8">IuAnBrYlIqTiKyKmBnKxWuIr-1582821167431@nyuu</segment>
+			<segment bytes="565945" number="9">ZoMpLfWtTiZjSuSfAyZjLnFn-1582821167438@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821167" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [11/52] - &quot;2ee0cd1c-3749-4a40-ad19-7cea0dad6556&quot; yEnc (1/6) 4201326">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">QuSrOpIcCdAdSzYpJaMgPeOy-1582821167490@nyuu</segment>
+			<segment bytes="728166" number="2">HdAkIiWqCwAjOcXyUyAjUmOv-1582821168456@nyuu</segment>
+			<segment bytes="728167" number="3">KrQwDxEdJeAcXiHmZbJoApKs-1582821168459@nyuu</segment>
+			<segment bytes="728167" number="4">CfNwVwEdStQiWoHvTrLlPsDu-1582821168460@nyuu</segment>
+			<segment bytes="728167" number="5">FpOuLdKgZfUbUuMfYvAkOyKu-1582821169364@nyuu</segment>
+			<segment bytes="627155" number="6">KuJeDqUsQdMcErMcZoKfYaDm-1582821169408@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821169" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [12/52] - &quot;3617884b-739c-49ef-ae39-70ace2d0a367&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728164" number="1">LuYgCfVxAjJzUqPsYrBtXzPp-1582821169457@nyuu</segment>
+			<segment bytes="728166" number="2">CgTwOpVcYsPsVaAuQeWqVeQu-1582821170299@nyuu</segment>
+			<segment bytes="728167" number="3">LpWzMdBiZsHiWfRwSlJfKxWa-1582821170357@nyuu</segment>
+			<segment bytes="728167" number="4">QpIzGeCbGjMvXwRnIfWtDiJj-1582821170413@nyuu</segment>
+			<segment bytes="728167" number="5">XtXkMzCwRiNdFsThPeYgQeSd-1582821171193@nyuu</segment>
+			<segment bytes="728167" number="6">NjUjDpEeJlDuMyZkApLbXvEn-1582821171210@nyuu</segment>
+			<segment bytes="728167" number="7">YhUqXxIkCcYlMfPiPdUwBxXd-1582821171328@nyuu</segment>
+			<segment bytes="728167" number="8">RoNhIcIxEkNtOyQpMsHtPsPo-1582821172142@nyuu</segment>
+			<segment bytes="565945" number="9">DxJyYzLtBtYtDjSvUiRxRsYg-1582821172143@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821172" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [13/52] - &quot;36f07bb8-b068-46de-ba8e-a2de3d0ee52d&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">FtUeMkHkWvWpAtBwVuWqXsVx-1582821172223@nyuu</segment>
+			<segment bytes="728166" number="2">MzJvPcJjRjMjAaHiDxOpOuEa-1582821173166@nyuu</segment>
+			<segment bytes="728167" number="3">AjCnGyDgKlIbJmRtLcSgNxUw-1582821173169@nyuu</segment>
+			<segment bytes="728167" number="4">VcBePdRcOqTjUwIeRrPxNkZi-1582821173180@nyuu</segment>
+			<segment bytes="728167" number="5">CgKhHxAgDhCsOjAxIkSeBaWd-1582821174145@nyuu</segment>
+			<segment bytes="728167" number="6">YnStNaJdSoLhGfNaFwMaTaJx-1582821174147@nyuu</segment>
+			<segment bytes="728167" number="7">BrCvTrMkMoErFnSlJrImUtHt-1582821174156@nyuu</segment>
+			<segment bytes="728167" number="8">WiUxUzYqJtJuIoHxViEhDuUj-1582821175121@nyuu</segment>
+			<segment bytes="565945" number="9">TpVcXqAxOzUzXsRdKoOiYbRx-1582821175159@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821175" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [14/52] - &quot;395ac817-f9c6-4753-aee3-8cc497650a45&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">HjAtAmTfGbDsUmTpJyIzOkLl-1582821175246@nyuu</segment>
+			<segment bytes="728166" number="2">VcTdJlSoQjMuWiNtYjUjVzOx-1582821176073@nyuu</segment>
+			<segment bytes="728167" number="3">WuFhOqJfGwGnSvYpNhHkLqKr-1582821176092@nyuu</segment>
+			<segment bytes="728167" number="4">FiVxYxLbHkWkYgIvCqOxQmUe-1582821176158@nyuu</segment>
+			<segment bytes="728167" number="5">FkIcZyFnUmLxLnNjTeEoXrDc-1582821176955@nyuu</segment>
+			<segment bytes="728167" number="6">UhPcRfMmNpKjRaDhPnTcZuHx-1582821176999@nyuu</segment>
+			<segment bytes="728167" number="7">ZmKtBsRmWaEbLyFcJoOtLkHl-1582821177065@nyuu</segment>
+			<segment bytes="728167" number="8">YmFjXfCmAmCnMnHvRzWaRoGn-1582821177773@nyuu</segment>
+			<segment bytes="565945" number="9">XoJdRsLePhKoWuGkSaUqHlBw-1582821177965@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821177" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [15/52] - &quot;3dad61d8-78b9-45be-836f-63afcb5380e1&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">BbOsFkOzLmFpTgHsAkNrSvTn-1582821177998@nyuu</segment>
+			<segment bytes="728166" number="2">PyHkRfUeJuScYtTlMsYbXsVw-1582821178419@nyuu</segment>
+			<segment bytes="728167" number="3">RrCqJyBiToThHkYsYsOnDwIr-1582821178752@nyuu</segment>
+			<segment bytes="728167" number="4">IcAkKkPzRxZzMpZdLeUuDmXi-1582821178823@nyuu</segment>
+			<segment bytes="728167" number="5">KgGkItJiSnNzSkBkFhBbQcCn-1582821179098@nyuu</segment>
+			<segment bytes="728167" number="6">HyFaYsLqWcEyLsAuKtAhGwOe-1582821179366@nyuu</segment>
+			<segment bytes="728167" number="7">LaFrBrQpTjPqMzGuGaPcWxZy-1582821179549@nyuu</segment>
+			<segment bytes="728167" number="8">FsTeMmFeYfHlRkScGfFdBzZz-1582821179746@nyuu</segment>
+			<segment bytes="565945" number="9">OhZvIiNkYpSgKkPvDsPySaXj-1582821180035@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821180" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [16/52] - &quot;3e029948-9164-4209-afb0-6e3cfd05bfaf&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">LnYvXrEoSeNrKeLdQoWiFvXa-1582821180252@nyuu</segment>
+			<segment bytes="728166" number="2">RrUnLqXuToStEuNtEgHpSnXt-1582821180415@nyuu</segment>
+			<segment bytes="728167" number="3">KxHsGoXmZsMmHlTfEqPiWuIa-1582821180728@nyuu</segment>
+			<segment bytes="728167" number="4">EoQlJiJpSgTeDtAySkXaDsXc-1582821180922@nyuu</segment>
+			<segment bytes="728167" number="5">XwUvBsUnCcNbQpJfVkSdGuHq-1582821181100@nyuu</segment>
+			<segment bytes="728167" number="6">JfFlDqSuCaVxHhHcFfReGfYq-1582821181350@nyuu</segment>
+			<segment bytes="728167" number="7">XaXdBbHrErFfBnDhArZlKzFw-1582821181568@nyuu</segment>
+			<segment bytes="728167" number="8">KcXaUxCzAbLiGvPjKmKjQaSc-1582821181766@nyuu</segment>
+			<segment bytes="565945" number="9">HvLiBlXqIwJfEtZvBvNwDuNl-1582821182005@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821182" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [17/52] - &quot;44a7896d-0b61-4459-b2bc-6330278d8d90&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">MoJdYaSgRfNaRaXrTgMtVcLj-1582821182239@nyuu</segment>
+			<segment bytes="728166" number="2">AeXgKhVkZrJvClPnPyZxMcBn-1582821182444@nyuu</segment>
+			<segment bytes="728167" number="3">AnGgFcImKiHaXzSnZqWzLfMs-1582821182641@nyuu</segment>
+			<segment bytes="728167" number="4">JoKvDwIfIxSrMwQsJqEsVqBs-1582821182901@nyuu</segment>
+			<segment bytes="728167" number="5">RvRfMqIvQbEcJpFoXvWlFzBr-1582821183111@nyuu</segment>
+			<segment bytes="728167" number="6">ZgRxIhZkWnUwCyDsVpDkJkZe-1582821183256@nyuu</segment>
+			<segment bytes="728167" number="7">FjWqTdBuUsLhMiYiAvKmEzPc-1582821183556@nyuu</segment>
+			<segment bytes="728167" number="8">LtVaAdGaBrRdAiEsSuNuXpTu-1582821183785@nyuu</segment>
+			<segment bytes="565945" number="9">WcRaKfNrMuVjEsOxFyQiFyDj-1582821183936@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821184" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [18/52] - &quot;44e5e942-7a4b-446d-94f0-720e9498ac05&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">MzYwNiOtZzLyNzQuWaErQlLh-1582821184217@nyuu</segment>
+			<segment bytes="728166" number="2">BzCyHzDcTbImHsQaLnFdPrOx-1582821184457@nyuu</segment>
+			<segment bytes="728167" number="3">MdLzAlKfJwWnMnZtByEgSzSz-1582821184631@nyuu</segment>
+			<segment bytes="728167" number="4">YsPbJxAjIvRiYeOpBbIbSkAa-1582821184893@nyuu</segment>
+			<segment bytes="728167" number="5">NiNjXkVwEfPtMmDlTuBaQjJs-1582821185158@nyuu</segment>
+			<segment bytes="728167" number="6">DvYzImXfHiZaEnGeHxNqOlIy-1582821185277@nyuu</segment>
+			<segment bytes="728167" number="7">EdKwFaZhDdUzWmMcZwDvVtSv-1582821185546@nyuu</segment>
+			<segment bytes="728167" number="8">CsByYiNfBkUdKkSsDvJhCpGc-1582821185830@nyuu</segment>
+			<segment bytes="565945" number="9">WiUyWlOgAnXlOsMzTjDfGeAb-1582821186007@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821186" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [19/52] - &quot;4502f8cb-7126-4588-a516-0d4f72a512f0&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728164" number="1">MeNtAxExNbLjRaJjPdPxIpFs-1582821186222@nyuu</segment>
+			<segment bytes="728170" number="2">OmKtMhFiKtZvMgPvYdIkHuQk-1582821186479@nyuu</segment>
+			<segment bytes="728167" number="3">YrOxUxDjGoBgPiJhDeDiNgPt-1582821186678@nyuu</segment>
+			<segment bytes="728167" number="4">IqVlPdDpYoBrWfFfWzErHwQn-1582821186897@nyuu</segment>
+			<segment bytes="728167" number="5">RuTxKkBaYzEwUbJgMlAqWbLm-1582821187176@nyuu</segment>
+			<segment bytes="728167" number="6">XzHfPgThEmOmRoJsOkEmYyUw-1582821187299@nyuu</segment>
+			<segment bytes="728167" number="7">MeFrGtZtRaKxJyOoVxBzEkNs-1582821187541@nyuu</segment>
+			<segment bytes="728167" number="8">XtLkGxCtNkIxIiWxMcRkGoGt-1582821187991@nyuu</segment>
+			<segment bytes="565948" number="9">QcIrRvRdXlYiSyZvNsYeNiVh-1582821188020@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821188" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [20/52] - &quot;4be04a73-ad9d-4b66-9725-bb95524e6229&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">FkUdOxKzBcQoDuQwImIcJwCb-1582821188224@nyuu</segment>
+			<segment bytes="728166" number="2">XpPhMlTaLmXzNjCvZmFzDcNf-1582821188895@nyuu</segment>
+			<segment bytes="728167" number="3">VpDjDbCgHcEzRcCmFuNoIuFr-1582821188919@nyuu</segment>
+			<segment bytes="728167" number="4">AkGxInIlViVrVwCqNsFuObYa-1582821189048@nyuu</segment>
+			<segment bytes="728167" number="5">VoJzKyYhOePuTjTfBkPgFkMx-1582821189756@nyuu</segment>
+			<segment bytes="728167" number="6">KyVgZoFqGfDcOjEkItOrTqXr-1582821189757@nyuu</segment>
+			<segment bytes="728167" number="7">WfVhBlIkPkZpNlBiZiFvLiAi-1582821189928@nyuu</segment>
+			<segment bytes="728167" number="8">ZdHoGtAfDrWbFgGnXyJeHzJr-1582821190627@nyuu</segment>
+			<segment bytes="565945" number="9">GgSmIxCpPjYxQbDoTuNpRbZs-1582821190652@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821190" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [21/52] - &quot;4bf8622d-ed3e-4abb-90d9-abcfa510f5c4&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">ZiPuPvMtSqYrUiLrVpHpUjEu-1582821190782@nyuu</segment>
+			<segment bytes="728166" number="2">WuVtKkTvYuCyDvEoEdEiHqZk-1582821191469@nyuu</segment>
+			<segment bytes="728167" number="3">CcKeUbUfCzEgLrSsFxRwMeLd-1582821191524@nyuu</segment>
+			<segment bytes="728167" number="4">TiWvLvJwNuAvOrLvIhClYzLx-1582821191655@nyuu</segment>
+			<segment bytes="728167" number="5">RaXvLvEoIiKyAcIqNrIlUgQc-1582821192297@nyuu</segment>
+			<segment bytes="728167" number="6">DgSuWpAlOeWlAnVkKsMaXlXj-1582821192302@nyuu</segment>
+			<segment bytes="728167" number="7">QyBkPyOrZiRqFgBoYxPzTsYb-1582821192453@nyuu</segment>
+			<segment bytes="728167" number="8">JlScZqXbTnJfGtTzZiVdByHw-1582821193237@nyuu</segment>
+			<segment bytes="565945" number="9">GqIwVyDfSfXkJhLdZvLxIvEn-1582821193267@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821193" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [22/52] - &quot;4de9571b-8cd2-4885-98d3-be17c830fe94&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">EvByCaNkVdDbByKcUhEgHoNc-1582821193332@nyuu</segment>
+			<segment bytes="728166" number="2">JlNdTlIkUwFhTiVbZbZhBoRw-1582821194178@nyuu</segment>
+			<segment bytes="728167" number="3">OsNpEwThObIrSjJwGpVlSaEf-1582821194230@nyuu</segment>
+			<segment bytes="728167" number="4">XgOxZuAbAnFuUmVwVsPoOqSl-1582821194283@nyuu</segment>
+			<segment bytes="728167" number="5">FzSgCiBhKuJwBhOdWhIpGvBz-1582821195183@nyuu</segment>
+			<segment bytes="728167" number="6">EdInYuMtCkHlDvLsLoJnDpBn-1582821195194@nyuu</segment>
+			<segment bytes="728167" number="7">XnSvAfGoEmRoVpKnRaEvSqUq-1582821195208@nyuu</segment>
+			<segment bytes="728167" number="8">AwApRjHsWsJuEePtXwVaPzBp-1582821196198@nyuu</segment>
+			<segment bytes="565945" number="9">YdVgTqAgJwKgWwRiDhNgErRd-1582821196253@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821196" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [23/52] - &quot;593c533f-54f2-45a6-b726-382e31e1ec92&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">EwQvSiWnZbMcMwMjMzYlCmIo-1582821196257@nyuu</segment>
+			<segment bytes="728166" number="2">UiOgGqNfNtQeGoYxHaUoMmFe-1582821197129@nyuu</segment>
+			<segment bytes="728167" number="3">YxBkHpLiJwEtZvLzUzPlErDu-1582821197255@nyuu</segment>
+			<segment bytes="728167" number="4">SvUbBgHxUlTgHzMlZbTmKlHe-1582821197261@nyuu</segment>
+			<segment bytes="728167" number="5">FaAcMwPaAhVvCaUkKvAgEoVz-1582821197946@nyuu</segment>
+			<segment bytes="728167" number="6">JfViKuZlHpVzHbDgMzIqUqLl-1582821198025@nyuu</segment>
+			<segment bytes="728167" number="7">SwNnBeVlSpNbNjDnIgGbOfAv-1582821198234@nyuu</segment>
+			<segment bytes="728167" number="8">OmPvXeRgTnXjFzTsRoDqKoPj-1582821198766@nyuu</segment>
+			<segment bytes="565945" number="9">BjSvJcFxAdUcHcOnMpMhVpJl-1582821198820@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821199" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [24/52] - &quot;5b279147-5cac-423e-84f4-244f4061916e&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">JnMoWeGzVqBpGlAhDcCkFcAs-1582821199015@nyuu</segment>
+			<segment bytes="728166" number="2">XqVkJdExKbKiLnSoScZeJmSq-1582821199688@nyuu</segment>
+			<segment bytes="728167" number="3">WbAcWxMrIuVxJePqDhQzBcDp-1582821199689@nyuu</segment>
+			<segment bytes="728167" number="4">YeCoVjDcBfJoWbRrMjVhQtQw-1582821199804@nyuu</segment>
+			<segment bytes="728167" number="5">HiDdIoQyDbKaWnSeIoArKaDn-1582821200506@nyuu</segment>
+			<segment bytes="728167" number="6">CkYwZoQjQuCeSsTgLoTdTmWc-1582821200533@nyuu</segment>
+			<segment bytes="728167" number="7">MyTnByOoTkJsXkMfSkJzUgBu-1582821200697@nyuu</segment>
+			<segment bytes="728167" number="8">AqZmMjLrWwFoWlRxXqBqIvGx-1582821201326@nyuu</segment>
+			<segment bytes="565945" number="9">KlRnOiMqQeAxXmNpNxOgSjUh-1582821201396@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821201" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [25/52] - &quot;5bcfbc47-4743-465d-b949-79a84858a578&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">AdSwVdNqLrZiYjWfOuBqQwFw-1582821201556@nyuu</segment>
+			<segment bytes="728166" number="2">RdSkZyBaWsRyXdZfOpSrTxJa-1582821202122@nyuu</segment>
+			<segment bytes="728167" number="3">HrDnEhCqObRyGpHkFfRuAxUu-1582821202311@nyuu</segment>
+			<segment bytes="728167" number="4">AuSeLqDlUfMqZwVePdQuJbUr-1582821202388@nyuu</segment>
+			<segment bytes="728167" number="5">UcOwRuMnTnOjFkXbEoNkYhVl-1582821202837@nyuu</segment>
+			<segment bytes="728167" number="6">DxOtCyVpItScTdKbFrKzYpNm-1582821202974@nyuu</segment>
+			<segment bytes="728167" number="7">WfViBrZoUzCgByYuNyQdNnUr-1582821203188@nyuu</segment>
+			<segment bytes="728167" number="8">QpDcByFwXzByNaRdIpTrEnCp-1582821203526@nyuu</segment>
+			<segment bytes="565945" number="9">ZrJsCaQwBrJeTcJbTnTtOxXc-1582821203687@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821203" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [26/52] - &quot;6807ca36-868d-4b6f-90a0-d0c5048aef35&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728164" number="1">VfKaJpSiUqWhEbRnTvXnWfDh-1582821203883@nyuu</segment>
+			<segment bytes="728166" number="2">WmWjDgXmUgTnGaIaOtCmPjIj-1582821204203@nyuu</segment>
+			<segment bytes="728167" number="3">VcPbAaKyBjWqPvXyUqNoYiHo-1582821204383@nyuu</segment>
+			<segment bytes="728167" number="4">CxPiIeEvYsEbSqMxLxBuBkEs-1582821204568@nyuu</segment>
+			<segment bytes="728167" number="5">WfZeGeJhWbRxAyBrZnWzLwSa-1582821204869@nyuu</segment>
+			<segment bytes="728167" number="6">LhCjZxYrPwOeIsPkVlUuDnXw-1582821204993@nyuu</segment>
+			<segment bytes="728167" number="7">BjTeOzVmYdLxYoVvUpTnJsOy-1582821205231@nyuu</segment>
+			<segment bytes="728167" number="8">NcXlEeTeBbPfXvGhCoKmNzUw-1582821205570@nyuu</segment>
+			<segment bytes="565945" number="9">GbHrSjJgFkHnEwDqKqBgUhRq-1582821205711@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821205" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [27/52] - &quot;6c81335b-3c57-4790-b586-7fa818ca53c9&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">NxTwGhTlYiAoLuJfVlBiQtDc-1582821205999@nyuu</segment>
+			<segment bytes="728166" number="2">KzAvBsLfScHtPyWhCwYgNpId-1582821206227@nyuu</segment>
+			<segment bytes="728167" number="3">QvUaMuMbJcAtUzWmKzTfXyGb-1582821206458@nyuu</segment>
+			<segment bytes="728167" number="4">MhXoOlEeZzGuMdVxYhKnNzLi-1582821206660@nyuu</segment>
+			<segment bytes="728167" number="5">HwNiUdRvBsMdVzVlQgWgYyVn-1582821206900@nyuu</segment>
+			<segment bytes="728167" number="6">KkVyCaRnVuEoSwCaYdPjVwEh-1582821207083@nyuu</segment>
+			<segment bytes="728167" number="7">FoFcVbDyIhZnCnEhUgPuBsXo-1582821207326@nyuu</segment>
+			<segment bytes="728167" number="8">WaSwYmKbDvSdRaNyHyKbHuZl-1582821207555@nyuu</segment>
+			<segment bytes="565945" number="9">OxFvIsWoImCfXcOhQvDiEbTz-1582821207774@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821208" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [28/52] - &quot;6ffc8120-1b14-4385-acf8-0070cbe3c644&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">KoVzFlRvQsEnZpHaHgFmIrTt-1582821208006@nyuu</segment>
+			<segment bytes="728166" number="2">UiPoBoNpMjDfFcLcBbRiGoOo-1582821208282@nyuu</segment>
+			<segment bytes="728167" number="3">OgOwJwXwGyYjSgWzNbLqQpZo-1582821208414@nyuu</segment>
+			<segment bytes="728167" number="4">CgGpDgIbYtJpWiBzWcIgDnYd-1582821208654@nyuu</segment>
+			<segment bytes="728167" number="5">KoGfCaOtXwOjSwPvHxAmSxFi-1582821208960@nyuu</segment>
+			<segment bytes="728167" number="6">LhMxAuMlGlJaZxAnOyJpVoQq-1582821209070@nyuu</segment>
+			<segment bytes="728167" number="7">XhPaDpRbRyNpYiIgAfAxOsKm-1582821209400@nyuu</segment>
+			<segment bytes="728167" number="8">MiKkIhYwKfXuAaJgAhZfHtGc-1582821209624@nyuu</segment>
+			<segment bytes="565945" number="9">YdXjDrNwVeDpEbMaRyEdHtUr-1582821209794@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821210" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [29/52] - &quot;8edd0c1c-1edf-48d2-98f0-c09187117fc9&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">MsQbKpGyUiUzDsXySnQcFaRl-1582821210078@nyuu</segment>
+			<segment bytes="728166" number="2">SbZnVrSpMwNaEaMgUeRmUbZf-1582821210311@nyuu</segment>
+			<segment bytes="728167" number="3">HeVzXkXfSnHmZwJhEiFgHwGk-1582821210469@nyuu</segment>
+			<segment bytes="728167" number="4">WzHvWkJoIxQnSrBoGyKeFgBc-1582821210724@nyuu</segment>
+			<segment bytes="728167" number="5">RcTuMrAxQbBgZpOuQcVvElKe-1582821211157@nyuu</segment>
+			<segment bytes="728167" number="6">QhKqBdBySkJjDlVmWyIlVvIc-1582821211159@nyuu</segment>
+			<segment bytes="728167" number="7">UdHnXgQmRyEyQzDvAaZkMyYf-1582821211449@nyuu</segment>
+			<segment bytes="728167" number="8">NpHlDjIhRlSjXeJhGaTwRkRq-1582821211938@nyuu</segment>
+			<segment bytes="565945" number="9">HfEuWnPqDvNmFfIfLgCgIySy-1582821212189@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821212" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [30/52] - &quot;96d20489-c66d-4f03-8f1a-83816560bbc8&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">XpGxXiZsAkEcIqIqPiEsCjVg-1582821212220@nyuu</segment>
+			<segment bytes="728166" number="2">QvDaAiXbGaWsNnJqKhTxYmHz-1582821212587@nyuu</segment>
+			<segment bytes="728167" number="3">WeYaXfOuZcJwGcFfXnLoNfFb-1582821213102@nyuu</segment>
+			<segment bytes="728167" number="4">KsYkNtKyEwEqXrSaAuWkGnJp-1582821213126@nyuu</segment>
+			<segment bytes="728167" number="5">YlFaQsCaEbJpPoTqFtOkVjVr-1582821213307@nyuu</segment>
+			<segment bytes="728167" number="6">AlRyOyVtWjUzLfDxCdUkLmSh-1582821213740@nyuu</segment>
+			<segment bytes="728167" number="7">GeNhAuSnFuTgHpBcZhOzHiFa-1582821214126@nyuu</segment>
+			<segment bytes="728167" number="8">WbKhTmIgStRaJdPoBoKmTjNc-1582821214190@nyuu</segment>
+			<segment bytes="565945" number="9">XqGyWhHsSdAhKrLqFmDoPbQg-1582821214386@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821214" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [31/52] - &quot;9c4454ff-7409-42c1-a5cb-99f12d830f1c&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">VcOtGfZuXpZdCgXmWwJxEcMz-1582821214936@nyuu</segment>
+			<segment bytes="728166" number="2">OrKnXrAnJaQqObHjEyDaXrZg-1582821215243@nyuu</segment>
+			<segment bytes="728167" number="3">LsLeScUnLtAhAfVzUbBdLxLf-1582821215253@nyuu</segment>
+			<segment bytes="728167" number="4">SkQwFvAcUkSiLgFqBlHpQgQm-1582821215602@nyuu</segment>
+			<segment bytes="728167" number="5">FmWgIcBsHfVmQaNfXtDxMlFe-1582821216002@nyuu</segment>
+			<segment bytes="728167" number="6">QqKfYqMuAmIkPiUxSiQiVrPx-1582821216031@nyuu</segment>
+			<segment bytes="728167" number="7">GuGdJqAgLdCuFuNyJsTtBeHd-1582821216291@nyuu</segment>
+			<segment bytes="728167" number="8">OtZpXyWuTfQzSgLeKkRyGzIr-1582821216788@nyuu</segment>
+			<segment bytes="565945" number="9">AqXuLpQnYtXxToRfRtOgIwAd-1582821216962@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821217" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [32/52] - &quot;9ccea566-a437-4f08-9f71-1e66277f22e1&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">KpHzXhIkWnYrJlCuBtGmKtYn-1582821217090@nyuu</segment>
+			<segment bytes="728166" number="2">GpBtTiWdQuHaUwBcTgTdRwDa-1582821217443@nyuu</segment>
+			<segment bytes="728167" number="3">LfWrYwCsOcLwBmQkDmQmVxYe-1582821217747@nyuu</segment>
+			<segment bytes="728167" number="4">FcHtWeAhIoOfKrMtWjTtYaDo-1582821217838@nyuu</segment>
+			<segment bytes="728167" number="5">VqZwItTnZqGqGeLfUhLzFkUl-1582821218097@nyuu</segment>
+			<segment bytes="728167" number="6">RwNvPeLcXeLhNtMkLlWcVlBf-1582821218405@nyuu</segment>
+			<segment bytes="728167" number="7">LyRfSzHhTuIdEjUvZqYlAcKd-1582821218542@nyuu</segment>
+			<segment bytes="728167" number="8">XtIfLoArCvVqMqWqRxMnQnNq-1582821218751@nyuu</segment>
+			<segment bytes="565945" number="9">RxMxUaZbEsLkTePaExZhYoFs-1582821219094@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821219" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [33/52] - &quot;9ced569d-1d10-41c8-83d0-a5df29745a58&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">DyQcAbGzQsCoWqJtMwHxBqXx-1582821219306@nyuu</segment>
+			<segment bytes="728166" number="2">CbXqLuLgYzHiLcSwAsKcJcPh-1582821219442@nyuu</segment>
+			<segment bytes="728167" number="3">ZfTuOdKsTgDsKyHvDhQoPyMe-1582821219739@nyuu</segment>
+			<segment bytes="728167" number="4">NmSySyKbKoYvApQvCxBfPrJv-1582821219969@nyuu</segment>
+			<segment bytes="728167" number="5">VzYfXfTkMgAsSySbUfFcCbQq-1582821220148@nyuu</segment>
+			<segment bytes="728167" number="6">YyKrMcArNdEvWjVcWxKdCfPc-1582821220368@nyuu</segment>
+			<segment bytes="728167" number="7">KcLlHuNxRtCuBmJlRgNwKgWe-1582821220614@nyuu</segment>
+			<segment bytes="728167" number="8">WaDdMbHvYiLyEkEcHkUzZaZj-1582821220807@nyuu</segment>
+			<segment bytes="565945" number="9">EdXcNyItLeNwSvHeOpKeXjCn-1582821221028@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821221" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [34/52] - &quot;9fcabd6a-122d-4094-b4ef-436acfc2a246&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">UaMsBvXuCyJsHiQmEtVzFsRp-1582821221263@nyuu</segment>
+			<segment bytes="728166" number="2">OmFaDnNsPhCtOfLxUvLuYsJc-1582821221465@nyuu</segment>
+			<segment bytes="728167" number="3">ZmFkGpJnKwXxAlDaWuPmQyCp-1582821221685@nyuu</segment>
+			<segment bytes="728167" number="4">KoPgOcUqNlCvGtZpOsOnZcHk-1582821221910@nyuu</segment>
+			<segment bytes="728167" number="5">IaBvJjXgMuBbWqNpJeZqAsHo-1582821222113@nyuu</segment>
+			<segment bytes="728167" number="6">TfWoFfZvZmDyTvVgStLwZyFo-1582821222290@nyuu</segment>
+			<segment bytes="728167" number="7">LxMqMsXlBzXyJjQaBdEzCoPd-1582821222572@nyuu</segment>
+			<segment bytes="728167" number="8">FrPkQiDuMdYxBhZbAvIqNwAj-1582821222776@nyuu</segment>
+			<segment bytes="565945" number="9">KsFwJbGfIbDcWcUaAdKkJvSn-1582821222968@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821223" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [35/52] - &quot;ad2187f5-b7d7-4a63-a7de-725dc6121ee8&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">OfIwOdTjYeCbKpYyBiBvMqYk-1582821223260@nyuu</segment>
+			<segment bytes="728166" number="2">CwArHtCzZtRyUdOwMpFyTsLf-1582821223434@nyuu</segment>
+			<segment bytes="728167" number="3">PvMzXkQaLuMcLnFxThPkLzHp-1582821223634@nyuu</segment>
+			<segment bytes="728167" number="4">CnOtGoWqDbEtRbUqAkUgRnLp-1582821223909@nyuu</segment>
+			<segment bytes="728167" number="5">ZjNvUfNoPiDzDjUoJrYgBcSs-1582821224112@nyuu</segment>
+			<segment bytes="728167" number="6">KqLgEeLxAbNuIfKjUkGsOtCw-1582821224258@nyuu</segment>
+			<segment bytes="728167" number="7">AcQzDcAaUqJtChXsRgSlRmUq-1582821224569@nyuu</segment>
+			<segment bytes="728167" number="8">IcAbFuWsQzVtNtOnFdBgLkHh-1582821224766@nyuu</segment>
+			<segment bytes="565945" number="9">LhTwLbRvOrKtVzLvYqCyCjBh-1582821224959@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821225" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [36/52] - &quot;ae70d753-2d92-4590-81b1-45e8a199c215&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">GaUtVvTaLvUnRoWkPaYhYnIu-1582821225242@nyuu</segment>
+			<segment bytes="728166" number="2">PiGvFdUbThLuWsPgBvZoJaKy-1582821225492@nyuu</segment>
+			<segment bytes="728167" number="3">PsWfSeKoLaCqQjZxFpDpEzBv-1582821225637@nyuu</segment>
+			<segment bytes="728167" number="4">OjHdGjUfYaBgXpGlOcWyTbUh-1582821225884@nyuu</segment>
+			<segment bytes="728167" number="5">BeGhWxHtPmGfZjYpPqEwBwOx-1582821226175@nyuu</segment>
+			<segment bytes="728167" number="6">HrDqIhBeIgUaNnTvUvKrRnWi-1582821226289@nyuu</segment>
+			<segment bytes="728167" number="7">VvXoXvJfLlVpPsYjCmPoIpUo-1582821226536@nyuu</segment>
+			<segment bytes="728167" number="8">IsJoHkJvFdJbTsIyLsVxCeKr-1582821227003@nyuu</segment>
+			<segment bytes="565945" number="9">XaQpVkJsAmTiOxXyFrYxIiUq-1582821227156@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821227" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [37/52] - &quot;aecb62a4-0221-4dd5-96e5-6bdb118f97e5&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">XxEaQqLuHcNkEbGcKtRmGoMk-1582821227255@nyuu</segment>
+			<segment bytes="728166" number="2">MvZjEtFtLkUhLsFePeQsQgOj-1582821227641@nyuu</segment>
+			<segment bytes="728167" number="3">CnRxYmWsHwBtQoGeJoTnCbBd-1582821227998@nyuu</segment>
+			<segment bytes="728167" number="4">WrFoUeIvRiJtTrZdBaEcSeTd-1582821228066@nyuu</segment>
+			<segment bytes="728167" number="5">PaQvKhCbRvXfWoDxQyGkXmJw-1582821228281@nyuu</segment>
+			<segment bytes="728171" number="6">FaGuKqRdByPbBvIiHxDfKkJx-1582821228599@nyuu</segment>
+			<segment bytes="728167" number="7">WwHpSqPwZvYaCcBsXrTpUkSo-1582821228884@nyuu</segment>
+			<segment bytes="728167" number="8">WdEeEcDlUnGgUhGgGdIbEhAl-1582821228990@nyuu</segment>
+			<segment bytes="565948" number="9">FkFwGuKyRfQeXlOzBiYmEsEz-1582821229240@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821229" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [38/52] - &quot;af0ceeb6-9162-4191-bdff-52429a7596fa&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">ZbTeUrBoPxGkIjKcMyDmPfEb-1582821229706@nyuu</segment>
+			<segment bytes="728166" number="2">BtTaXnEyAaDbVnAwIzPuYvNj-1582821229732@nyuu</segment>
+			<segment bytes="728167" number="3">OzLhJnWcMgBvPpQcAjBgOhLs-1582821229919@nyuu</segment>
+			<segment bytes="728167" number="4">LiMwVhFnLlWqIkLqYfYvEvKi-1582821230613@nyuu</segment>
+			<segment bytes="728167" number="5">ZyKyAaLzElJmQtLrLnTaLdZq-1582821230631@nyuu</segment>
+			<segment bytes="728167" number="6">VqGgFgEcQpHkOqChHaYcCtTd-1582821230671@nyuu</segment>
+			<segment bytes="728167" number="7">YfWmBkQiWiQrSpEgIbWbKxNt-1582821231535@nyuu</segment>
+			<segment bytes="728171" number="8">IrBoMcUwCuTfZiJuLxIxDrPe-1582821231586@nyuu</segment>
+			<segment bytes="565947" number="9">CqAxScDqWsUfRrXmJoLqBaGv-1582821231654@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821232" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [39/52] - &quot;b5e9590e-3a7e-42fe-9c9b-62f4c14fa50e&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">RgAzLkKlPhLsJyEwGpJwGfFu-1582821232362@nyuu</segment>
+			<segment bytes="728166" number="2">ZuWhIkKnZnRnRuBxToSxXzQg-1582821232485@nyuu</segment>
+			<segment bytes="728167" number="3">LkXkMmZuFbTmXvLvYpPfJzAj-1582821232561@nyuu</segment>
+			<segment bytes="728167" number="4">BnGdQvRfDkZaWcIbCvPqRrKs-1582821233030@nyuu</segment>
+			<segment bytes="728167" number="5">MwYiXcCdMoHoHrFrHkClYiEg-1582821233305@nyuu</segment>
+			<segment bytes="728167" number="6">UdKbCqKpEvHsOyCxIsRxAcWx-1582821233336@nyuu</segment>
+			<segment bytes="728167" number="7">VtBiFcPhHeUkKuMdCgLdLfAi-1582821233676@nyuu</segment>
+			<segment bytes="728167" number="8">AzZiBpEwQpMyUxZvJdSlFqBb-1582821234092@nyuu</segment>
+			<segment bytes="565945" number="9">OvYrNfSjTsGqAkJgYrPhHiAe-1582821234176@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821234" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [40/52] - &quot;b7743cab-75ca-4c2c-8e54-4494199c91c0&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">HuQxDuOiJnSzGfEjUoXtJlLq-1582821234357@nyuu</segment>
+			<segment bytes="728166" number="2">JdLnVqXdAmSkKjJkXcRaKhVw-1582821234790@nyuu</segment>
+			<segment bytes="728167" number="3">OaYhKmTrVdGbWwYfPlJiUvCq-1582821235079@nyuu</segment>
+			<segment bytes="728167" number="4">DxQiEgNyMfUvRsRrVcWdPxUu-1582821235141@nyuu</segment>
+			<segment bytes="728167" number="5">EtJgTrGfBsEvTlOqZbHgJqXl-1582821235478@nyuu</segment>
+			<segment bytes="728167" number="6">WeVrTjFcGqYhMiStIoKsSzCf-1582821235800@nyuu</segment>
+			<segment bytes="728167" number="7">HlLqZvLrRjLbZyCiIbTfKyGm-1582821235896@nyuu</segment>
+			<segment bytes="728167" number="8">FoJmBpTaBnEtYtUePpFrVlZt-1582821236134@nyuu</segment>
+			<segment bytes="565945" number="9">DwVwFbRmEtAgPcYxJmBdHrRw-1582821236654@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821236" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [41/52] - &quot;b90f8bbb-9dc6-45e0-8e07-7bedde0108a6&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">KlFkQvOsWtEsNgArSmCyZgGt-1582821236677@nyuu</segment>
+			<segment bytes="728166" number="2">QsXfLtCbAgRcZsNgAmIzVpGm-1582821236835@nyuu</segment>
+			<segment bytes="728167" number="3">VaYmFeNyWyOkHsOqBqBeRtEs-1582821237473@nyuu</segment>
+			<segment bytes="728167" number="4">ZbKaXrMaQhWxKjSwLeEhMrKa-1582821237601@nyuu</segment>
+			<segment bytes="728167" number="5">FgUcGtFyIbLiAxHfOyMrCuVi-1582821237683@nyuu</segment>
+			<segment bytes="728167" number="6">EmLiCdDwEuVkXdJyTiKzRtHn-1582821238063@nyuu</segment>
+			<segment bytes="728167" number="7">AzNvKlSiFqJmJbThYbEsWrMq-1582821238350@nyuu</segment>
+			<segment bytes="728167" number="8">CqRoOoCxScHgPqSpIiPaGjDw-1582821238487@nyuu</segment>
+			<segment bytes="565945" number="9">MnIxWhAsSzFkIuGqOcNbPdQg-1582821238709@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821239" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [42/52] - &quot;bc90f4c4-e392-4cef-8c8d-3afa7d7ee73d&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">RcPrUtDuYwIpVqEaTmEvXvOf-1582821239035@nyuu</segment>
+			<segment bytes="728166" number="2">WnEaVnGeGdMvOrPcDqHhZjGa-1582821239216@nyuu</segment>
+			<segment bytes="728167" number="3">DrTdRnDhHuErHgOzAbXuQnRp-1582821239390@nyuu</segment>
+			<segment bytes="728167" number="4">FlLpFhJlSrBjUqMaTlEpAzMb-1582821239662@nyuu</segment>
+			<segment bytes="728167" number="5">MfDlWkIvXpFvBhFwUwKsIkHu-1582821239884@nyuu</segment>
+			<segment bytes="728167" number="6">ShPqTnEjZwDkMiYkYpRbFwYp-1582821240017@nyuu</segment>
+			<segment bytes="728167" number="7">ShTaVbUjFgBfKfTvFnHbXzIr-1582821240308@nyuu</segment>
+			<segment bytes="728167" number="8">MlOnOcDyTrPuUvChJlJtNlNk-1582821240606@nyuu</segment>
+			<segment bytes="565945" number="9">KaIxTeUoTbLfMjLfSqPfYeOa-1582821240728@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821240" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [43/52] - &quot;be18cebb-a3d2-48a0-8abe-e251d6ae5bac&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">NvEnMwTyNnMeLjKyAnIsMhAw-1582821240979@nyuu</segment>
+			<segment bytes="728166" number="2">WnYuYvSlOpImWnJvFzHeNoFq-1582821241296@nyuu</segment>
+			<segment bytes="728167" number="3">RhAyWhWsNaQfGyCqMjQmIgAz-1582821241448@nyuu</segment>
+			<segment bytes="728167" number="4">LzNgStUqZvQpGmEsMyHnVyHp-1582821241650@nyuu</segment>
+			<segment bytes="728167" number="5">FeRiHmHtBkAkLaOgWbUxFiXz-1582821241953@nyuu</segment>
+			<segment bytes="728167" number="6">LkXoWyWoJhUrOmGfCoTaFsIz-1582821242094@nyuu</segment>
+			<segment bytes="728167" number="7">BwQtLwPaGqAxKhUqWzVhXeFk-1582821242310@nyuu</segment>
+			<segment bytes="728167" number="8">VoNcGpOrRmHnPwPdYgJkQzSr-1582821242622@nyuu</segment>
+			<segment bytes="565945" number="9">BoRdQpUfZpRmNqKxSpDaGnEk-1582821242801@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821243" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [44/52] - &quot;c9839292-6104-4a82-8e19-71f86e3f54f0&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">RvKcMrPuDiKgWbKoJaUoBzGh-1582821243000@nyuu</segment>
+			<segment bytes="728166" number="2">YzWhGySfOoPlAfFaEuWwFeNu-1582821243279@nyuu</segment>
+			<segment bytes="728167" number="3">SlDsUaBnWzWvOoOyZtKdDkDg-1582821243475@nyuu</segment>
+			<segment bytes="728167" number="4">YdTqRqKgGbLyGhKhRqNsXhEn-1582821243660@nyuu</segment>
+			<segment bytes="728167" number="5">VmDxCjLkKvBoEbMxDqRpQvIn-1582821243946@nyuu</segment>
+			<segment bytes="728167" number="6">NfPdUzJeNyPjIvUsWhBjNgLy-1582821244082@nyuu</segment>
+			<segment bytes="728167" number="7">GbLqToGyYqZySkJoQsNgAkHm-1582821244327@nyuu</segment>
+			<segment bytes="728167" number="8">QtBoYkPiGpHuLhVkRfDbGlFa-1582821244653@nyuu</segment>
+			<segment bytes="565945" number="9">FsGdImPtVdTyFtYlYoRaSwYo-1582821244804@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821245" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [45/52] - &quot;ce074327-0bd0-453b-b338-afe5f050d9fe&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728164" number="1">HvAoXzWbOgZzYvFnMsCvRvFf-1582821245020@nyuu</segment>
+			<segment bytes="728166" number="2">HtGuDkMqKcLwIfSpVkYpZkBa-1582821245341@nyuu</segment>
+			<segment bytes="728167" number="3">HeJuTuVxGnVkGbNxArWxTfOw-1582821245513@nyuu</segment>
+			<segment bytes="728167" number="4">ZiTdVlPmTwVjIgQzZrDaOnDo-1582821245689@nyuu</segment>
+			<segment bytes="728167" number="5">EeNuZgFaMwEdMiQoMjVnPxMc-1582821246005@nyuu</segment>
+			<segment bytes="728167" number="6">ZpOhEfBmWcWwXgFgEfTdRzCh-1582821246165@nyuu</segment>
+			<segment bytes="728167" number="7">TwIyLvBxSlAmOvZtWiBcNvMf-1582821246349@nyuu</segment>
+			<segment bytes="728167" number="8">GgNjAvKxNcDfBnUcJtBgHnLt-1582821246651@nyuu</segment>
+			<segment bytes="565946" number="9">LyMeOcJbLgHzOzCfFqYuXxWt-1582821246843@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821247" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [46/52] - &quot;d0b6a685-7bf5-47c9-8b2d-396e82e42be9&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">HqMaFyUgGdSnHvRvVpNzStJz-1582821247046@nyuu</segment>
+			<segment bytes="728166" number="2">ArLgPxRiKzWsFzMbDhYcMlGu-1582821247610@nyuu</segment>
+			<segment bytes="728167" number="3">SrZjHkVuBcRfLpHbMqCjUdNg-1582821247611@nyuu</segment>
+			<segment bytes="728167" number="4">CbXdIfFeVmFeJcWuCqDvHbLf-1582821247721@nyuu</segment>
+			<segment bytes="728167" number="5">OxIgUcBvTyGoWeYnOmZrXsYc-1582821248431@nyuu</segment>
+			<segment bytes="728167" number="6">YdBsWjRbOvUiDyGkIhYkIgJz-1582821248432@nyuu</segment>
+			<segment bytes="728167" number="7">NxXtHgDiMyIzRjLdJwVaTqRc-1582821248594@nyuu</segment>
+			<segment bytes="728167" number="8">VkIgFeSvMoDoSiLgZsIwWqUr-1582821249331@nyuu</segment>
+			<segment bytes="565945" number="9">QmKoAnCpVmOkVuBbUrQoPlEj-1582821249333@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821249" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [47/52] - &quot;d74f35b5-aa78-4ddf-9e2f-7830fbd59892&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">EjFvOrXxUpOmXyRaMbUsOdQp-1582821249503@nyuu</segment>
+			<segment bytes="728166" number="2">PmYhIoFhPtJqNmZdDjKuVhPz-1582821250250@nyuu</segment>
+			<segment bytes="728171" number="3">FuDqMpLuSfVpTpHvXfLmGoHs-1582821250261@nyuu</segment>
+			<segment bytes="728167" number="4">NkYyQiDmXyReNnSzCyEmSnQh-1582821250368@nyuu</segment>
+			<segment bytes="728167" number="5">DkLxOtTnJmCrNvIbJoDqRmBr-1582821251093@nyuu</segment>
+			<segment bytes="728167" number="6">JwHhBnLuFhObJqBxSfHoWqOc-1582821251154@nyuu</segment>
+			<segment bytes="728167" number="7">EtHiYaOnPwLjGjKaYuViSmWb-1582821251258@nyuu</segment>
+			<segment bytes="728167" number="8">LeDjLvLwOwTnZjNiSkGvZkWh-1582821251912@nyuu</segment>
+			<segment bytes="565947" number="9">UwCwAfWzRlLvEtXyMsSgFpZx-1582821252035@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821252" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [48/52] - &quot;e2bd3bb1-dc73-4b4a-b8ad-3835ff0c969f&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">XyCwVySeGvDnTcLeCjJeGqLu-1582821252140@nyuu</segment>
+			<segment bytes="728166" number="2">DsGwKrDlJuGgPyIxDvVxYbAl-1582821252617@nyuu</segment>
+			<segment bytes="728171" number="3">FxYsXaPoCcVbYsQpZmEzDuPa-1582821252869@nyuu</segment>
+			<segment bytes="728167" number="4">DrAzXpTeKpWbZwAqNpKxRaUy-1582821252942@nyuu</segment>
+			<segment bytes="728167" number="5">AgDaLiZoUpRtEfQcYbPtXaHg-1582821253268@nyuu</segment>
+			<segment bytes="728167" number="6">VsTtZiBlBqQeRoCiLeHmJsVl-1582821253516@nyuu</segment>
+			<segment bytes="728167" number="7">JgZfEvOnVtQzCfTrMfJaTuUx-1582821253673@nyuu</segment>
+			<segment bytes="728167" number="8">WjGpUaOxJyRvXxUlMbZvJvXs-1582821253926@nyuu</segment>
+			<segment bytes="565947" number="9">RgJbJxIeRjXgFpWxJnRtGkXv-1582821254161@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821254" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [49/52] - &quot;efe0ab9e-7716-408c-b545-a1897d10fff7&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728164" number="1">KuDsVwOlXhZnQkHaKqJdPhWw-1582821254389@nyuu</segment>
+			<segment bytes="728166" number="2">DzEuOsXoQbIgJbNvJyFxRoXi-1582821254579@nyuu</segment>
+			<segment bytes="728167" number="3">RzOdFbKvTkFpYuIcTvNpQoIt-1582821254809@nyuu</segment>
+			<segment bytes="728167" number="4">IcTrUsEmClRhPiTvZwTuSwJo-1582821255023@nyuu</segment>
+			<segment bytes="728167" number="5">MaWyAkAaIiCbXdUzOsFyIlEp-1582821255227@nyuu</segment>
+			<segment bytes="728167" number="6">OaFgVgZbXzXdIkDlWkKkDdVw-1582821255402@nyuu</segment>
+			<segment bytes="728167" number="7">HdGjMaBlXsAgDsRwFkIjCnFa-1582821255739@nyuu</segment>
+			<segment bytes="728167" number="8">HiMcKpUvPjFmKrMwMcErLkCm-1582821255897@nyuu</segment>
+			<segment bytes="565945" number="9">PaOcJlXeLpZgUjYnCqGfVmHn-1582821256077@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821256" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [50/52] - &quot;f499b58c-cc91-4b6f-8759-40392314db32&quot; yEnc (1/3) 2098996">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">SvRpGsXeGfYeDdGkVoQuZmAy-1582821256404@nyuu</segment>
+			<segment bytes="728166" number="2">OuXoTqAzRqGwFyBuVpFqHmLn-1582821256608@nyuu</segment>
+			<segment bytes="675977" number="3">QmIoLaKlTlKdPtJuYkSeBgGf-1582821256780@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821257" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [51/52] - &quot;f69c9257-f320-40d0-b7e2-f24a4fd5ce05&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">UnSxWeMgIfIqYxEeBqKnPwHm-1582821257062@nyuu</segment>
+			<segment bytes="728166" number="2">XaMvDvBuYdOpOpCtHjEyAmYz-1582821257273@nyuu</segment>
+			<segment bytes="728167" number="3">EyCxKfPjAuZnEqIxQqBmLrQz-1582821257400@nyuu</segment>
+			<segment bytes="728167" number="4">AaAnDfEuVkZlIqItRcJeKuEb-1582821257707@nyuu</segment>
+			<segment bytes="728167" number="5">JtZtMqIbAsMyCtWjHjQtXnHz-1582821257954@nyuu</segment>
+			<segment bytes="728167" number="6">KvYwJlHmSdYcRxQnFbQxYuSc-1582821258095@nyuu</segment>
+			<segment bytes="728167" number="7">EgMaOxLqYcUtRmNnIdNqJfJo-1582821258356@nyuu</segment>
+			<segment bytes="728167" number="8">IvLePoZbUmIoRcTfOnOoNxWa-1582821258620@nyuu</segment>
+			<segment bytes="565945" number="9">CuNmMgRhHgQbNaTnXuOrUnOv-1582821258789@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1582821259" subject="reftestnzb mixed obfuscated rar sets fccaf29cd32f [52/52] - &quot;fc0a1033-c79f-4818-a2ba-3766177f76ec&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728163" number="1">FgIkLmSkKgPxLhSuMgZoOgKu-1582821259021@nyuu</segment>
+			<segment bytes="728166" number="2">PoTfRrImVfGrMbWbRtEySxGe-1582821259284@nyuu</segment>
+			<segment bytes="728167" number="3">XlHkFvBkAkYjPiGxAoHxOoGt-1582821259464@nyuu</segment>
+			<segment bytes="728167" number="4">GdZfNrUqAfCjVgZvHbSoCgZb-1582821259687@nyuu</segment>
+			<segment bytes="728167" number="5">HhEoMbDfBjTjOjAnOsRoYwWg-1582821259938@nyuu</segment>
+			<segment bytes="728167" number="6">VuIcXzHuCeXnJsGqRtTwWnJu-1582821260070@nyuu</segment>
+			<segment bytes="728167" number="7">VsFwZkBoDzJaFySmDcTiJsGw-1582821260359@nyuu</segment>
+			<segment bytes="728167" number="8">DeOiDmAgFtEtZhAqOzFxSgUq-1582821260610@nyuu</segment>
+			<segment bytes="565945" number="9">YaHbRwMiYqYdQqYtWgGrCpJb-1582821260781@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
