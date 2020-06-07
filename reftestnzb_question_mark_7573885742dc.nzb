@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1591522760" subject="reftestnzb question_mark 7573885742dc [1/9] - &quot;question_mark.rar&quot; yEnc (1/2) 1048752">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728144" number="1">KoFzLiJfTtHrNmYpUjLySuTo-1591522760947@nyuu</segment>
+			<segment bytes="337303" number="2">RoMuJoSoQeXnMcHjFfAtKhLf-1591522760949@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1591522760" subject="reftestnzb question_mark 7573885742dc [2/9] - &quot;question_mark.rar.par2&quot; yEnc (1/1) 40156">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="43025" number="1">WhVbIeOkSyRhPhMqRtYuGyDp-1591522760950@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1591522761" subject="reftestnzb question_mark 7573885742dc [3/9] - &quot;question_mark.rar.vol000+02.par2&quot; yEnc (1/1) 81400">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="87009" number="1">FoDwEcZaJiRmNlDmRdNoBgKs-1591522761088@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1591522761" subject="reftestnzb question_mark 7573885742dc [4/9] - &quot;question_mark.rar.vol002+04.par2&quot; yEnc (1/1) 122644">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="130993" number="1">CoOsGjEaUzFlGxQrCcKqHlBs-1591522761091@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1591522762" subject="reftestnzb question_mark 7573885742dc [5/9] - &quot;question_mark.rar.vol006+08.par2&quot; yEnc (1/1) 165080">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="176183" number="1">ZtMfPyWuLkGvSpPaJaOkEaHm-1591522762346@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1591522763" subject="reftestnzb question_mark 7573885742dc [6/9] - &quot;question_mark.rar.vol014+16.par2&quot; yEnc (1/1) 209900">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="223809" number="1">BsAqUaHoNhAbOeNjXqItRcTq-1591522763332@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1591522763" subject="reftestnzb question_mark 7573885742dc [7/9] - &quot;question_mark.rar.vol030+32.par2&quot; yEnc (1/1) 259488">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="276295" number="1">CiPjKoRoSbVlBlAjDdDaYfJc-1591522763375@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1591522763" subject="reftestnzb question_mark 7573885742dc [8/9] - &quot;question_mark.rar.vol062+64.par2&quot; yEnc (1/1) 318612">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="338495" number="1">PyMzOwLpUpRmEuFrAqHgNbAu-1591522763524@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1591522763" subject="reftestnzb question_mark 7573885742dc [9/9] - &quot;question_mark.rar.vol126+73.par2&quot; yEnc (1/1) 323976">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="343966" number="1">KhNlYmBpImLzLjIwRyYmDcQi-1591522763889@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
