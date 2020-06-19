@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1592568082" subject="reftestnzb small post with EXE as plain file [06/12] - &quot;sometestfile-100MB.part6.rar&quot; yEnc (1/1) 25593">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="26160" number="1">PeNgMbDcVkEaHqDgLnZdLpKa-1592568082112@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1592568082" subject="reftestnzb small post with EXE as plain file [03/12] - &quot;sometestfile-100MB.part3.rar&quot; yEnc (1/1) 204800">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="208170" number="1">GgWsNwZzFpYhMeSwZeYbZqSv-1592568082044@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1592568082" subject="reftestnzb small post with EXE as plain file [01/12] - &quot;sometestfile-100MB.part1.rar&quot; yEnc (1/1) 204800">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="208174" number="1">TrFlSvQgPnDpWbGkLmOfTlPs-1592568082040@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1592568082" subject="reftestnzb small post with EXE as plain file [02/12] - &quot;sometestfile-100MB.part2.rar&quot; yEnc (1/1) 204800">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="208170" number="1">OcIgVtBiMmTlWjNcSrXkZaHw-1592568082043@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1592568082" subject="reftestnzb small post with EXE as plain file [04/12] - &quot;sometestfile-100MB.part4.rar&quot; yEnc (1/1) 204800">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="208170" number="1">EyQoHoHiEuXxPyLeYyXnNrLc-1592568082045@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1592568082" subject="reftestnzb small post with EXE as plain file [05/12] - &quot;sometestfile-100MB.part5.rar&quot; yEnc (1/1) 204800">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="208170" number="1">LnVyCtYyHyNhHjByTbSdYfVk-1592568082111@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1592568082" subject="reftestnzb small post with EXE as plain file [07/12] - &quot;sometestfile-100MB.par2&quot; yEnc (1/1) 11916">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="12279" number="1">BdAkHdZfTiSfWmMjWsMrNtAn-1592568082113@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1592568082" subject="reftestnzb small post with EXE as plain file [08/12] - &quot;sometestfile-100MB.vol00+01.par2&quot; yEnc (1/1) 14032">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="14442" number="1">IsYtWlIyQgDpKfHlOvKzAmOm-1592568082114@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1592568082" subject="reftestnzb small post with EXE as plain file [09/12] - &quot;sometestfile-100MB.vol01+02.par2&quot; yEnc (1/1) 16148">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="16596" number="1">OoByRfMpNsTbCrOtZcVjOaMl-1592568082115@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1592568082" subject="reftestnzb small post with EXE as plain file [10/12] - &quot;sometestfile-100MB.vol03+04.par2&quot; yEnc (1/1) 32180">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="32903" number="1">ZhQgFyGbIqTeQcJaSoArEdNc-1592568082119@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1592568082" subject="reftestnzb small post with EXE as plain file [12/12] - &quot;very-handy-fake.exe&quot; yEnc (1/1) 102400">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="104157" number="1">DmAwGgKrSvZsCvQiFfJhHdWx-1592568082554@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1592568082" subject="reftestnzb small post with EXE as plain file [11/12] - &quot;sometestfile-100MB.vol07+01.par2&quot; yEnc (1/1) 14032">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="14437" number="1">AqThQaVvVtMzVjHpVwVvHeNd-1592568082540@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
