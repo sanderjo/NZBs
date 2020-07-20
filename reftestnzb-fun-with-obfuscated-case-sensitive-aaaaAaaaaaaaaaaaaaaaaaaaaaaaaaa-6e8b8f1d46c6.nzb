@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240648" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [02/16] - &quot;aaaaaaaaaaaaaaaAaaaaaaaaaaaaaaa&quot; yEnc (1/1) 41320">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="42731" number="1">HbLbMwCqCxGqFfHoUfIuBfQo-1595240648856@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240648" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [01/16] - &quot;aaaaaaaaaaaaaaaaAaaaaaaaaaaaaaa&quot; yEnc (1/1) 249576">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="257383" number="1">VuOyGqAeKzUeCbBfMlFzVzQg-1595240648852@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240649" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [04/16] - &quot;aaaaaaaaaaaaaAaaaaaaaaaaaaaaaaa&quot; yEnc (1/1) 799">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="988" number="1">TlOyNyHfMbAaUzOxFhVuLnZe-1595240649332@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240649" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [05/16] - &quot;aaaaaaaaaaaaAaaaaaaaaaaaaaaaaaa&quot; yEnc (1/1) 4795">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="5121" number="1">ExCvNpWbLcDeYlAgQfCoEhOb-1595240649346@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240648" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [03/16] - &quot;aaaaaaaaaaaaaaAaaaaaaaaaaaaaaaa&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739491" number="1">DxAgAiRdLvTxPwAuUlUdDsZd-1595240648860@nyuu</segment>
+			<segment bytes="739566" number="2">HnMnUxTvXxDzVpEgOgUeYpAp-1595240648861@nyuu</segment>
+			<segment bytes="739628" number="3">NwGeOpQaRlEfNqXsVfQoKsWs-1595240648899@nyuu</segment>
+			<segment bytes="739748" number="4">YwEtYfDzMwJaWqOwDmMvMpUx-1595240648901@nyuu</segment>
+			<segment bytes="739830" number="5">NkOfUdVpQbZqZzPiZaJxSfHn-1595240648903@nyuu</segment>
+			<segment bytes="739586" number="6">EhCiDvSfTwNgFaOoCdJxCcSi-1595240648906@nyuu</segment>
+			<segment bytes="739460" number="7">NqCmAfJlVoRgMwFpEhBtIfYh-1595240648912@nyuu</segment>
+			<segment bytes="232628" number="8">AyGnCpEnXeAsGgCsYsZxNoHv-1595240648917@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240649" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [06/16] - &quot;aaaaaaaaaaaAaaaaaaaaaaaaaaaaaaa&quot; yEnc (1/2) 965480">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739203" number="1">KlHbCiBmEpYhJbReOqSzVhLr-1595240649458@nyuu</segment>
+			<segment bytes="256561" number="2">RlAnObFwInRgMbQgEfZnHmPq-1595240649460@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240649" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [07/16] - &quot;aaaaaaaaaaAaaaaaaaaaaaaaaaaaaaa&quot; yEnc (1/1) 585832">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="604135" number="1">XmYsUvHuQtXnPwBiArGhTrNt-1595240649474@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240649" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [08/16] - &quot;aaaaaaaaaAaaaaaaaaaaaaaaaaaaaaa&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739613" number="1">QuFnLrZrUlXxDyKiMsAgEpNb-1595240649498@nyuu</segment>
+			<segment bytes="739757" number="2">NzBjEaPbLuPyIgOvLySeYwLj-1595240649838@nyuu</segment>
+			<segment bytes="739510" number="3">ZnUmJpBnHnRjJcPcShDwFmYl-1595240649841@nyuu</segment>
+			<segment bytes="739634" number="4">FsZbIqIcIbLeFfWaVaZfOuKn-1595240649870@nyuu</segment>
+			<segment bytes="739574" number="5">MlEvTmTzUpBtAqNmCvCsQaHn-1595240649906@nyuu</segment>
+			<segment bytes="739702" number="6">KnUeGwLtUxZvAmChMlNjGgQu-1595240649937@nyuu</segment>
+			<segment bytes="739847" number="7">BkDbBnSoHfIkXmEdCrVbLwCh-1595240649947@nyuu</segment>
+			<segment bytes="232593" number="8">QuTfWgZzKdYbWrIdAdXtLdEc-1595240650350@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240650" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [09/16] - &quot;aaaaaaaaAaaaaaaaaaaaaaaaaaaaaaa&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739662" number="1">QhSfIwSwQgLzElTvOpHwCeJm-1595240650358@nyuu</segment>
+			<segment bytes="739660" number="2">YeLzAxHxIwNoYaTjKsEwQlYk-1595240650373@nyuu</segment>
+			<segment bytes="739548" number="3">XlVrVrBlNoVlVgMqFrGzHqUj-1595240650432@nyuu</segment>
+			<segment bytes="739802" number="4">EzOmUdZyRaUiBpSxDkXzGnOu-1595240650467@nyuu</segment>
+			<segment bytes="739460" number="5">YsNtNhFmMbJyXiIqWsJcQuRz-1595240650491@nyuu</segment>
+			<segment bytes="739795" number="6">LcTbYhPnXkXoHaFoHbZkRwAo-1595240650924@nyuu</segment>
+			<segment bytes="739933" number="7">XyKjFyOoZdHcQfOoDzFuHjOs-1595240650929@nyuu</segment>
+			<segment bytes="232590" number="8">AkOzDgAbNhOpXfKrVyTrQxMe-1595240650945@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240651" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [12/16] - &quot;aaaaaAaaaaaaaaaaaaaaaaaaaaaaaaa&quot; yEnc (1/1) 103688">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="106976" number="1">SyUrJbZvTtVkAiUjMaBrYgZa-1595240651581@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240650" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [10/16] - &quot;aaaaaaaAaaaaaaaaaaaaaaaaaaaaaaa&quot; yEnc (1/1) 375400">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="387106" number="1">MhYoSmXsEhOpWjXvTeDiTwRc-1595240650975@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240650" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [11/16] - &quot;aaaaaaAaaaaaaaaaaaaaaaaaaaaaaaa&quot; yEnc (1/2) 1071240">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739296" number="1">FuYyNiNvPkVfAiTwXoDkAnVa-1595240650981@nyuu</segment>
+			<segment bytes="365434" number="2">FeAsWqVpSlZgSoBxUlWiCqVf-1595240651007@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240652" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [14/16] - &quot;aaaAaaaaaaaaaaaaaaaaaaaaaaaaaaa&quot; yEnc (1/1) 1247">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="1446" number="1">VrYcUsWxViNnWbMzSpQyGgKh-1595240652122@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240652" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [15/16] - &quot;aaAaaaaaaaaaaaaaaaaaaaaaaaaaaaa&quot; yEnc (1/1) 869">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="1043" number="1">LnNyQvJnNeAcXzLaUnOrBdUe-1595240652124@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240652" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [16/16] - &quot;aAaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&quot; yEnc (1/1) 166056">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="171258" number="1">FzTdUmAjOcPdPfQeNwIhZkSb-1595240652141@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1595240651" subject="reftestnzb fun with obfuscated case sensitive aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa 6e8b8f1d46c6 [13/16] - &quot;aaaaAaaaaaaaaaaaaaaaaaaaaaaaaaa&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739711" number="1">PiJlVjNgGbTnXgGtGcBeMyDe-1595240651601@nyuu</segment>
+			<segment bytes="739603" number="2">NuDoNnOvLyPvOiKoOoZrQxWw-1595240651607@nyuu</segment>
+			<segment bytes="739733" number="3">GiUpVlYnUjWdJxDrRyTzSzDi-1595240651610@nyuu</segment>
+			<segment bytes="739740" number="4">ZgStCcEkFjIzAgTmUyJpWwLj-1595240651613@nyuu</segment>
+			<segment bytes="739631" number="5">QhGkHfFeMqBtIvTaUhSqKcAc-1595240651617@nyuu</segment>
+			<segment bytes="739478" number="6">XcMtHyLwCcCkBxOgQjQtGyTr-1595240652092@nyuu</segment>
+			<segment bytes="739535" number="7">OgNwMiKsVsVbGoXoOdFyGgYo-1595240652096@nyuu</segment>
+			<segment bytes="232582" number="8">YaTjBoOiJsYuPaMiDlHrBbKb-1595240652119@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
