@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1597387450" subject="reftestnzb illegal char in filename 0cf049082ecd [01/11] - &quot;illegal_char.part1.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728150" number="1">RnKiEiWgVyTkOfEnMlBoZaUy-1597387450490@nyuu</segment>
+			<segment bytes="728152" number="2">XbAxVjPgJdHlJnUqNzZjTbAi-1597387450493@nyuu</segment>
+			<segment bytes="728153" number="3">LrBsKyGuBpLoZdKkTqIfDcQv-1597387450496@nyuu</segment>
+			<segment bytes="728153" number="4">LtDbFeXoTiOiNmCaJsHqVgLr-1597387450540@nyuu</segment>
+			<segment bytes="728153" number="5">NgNwDoPlMwEcPoYvEvIhJaNe-1597387450542@nyuu</segment>
+			<segment bytes="728153" number="6">TiMxNmPoQtTuDnEgKbKeEfPc-1597387450545@nyuu</segment>
+			<segment bytes="728153" number="7">LpJdPyAcKsLbEfEqXkEyMqDz-1597387451213@nyuu</segment>
+			<segment bytes="228972" number="8">KuFbOfTjKcUyDjKwGaErIhAe-1597387451216@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1597387451" subject="reftestnzb illegal char in filename 0cf049082ecd [02/11] - &quot;illegal_char.part2.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728149" number="1">SnKxFlCjPmAzKuXfMuRjVoZo-1597387451223@nyuu</segment>
+			<segment bytes="728152" number="2">KlEnNaVjBxPhZeAtTcJlUmDt-1597387451882@nyuu</segment>
+			<segment bytes="728153" number="3">GoGrReUnGpXgQlVmQuVhAyPa-1597387451905@nyuu</segment>
+			<segment bytes="728153" number="4">VaRkDqXyZzWlAvVnHmHiFeCo-1597387451914@nyuu</segment>
+			<segment bytes="728153" number="5">SxDgFyImMcSfYgIfInSbQqMa-1597387452348@nyuu</segment>
+			<segment bytes="728153" number="6">GjMgSqNkWyDeFhVqNmYdAxLe-1597387452418@nyuu</segment>
+			<segment bytes="728153" number="7">CuUiEeZtYrAgBvNxHrAtQvOh-1597387452477@nyuu</segment>
+			<segment bytes="228971" number="8">QhUrXpWyDmZlQuIdUhUbMuWc-1597387452955@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1597387453" subject="reftestnzb illegal char in filename 0cf049082ecd [04/11] - &quot;illegal_char.par2&quot; yEnc (1/1) 40880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="41680" number="1">UxIxUwOdWpRhWuJzKpJoIoTp-1597387453024@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1597387452" subject="reftestnzb illegal char in filename 0cf049082ecd [03/11] - &quot;illegal_char.part3.rar&quot; yEnc (1/1) 458">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="618" number="1">XbAzSaDqWiFqZyKvOmCdSqWf-1597387452972@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1597387453" subject="reftestnzb illegal char in filename 0cf049082ecd [05/11] - &quot;illegal_char.vol000+02.par2&quot; yEnc (1/1) 92296">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="93920" number="1">KiDjIoYkFaVlGtOcVzWcUeKm-1597387453523@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1597387453" subject="reftestnzb illegal char in filename 0cf049082ecd [06/11] - &quot;illegal_char.vol002+04.par2&quot; yEnc (1/1) 143712">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="146166" number="1">XxGlCtBsCbPsHkFwIiXtXkOk-1597387453559@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1597387453" subject="reftestnzb illegal char in filename 0cf049082ecd [07/11] - &quot;illegal_char.vol006+08.par2&quot; yEnc (1/1) 205768">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="209194" number="1">ZnHhCkMhBwZqTcEcOrCzBeDd-1597387453564@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1597387453" subject="reftestnzb illegal char in filename 0cf049082ecd [08/11] - &quot;illegal_char.vol014+16.par2&quot; yEnc (1/1) 289104">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="293864" number="1">EuMlFqYeYwHtUuQnExMtOpEn-1597387453952@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1597387453" subject="reftestnzb illegal char in filename 0cf049082ecd [09/11] - &quot;illegal_char.vol030+32.par2&quot; yEnc (1/1) 415000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="421799" number="1">JcHsEnUfYtZuYgXuCjQmZlFt-1597387453958@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1597387453" subject="reftestnzb illegal char in filename 0cf049082ecd [10/11] - &quot;illegal_char.vol062+64.par2&quot; yEnc (1/1) 626016">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="636257" number="1">MsHtBxWmGoThOdRtGnMrAbEh-1597387453982@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1597387454" subject="reftestnzb illegal char in filename 0cf049082ecd [11/11] - &quot;illegal_char.vol126+74.par2&quot; yEnc (1/1) 679216">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="690301" number="1">LiNtSnIxWmJyRnZvNqDkFoPy-1597387454351@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
