@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424689" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [01/32] - &quot;fake_m2ts.part01.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728150" number="1">XlAjGjHnDdSdQhXnFiCxUhUy-1600424689417@nyuu</segment>
+			<segment bytes="728150" number="2">XuHuOeDxGmDbTdOhBeZeVcMq-1600424689420@nyuu</segment>
+			<segment bytes="728151" number="3">EdFtJpInEvUbHlFfKpViYbIs-1600424689422@nyuu</segment>
+			<segment bytes="728151" number="4">KpTqCfRtYvKqUsYlUiMlYzYw-1600424689424@nyuu</segment>
+			<segment bytes="728151" number="5">IbLaDaSiGtViQyFkKnFiSlTz-1600424689426@nyuu</segment>
+			<segment bytes="728151" number="6">XbKgDxJcGiOjFkYqGjJqSdOe-1600424689466@nyuu</segment>
+			<segment bytes="728151" number="7">IiGyMvFgTbFvNqKsKjOtSdTs-1600424689471@nyuu</segment>
+			<segment bytes="228972" number="8">CyCmKeUiIeQpAsJtJrGbGsVc-1600424689480@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424689" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [02/32] - &quot;fake_m2ts.part02.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">NgVtXlXlHgDiGzMuBiVuUnOn-1600424689485@nyuu</segment>
+			<segment bytes="728150" number="2">DkPuBtZqJsMsBnIyEdStCxEs-1600424689488@nyuu</segment>
+			<segment bytes="728151" number="3">RnHyPsUgAdWlTrQzBmToZwPj-1600424689491@nyuu</segment>
+			<segment bytes="728151" number="4">XyYwUhCcWaMeYrYjOcRlNzHx-1600424689495@nyuu</segment>
+			<segment bytes="728151" number="5">UdIdDiNnSmOaVqChNeDnKaAq-1600424689501@nyuu</segment>
+			<segment bytes="728151" number="6">McFrUjYhGxRzIjAdYnDeKrEz-1600424689928@nyuu</segment>
+			<segment bytes="728151" number="7">IcWwFaEgMiEtJyMyNzGeNqTy-1600424689931@nyuu</segment>
+			<segment bytes="228970" number="8">EwPbUmObFbBlPlPjNiXdGsMz-1600424689957@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424689" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [03/32] - &quot;fake_m2ts.part03.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">VpYxWnApIjToRdDzDoDjSxKb-1600424689960@nyuu</segment>
+			<segment bytes="728150" number="2">VeZaUtQyQlFdVvYaKuKpTxPe-1600424689964@nyuu</segment>
+			<segment bytes="728151" number="3">UrViQeCrNwVxReLlLyYgVhBg-1600424689986@nyuu</segment>
+			<segment bytes="728151" number="4">MyYoWqXkFvGaWzYsCiPaWwNy-1600424690006@nyuu</segment>
+			<segment bytes="728151" number="5">SfQwBnSeYvDrCtDxFsOuHrNm-1600424690017@nyuu</segment>
+			<segment bytes="728151" number="6">KfZkLcTfLsEpHkGsEcXpEzXe-1600424690377@nyuu</segment>
+			<segment bytes="728151" number="7">UdXhDxGtSsOnSzYeFfNiTeHk-1600424690394@nyuu</segment>
+			<segment bytes="228970" number="8">LtPnJkAtMmVsIjSbNbIkLnQr-1600424690396@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424690" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [04/32] - &quot;fake_m2ts.part04.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">GyPgHjAgOmAdOlVdIsCfMiLf-1600424690423@nyuu</segment>
+			<segment bytes="728150" number="2">YcDpFkXdJbKyDvTcPuEdUiHc-1600424690427@nyuu</segment>
+			<segment bytes="728151" number="3">XsXcWsKkTxDeGxAmVzBqZwZc-1600424690444@nyuu</segment>
+			<segment bytes="728151" number="4">FiKqOzIgKgTuWhOvXtEcHzUj-1600424690497@nyuu</segment>
+			<segment bytes="728151" number="5">VyFxDrMmAvKhXbZcFjRsIjTl-1600424690499@nyuu</segment>
+			<segment bytes="728151" number="6">ZyHrCdVwZmCjBgQuWxOgFmYs-1600424690830@nyuu</segment>
+			<segment bytes="728151" number="7">BxIwAdErVlHbXzGkAyIbFpNh-1600424690841@nyuu</segment>
+			<segment bytes="228970" number="8">FgRbQvTpJmVkJhWtYzVaQuXa-1600424690873@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424690" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [05/32] - &quot;fake_m2ts.part05.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">QgUxZrQiPoNvXdHcSmMaXrTc-1600424690891@nyuu</segment>
+			<segment bytes="728153" number="2">FlNnIaSqRhWbPaAmHnHtQeBb-1600424690931@nyuu</segment>
+			<segment bytes="728151" number="3">YeLzNjUaUrFbOcSuItWiFkPl-1600424690940@nyuu</segment>
+			<segment bytes="728151" number="4">EhSnSiNlVmCjZoKvCdWwEsHs-1600424690985@nyuu</segment>
+			<segment bytes="728155" number="5">YhNmVqWpTqHxVlReSvVgKrMm-1600424691033@nyuu</segment>
+			<segment bytes="728151" number="6">KdViMjWqYuFuBaDcTgAtDqAb-1600424691271@nyuu</segment>
+			<segment bytes="728151" number="7">EuSmDhOmUpAbLaGpSlOuAdUn-1600424691279@nyuu</segment>
+			<segment bytes="228973" number="8">SyTuLrHvFjRzOuMdOzVrGcEb-1600424691320@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424691" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [06/32] - &quot;fake_m2ts.part06.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">IeYdEjUcUvQaWmBzWgEmNqJn-1600424691334@nyuu</segment>
+			<segment bytes="728150" number="2">WxHuKfNuLnPkZfKeUtCtEbOw-1600424691438@nyuu</segment>
+			<segment bytes="728151" number="3">EfBhBwHjUjKkOiVrYaUvHaKi-1600424691447@nyuu</segment>
+			<segment bytes="728151" number="4">KdJiDpXiKeVqXtElXwSaKjCx-1600424691460@nyuu</segment>
+			<segment bytes="728151" number="5">VoAlVhZaHlCkWtMbFkWlVoRl-1600424691479@nyuu</segment>
+			<segment bytes="728151" number="6">FuEiXkYwEfWkHrDaZdSgHfJw-1600424691690@nyuu</segment>
+			<segment bytes="728151" number="7">WnSjJiArPuQfHxZqAtElUjVh-1600424691703@nyuu</segment>
+			<segment bytes="228969" number="8">MsHoLkCsKlJiIsTtDgBuEzYi-1600424691763@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424691" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [07/32] - &quot;fake_m2ts.part07.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">RbNwBjDcUrBfNsDiWzLwEpVy-1600424691774@nyuu</segment>
+			<segment bytes="728150" number="2">VdOoQkJmSwElZvEvYeCoKuMr-1600424691905@nyuu</segment>
+			<segment bytes="728151" number="3">MdUxCiKyToIxBtRvXnVnYsZk-1600424691919@nyuu</segment>
+			<segment bytes="728151" number="4">EcPnCwJrWhSdDiJtPdZvCiYt-1600424691950@nyuu</segment>
+			<segment bytes="728151" number="5">NoOhVqCxUkFsQlPsRrBlAhIg-1600424691977@nyuu</segment>
+			<segment bytes="728151" number="6">LuIrTfVxTiQbFrAsDrBvHfLr-1600424692102@nyuu</segment>
+			<segment bytes="728151" number="7">VgBiJgLgSjUjNoIjCuGqTdHa-1600424692140@nyuu</segment>
+			<segment bytes="228969" number="8">TrDnDdLnWxIgUsBhUgNfKyXe-1600424692196@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424692" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [08/32] - &quot;fake_m2ts.part08.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">KaMcLlXkQtUtOiYbCvFhSnMo-1600424692206@nyuu</segment>
+			<segment bytes="728150" number="2">ZiPsNiHdIrBbQaCjAbNqCfJv-1600424692344@nyuu</segment>
+			<segment bytes="728151" number="3">GwEuFjBlKmSvXaUaCdGvEpOq-1600424692371@nyuu</segment>
+			<segment bytes="728151" number="4">IfScRlKaBrWiPgQdEeKrWmPb-1600424692393@nyuu</segment>
+			<segment bytes="728151" number="5">XvZwKiMgBcIwZpKqKxOrUfMv-1600424692412@nyuu</segment>
+			<segment bytes="728155" number="6">NuGkKaOfFoEeDiXeBpCuXcSr-1600424692553@nyuu</segment>
+			<segment bytes="728151" number="7">PiHoIsDzBwAoBaYsMtOuChKy-1600424692579@nyuu</segment>
+			<segment bytes="228971" number="8">AzRpOkGvTdAcEyIeEnHiUnPe-1600424692631@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424692" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [09/32] - &quot;fake_m2ts.part09.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">TeNwDiZlJnHgKmDvZtSvZvOj-1600424692639@nyuu</segment>
+			<segment bytes="728150" number="2">VaMgYtLfRyVzQmGjEaNyMkKm-1600424692782@nyuu</segment>
+			<segment bytes="728151" number="3">RnXgHkKqLjMiWzNxJcFuKxRh-1600424692806@nyuu</segment>
+			<segment bytes="728151" number="4">BpXtNjPaKdMhOwTmIjIaMaUk-1600424692814@nyuu</segment>
+			<segment bytes="728151" number="5">IiNpLjCgGwVuMqUaPuCfNcQq-1600424692831@nyuu</segment>
+			<segment bytes="728151" number="6">IoQvGbLnAcQwGxFcOgYcBfIr-1600424692984@nyuu</segment>
+			<segment bytes="728151" number="7">DiNaEcLjRfQuMtJeByEwAoCy-1600424693042@nyuu</segment>
+			<segment bytes="228969" number="8">ZoPqBtHfUsPiUeDnEcKvXuPe-1600424693065@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424693" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [10/32] - &quot;fake_m2ts.part10.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">MbBiCfLaPxVtAxUfQeAtJqOg-1600424693095@nyuu</segment>
+			<segment bytes="728150" number="2">TtGeCjEjZgBlJzVcZhApJwWp-1600424693223@nyuu</segment>
+			<segment bytes="728151" number="3">WcNsMoCtAgAnJaObXlKwPvJl-1600424693239@nyuu</segment>
+			<segment bytes="728151" number="4">DoLmDhAgKuDjOoFkGfAqDfCn-1600424693253@nyuu</segment>
+			<segment bytes="728151" number="5">LoSzOtJkTuDmUzOiOnOmCoEi-1600424693254@nyuu</segment>
+			<segment bytes="728151" number="6">WoWrBuDoUnRvNyNsPnLhGnOv-1600424693421@nyuu</segment>
+			<segment bytes="728151" number="7">ZwGqDuMrKyXuDlSrYsWzMaDz-1600424693485@nyuu</segment>
+			<segment bytes="228969" number="8">BzCtSjAeDeIhCqAzKiDgDzAf-1600424693506@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424693" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [11/32] - &quot;fake_m2ts.part11.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">SnIrTwLiEgWvPyGdMgYzRkNu-1600424693541@nyuu</segment>
+			<segment bytes="728150" number="2">FhJmIzNdKzLmQqWdRzPgOwVe-1600424693663@nyuu</segment>
+			<segment bytes="728151" number="3">NuKiDpKpIgGpYyLbRiDpQbQh-1600424693667@nyuu</segment>
+			<segment bytes="728151" number="4">XqGiMmXeFvBdScQhNxIzTqUu-1600424693689@nyuu</segment>
+			<segment bytes="728151" number="5">AnFxQhHrYqYvPhGbZfUjKrXm-1600424693701@nyuu</segment>
+			<segment bytes="728151" number="6">MuKuMgEjAuCbDcJgKwLwObMf-1600424693851@nyuu</segment>
+			<segment bytes="728151" number="7">MkMlGwRwRlPhDhOfIoUaJkLr-1600424693935@nyuu</segment>
+			<segment bytes="228969" number="8">RkOfOvIrYdPgOqWyZhQmTbSm-1600424693960@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424693" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [12/32] - &quot;fake_m2ts.part12.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">LpCbTmStVqKeVxDhYfXmAoZl-1600424693994@nyuu</segment>
+			<segment bytes="728150" number="2">HlDzKfOlWlGyKcFfOnVfJjSe-1600424694107@nyuu</segment>
+			<segment bytes="728151" number="3">DrKuSzVhHhVkFjOdJxWfXlLa-1600424694110@nyuu</segment>
+			<segment bytes="728151" number="4">LyXgLzBySeSdMnRiLaWrBzIw-1600424694120@nyuu</segment>
+			<segment bytes="728155" number="5">EkNjInRlVuGcYyOfWfRgKhMp-1600424694137@nyuu</segment>
+			<segment bytes="728151" number="6">CnViIiBaHbLuDsQwDoSbQdTy-1600424694276@nyuu</segment>
+			<segment bytes="728151" number="7">YvRdRxMhMjAyBeTdBdWwYhAv-1600424694377@nyuu</segment>
+			<segment bytes="228971" number="8">LuBhAgCmSvZzJrBpCjFqGaBi-1600424694419@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424694" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [13/32] - &quot;fake_m2ts.part13.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">AsUgSvGhXgNlClNuIjUdJhLe-1600424694451@nyuu</segment>
+			<segment bytes="728150" number="2">TpQeWmFaQtJrFyOjHwHtGxZa-1600424694545@nyuu</segment>
+			<segment bytes="728151" number="3">TcSnKeLnKlYkSxUfHpGwHhCl-1600424694558@nyuu</segment>
+			<segment bytes="728151" number="4">MmFpOgRtIhCxCmGwSmJxFtPq-1600424694582@nyuu</segment>
+			<segment bytes="728151" number="5">YdMjDnChCiWiYlYnGfMmYiIf-1600424694592@nyuu</segment>
+			<segment bytes="728151" number="6">PeJkUzIoTjDiPrIgKrVnLrOv-1600424694710@nyuu</segment>
+			<segment bytes="728151" number="7">IxVtKoSzDhHzCeYbQeMsCjWz-1600424694817@nyuu</segment>
+			<segment bytes="228969" number="8">SbCxHrBgXtJvTzZkUeDdMnYt-1600424694847@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424694" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [14/32] - &quot;fake_m2ts.part14.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">QuPoSgHpYwRaOvDnUxKiVwLn-1600424694894@nyuu</segment>
+			<segment bytes="728150" number="2">NzQzWeZjFoQdBoUwQqUiXiHb-1600424695005@nyuu</segment>
+			<segment bytes="728151" number="3">NmRxAcLaYfUgViNeRwZlWeWh-1600424695019@nyuu</segment>
+			<segment bytes="728151" number="4">ZbGfMpKjCjWuPzLiNqMuSjXb-1600424695023@nyuu</segment>
+			<segment bytes="728151" number="5">XlQjXiRuPlVxInWlZrIqXzTq-1600424695043@nyuu</segment>
+			<segment bytes="728151" number="6">EmRkWqJxDxDjFtPrQmIcYqEa-1600424695145@nyuu</segment>
+			<segment bytes="728151" number="7">KlHeCoPfVgQnPcCkPwRzXyDi-1600424695260@nyuu</segment>
+			<segment bytes="228969" number="8">VfKbHjTfOjYmXxXeErEfSsMw-1600424695289@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424695" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [15/32] - &quot;fake_m2ts.part15.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">QbRnVcTnMsEfPzGuVzTwTwTt-1600424695327@nyuu</segment>
+			<segment bytes="728150" number="2">PbJeXfRwAuKwMdXxDxSgXzSo-1600424695461@nyuu</segment>
+			<segment bytes="728151" number="3">XlYeWpQiWqOoAxWtOgEtGnUz-1600424695490@nyuu</segment>
+			<segment bytes="728151" number="4">HnCnVnVqNgTzNyElUmQvCyCo-1600424695491@nyuu</segment>
+			<segment bytes="728151" number="5">OjXjFxNaNbXqNgSoMnKeEvYy-1600424695494@nyuu</segment>
+			<segment bytes="728151" number="6">LeEfWuWuOzIrXvUlQxPpObLk-1600424695610@nyuu</segment>
+			<segment bytes="728151" number="7">XdFyXkVcVsTkEcHiLbNyZoTf-1600424695699@nyuu</segment>
+			<segment bytes="228969" number="8">QeIuQzXsTePqJfOxBrGnMyHl-1600424695738@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424695" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [16/32] - &quot;fake_m2ts.part16.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">UqJnTuQpGzOnHmLlLfLtCeOh-1600424695769@nyuu</segment>
+			<segment bytes="728150" number="2">YmGfXhQwVoMwBeSnAeJeKlId-1600424695918@nyuu</segment>
+			<segment bytes="728151" number="3">GiJpFzXmYbSzSoDkPhQfGfFh-1600424695930@nyuu</segment>
+			<segment bytes="728151" number="4">HbJzLjLrJtAySfXxMcXsGsSk-1600424695959@nyuu</segment>
+			<segment bytes="728151" number="5">SsObAxXiYuUlQiPsByAiPwXh-1600424695972@nyuu</segment>
+			<segment bytes="728151" number="6">IbVqMxPiKdThVyXyKzDeKlPb-1600424696047@nyuu</segment>
+			<segment bytes="728151" number="7">GtAzLfStFyFrEpGtLpYwJrPk-1600424696139@nyuu</segment>
+			<segment bytes="228969" number="8">DaNyOnHkEdRzToHaRrFtLwHj-1600424696218@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424696" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [17/32] - &quot;fake_m2ts.part17.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">ToEoJlZkAxJhZcRqMjVnXrPb-1600424696221@nyuu</segment>
+			<segment bytes="728150" number="2">MlHgGvVsKcFkWbOrYcQvAoXu-1600424696372@nyuu</segment>
+			<segment bytes="728151" number="3">XhXwFqAvDyVmJjRxOoGgCqYo-1600424696379@nyuu</segment>
+			<segment bytes="728151" number="4">QfLkTsIaCoRhLtBkLePvSyOq-1600424696385@nyuu</segment>
+			<segment bytes="728151" number="5">SzGvXfMjMiBbJbZxQvTrSeXl-1600424696447@nyuu</segment>
+			<segment bytes="728151" number="6">FdScLzZhUhAvMhMuBbIfGxBb-1600424696485@nyuu</segment>
+			<segment bytes="728151" number="7">OmUoJiTtGdFvKkEkZmImHfCg-1600424696594@nyuu</segment>
+			<segment bytes="228969" number="8">FeDuFvWrNjXvUqCfJcMiLbKd-1600424696661@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424696" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [18/32] - &quot;fake_m2ts.part18.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">ZjTcWxUzSlPlKgGsSzDqOlUw-1600424696673@nyuu</segment>
+			<segment bytes="728155" number="2">GdHpUcZkGlZnRmNgUkGeFbRs-1600424696813@nyuu</segment>
+			<segment bytes="728151" number="3">RoSqLnIgZvAoGcAiOqXtGeZv-1600424696815@nyuu</segment>
+			<segment bytes="728151" number="4">IaEgFcSmBeXsTqRbYeJhIfGs-1600424696834@nyuu</segment>
+			<segment bytes="728151" number="5">NhIbBuRcPuZiDtNqPqFhXzGu-1600424696851@nyuu</segment>
+			<segment bytes="728151" number="6">SiZhRkNxIiSqVsStZuBlVeDd-1600424696900@nyuu</segment>
+			<segment bytes="728151" number="7">FtXkMgCqXcLzOnTaMwJsSwVo-1600424697043@nyuu</segment>
+			<segment bytes="228972" number="8">JjKgYlPkNhYqPqXeYvSeHqMx-1600424697114@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424697" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [19/32] - &quot;fake_m2ts.part19.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">LcVtZlKdAzGaHsLsUvBuGrNe-1600424697121@nyuu</segment>
+			<segment bytes="728150" number="2">QtDvSoYnYcJuGgNxViKnLuFb-1600424697242@nyuu</segment>
+			<segment bytes="728151" number="3">MsYeXqLrNqPqNuQjZfZgCaGb-1600424697251@nyuu</segment>
+			<segment bytes="728151" number="4">NbMmSbQyIuHiShKlVrXfWlNs-1600424697261@nyuu</segment>
+			<segment bytes="728151" number="5">ErNiVfCeKvNxYfIqYsDfNhSa-1600424697276@nyuu</segment>
+			<segment bytes="728151" number="6">DjEpAoIaOdZxOaGnLpMkBuNm-1600424697337@nyuu</segment>
+			<segment bytes="728151" number="7">JeUmMhEqAmMtKpFkKcBmQqTn-1600424697490@nyuu</segment>
+			<segment bytes="228970" number="8">JvUhNjChSwGhXqRmNlDrYjGe-1600424697566@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424697" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [20/32] - &quot;fake_m2ts.part20.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728149" number="1">KrLiPvTtHyBgLsJgKeGlFyEe-1600424697584@nyuu</segment>
+			<segment bytes="728150" number="2">KbNjUwQpZuCaPoZmUoRtKkBo-1600424697662@nyuu</segment>
+			<segment bytes="728151" number="3">MaJiIaGxWjYwElZeBaLyNcRf-1600424697670@nyuu</segment>
+			<segment bytes="728151" number="4">IuTrHdGuPhHlOwUtEfXnXySa-1600424697686@nyuu</segment>
+			<segment bytes="728151" number="5">MrSmToEdKbOhBiEpVgZzWgIc-1600424697695@nyuu</segment>
+			<segment bytes="728151" number="6">MmPoYjArLfKyEsYkKnAgLyLd-1600424697750@nyuu</segment>
+			<segment bytes="728151" number="7">PdFsMaPjMaTnVxTnCgAoQpHy-1600424697929@nyuu</segment>
+			<segment bytes="228970" number="8">YzVuOeFpSvDzMiPtSoOlYsOc-1600424698028@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424698" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [21/32] - &quot;fake_m2ts.part21.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">JaXqVrMuZhZiUtWtQyUrWsTp-1600424698047@nyuu</segment>
+			<segment bytes="728150" number="2">DxXdEjNeTqOnQxWiWgXmDaAh-1600424698097@nyuu</segment>
+			<segment bytes="728151" number="3">LoIsSqHnHsZmFbBxXtSvZvIy-1600424698099@nyuu</segment>
+			<segment bytes="728151" number="4">RuSiCfZjNoOwZtMyQtNcHoOo-1600424698112@nyuu</segment>
+			<segment bytes="728151" number="5">CzRxKbZpOpIgAnRtWaOcTqDv-1600424698134@nyuu</segment>
+			<segment bytes="728151" number="6">TkQaQgPsUoSiMnUhGpSnVwIo-1600424698171@nyuu</segment>
+			<segment bytes="728151" number="7">HsUxYkSaCgCqCrUhOxLtXmPx-1600424698377@nyuu</segment>
+			<segment bytes="228970" number="8">SxHyByJaHpGnNhReRzWnBzOw-1600424698476@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424698" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [22/32] - &quot;fake_m2ts.part22.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">RzAoMdYmHrKhZhOaOcZrEdTo-1600424698495@nyuu</segment>
+			<segment bytes="728150" number="2">TlQrAvEcPrAoZpAeRmYpAqJl-1600424698539@nyuu</segment>
+			<segment bytes="728151" number="3">CfZxFnIkPhZcFzUbYuOiJnYt-1600424698563@nyuu</segment>
+			<segment bytes="728151" number="4">WcBkOsBlGnMwMkJzVyBbElJp-1600424698582@nyuu</segment>
+			<segment bytes="728151" number="5">PuWvTbAaGoGxOnCqFfTiCoYe-1600424698585@nyuu</segment>
+			<segment bytes="728151" number="6">YpJzUlVvGaUyImRfRkLxHpIk-1600424698606@nyuu</segment>
+			<segment bytes="728151" number="7">KnFjVaWdSlXvQrXtNhEzJlFj-1600424698847@nyuu</segment>
+			<segment bytes="228970" number="8">QsObGwPvJjYySfWsBgGiYfPy-1600424698933@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424698" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [23/32] - &quot;fake_m2ts.part23.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">BbAjSoImNvIxIqYiGcDdGdWh-1600424698946@nyuu</segment>
+			<segment bytes="728150" number="2">OfEpYhRiGfHpQrDyHdHdUoAu-1600424698979@nyuu</segment>
+			<segment bytes="728151" number="3">JoWqWpMrZbRzSeRiIsPqVdLa-1600424699023@nyuu</segment>
+			<segment bytes="728151" number="4">NnGrOjQmQeMqBwNkWqCoVoNn-1600424699025@nyuu</segment>
+			<segment bytes="728151" number="5">OdYmYnZlSqObKaIjReJsTdIu-1600424699040@nyuu</segment>
+			<segment bytes="728151" number="6">HsLmRgGdZtArMcTfMaAkCgSz-1600424699086@nyuu</segment>
+			<segment bytes="728151" number="7">VpCaKiZqUaKzJhZeAiLhIiIe-1600424699287@nyuu</segment>
+			<segment bytes="228970" number="8">NpAmJhEgPqQwCmXlTjEdQbIh-1600424699373@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424699" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [25/32] - &quot;fake_m2ts.par2&quot; yEnc (1/1) 45844">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="46822" number="1">GdZuFbSrCdGgFsBmLhSfSzRm-1600424699729@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424699" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [26/32] - &quot;fake_m2ts.vol000+02.par2&quot; yEnc (1/1) 216552">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="220371" number="1">LiQpSqDrZbDhKvTcWtAxPgLb-1600424699822@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424699" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [24/32] - &quot;fake_m2ts.part24.rar&quot; yEnc (1/6) 4200423">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">HwCzZkSoRsQwGqWaXcSnStQx-1600424699389@nyuu</segment>
+			<segment bytes="728153" number="2">DtCeCwBuLoKbOfJdAgXcLpVg-1600424699421@nyuu</segment>
+			<segment bytes="728155" number="3">AfIiVkBtPjCfGnKjNhSzAlRi-1600424699442@nyuu</segment>
+			<segment bytes="728151" number="4">JxClYgUzYgIaYxVaIyCqXzUh-1600424699450@nyuu</segment>
+			<segment bytes="728151" number="5">WcWvMbFvUzPvYyCtViOhNpFz-1600424699483@nyuu</segment>
+			<segment bytes="626230" number="6">PdQoTfSsEjIgRbMnSwKrPyDu-1600424699531@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424699" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [27/32] - &quot;fake_m2ts.vol002+04.par2&quot; yEnc (1/1) 387260">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="393873" number="1">PqCyKiMdZdUgKbRmJzHaXcNp-1600424699860@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424699" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [28/32] - &quot;fake_m2ts.vol006+08.par2&quot; yEnc (1/1) 682936">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="694357" number="1">McVdGzJhZqMtGtMdTcEcBgQx-1600424699867@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424699" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [29/32] - &quot;fake_m2ts.vol014+16.par2&quot; yEnc (1/2) 1228548">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728600" number="1">MvPdHvYjRlVcWrYwHxOjOoYm-1600424699871@nyuu</segment>
+			<segment bytes="520282" number="2">YfAdTdPvEtFoMfXsKuBrZiOu-1600424699882@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424699" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [30/32] - &quot;fake_m2ts.vol030+32.par2&quot; yEnc (1/4) 2274032">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728542" number="1">OrOqHyZjApNoMnQyEnIpKfDu-1600424699921@nyuu</segment>
+			<segment bytes="728567" number="2">UmNoOdUfXzLyJiEvYtBdZmJf-1600424699963@nyuu</segment>
+			<segment bytes="728528" number="3">SfEoNlEwCgKvWmJeCaIaTuAh-1600424700188@nyuu</segment>
+			<segment bytes="125807" number="4">ZdZdXfDpBpFmTuOkToYqUsUt-1600424700257@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424700" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [31/32] - &quot;fake_m2ts.vol062+64.par2&quot; yEnc (1/7) 4319260">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728460" number="1">JcTbVeSyCjQrHoXwQdCzZlFk-1600424700270@nyuu</segment>
+			<segment bytes="728477" number="2">DiUdBfJrIxEnMfJbUwOlMxBa-1600424700294@nyuu</segment>
+			<segment bytes="728481" number="3">LtMtWeFdXiYiGfJwFgHpQwMs-1600424700303@nyuu</segment>
+			<segment bytes="728500" number="4">UiUwGiWrJyLuYwIxIdNlQoMi-1600424700326@nyuu</segment>
+			<segment bytes="728516" number="5">IjMzSxOwJxJhFyMeVbIrLwDy-1600424700334@nyuu</segment>
+			<segment bytes="728475" number="6">ZqRzHjUaTzRdTvIkAaIeAwCr-1600424700365@nyuu</segment>
+			<segment bytes="18943" number="7">QpOjJdQxOuGmGuRkHzXaXkYt-1600424700627@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600424700" subject="reftestnzb fake m2ts files subdirs de14d9f97663 [32/32] - &quot;fake_m2ts.vol126+74.par2&quot; yEnc (1/7) 4944100">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728460" number="1">WoGhXwKwPkQfLiFeHzGvJiNn-1600424700688@nyuu</segment>
+			<segment bytes="728502" number="2">XzWqIiMnCuPnKaQcPkZlGwXj-1600424700696@nyuu</segment>
+			<segment bytes="728485" number="3">MvWhFqOhFoFvOzWgUzNpJvUr-1600424700733@nyuu</segment>
+			<segment bytes="728465" number="4">NhVjFgUlCyGlQnThVgFqFoMr-1600424700734@nyuu</segment>
+			<segment bytes="728493" number="5">IzWdGrOaRuIhKeMdNyCeYkAh-1600424700749@nyuu</segment>
+			<segment bytes="728508" number="6">YaNrYxCaXjSeKkEpNpUtOvDn-1600424700781@nyuu</segment>
+			<segment bytes="653797" number="7">SvVaDfKkShQjKuTgOmEoThHx-1600424700813@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
