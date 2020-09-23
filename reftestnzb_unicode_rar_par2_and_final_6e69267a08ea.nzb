@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886437" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [01/15] - &quot;高塔.part1.rar&quot; yEnc (1/22) 15728640">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">PmCyAtWsUrSuUiVvDkGuIrIk-1600886437972@nyuu</segment>
+			<segment bytes="728148" number="2">WpIdGuNoIwGeIpAcGsMaDfZf-1600886437974@nyuu</segment>
+			<segment bytes="728149" number="3">KjDsXsFaGbNtVoHwLcWfBdUt-1600886437976@nyuu</segment>
+			<segment bytes="728149" number="4">SiHrGxFiBtIcYjBiMyRjJfTa-1600886438137@nyuu</segment>
+			<segment bytes="728149" number="5">JpXzBiKjLiZpNhDoVpUwCpAu-1600886438139@nyuu</segment>
+			<segment bytes="728149" number="6">ScYxGwLhJlJwLdScHvGrHiIp-1600886438143@nyuu</segment>
+			<segment bytes="728149" number="7">CwEwTiOaLnMpTlJrIqSoZzSf-1600886438600@nyuu</segment>
+			<segment bytes="728149" number="8">FnTqOrXuBeDwRxIhMfLyTbOk-1600886438610@nyuu</segment>
+			<segment bytes="728149" number="9">DmMdGgLrMgCiDmVfWdZdRbFg-1600886438617@nyuu</segment>
+			<segment bytes="728151" number="10">AaZfKgBrAnNhCpVsYtTfUzTb-1600886439056@nyuu</segment>
+			<segment bytes="728151" number="11">EpKkAiZmXwIfBoPaUtZgEfTn-1600886439064@nyuu</segment>
+			<segment bytes="728151" number="12">LyVlPnYoOeCcAcLiUfTyTtIu-1600886439075@nyuu</segment>
+			<segment bytes="728151" number="13">MfXnLdWfVmCwWjRtKvRnOjXa-1600886439503@nyuu</segment>
+			<segment bytes="728152" number="14">HtIeZdRiIhKwHsUeUrIcIuQl-1600886439506@nyuu</segment>
+			<segment bytes="728153" number="15">RsXqNcUaPwDsJvHhQnQrRpBb-1600886439522@nyuu</segment>
+			<segment bytes="728153" number="16">JtPhXxJlArEvPzOjZvIbUwXa-1600886439939@nyuu</segment>
+			<segment bytes="728153" number="17">BtOwDgMbQmIrRrChWgLqOcHr-1600886439952@nyuu</segment>
+			<segment bytes="728153" number="18">RwVxNuDcPpPtKwZuFqRzInGo-1600886439969@nyuu</segment>
+			<segment bytes="728153" number="19">WrMyVyJtDfRjYkWtQsNtQoYr-1600886440384@nyuu</segment>
+			<segment bytes="728153" number="20">XgDfQdOaIsIkLiGcLtKzTcYo-1600886440402@nyuu</segment>
+			<segment bytes="728153" number="21">TmGiZvIbNuBcWsJkJoWjMfWv-1600886440411@nyuu</segment>
+			<segment bytes="686572" number="22">EiYhSsEgSuKuScQvRhXrMkNb-1600886440810@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886440" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [02/15] - &quot;高塔.part2.rar&quot; yEnc (1/22) 15728640">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728151" number="1">PnQmSpOdPcJlRfTgNzDyRgGr-1600886440844@nyuu</segment>
+			<segment bytes="728148" number="2">BlHnZcTtDuExOdIeFbSyNyZh-1600886440855@nyuu</segment>
+			<segment bytes="728149" number="3">XnGpMbRbKeVbWfArTfSmKlXk-1600886441256@nyuu</segment>
+			<segment bytes="728149" number="4">DuMoYxDtYxOsDbXkGvQcSwGl-1600886441301@nyuu</segment>
+			<segment bytes="728149" number="5">ZoIjVsJeZcHsLnAiIzOuVmUa-1600886441318@nyuu</segment>
+			<segment bytes="728149" number="6">GvQqKbJkTlIoCbTvMnYrPoVf-1600886441692@nyuu</segment>
+			<segment bytes="728149" number="7">XkUdDrKgYjLuNfTmIuQgSrJw-1600886441755@nyuu</segment>
+			<segment bytes="728149" number="8">FsOkDkIvEzStSaFhRsRjWsQf-1600886441756@nyuu</segment>
+			<segment bytes="728149" number="9">ZaVgMqAhCaGzHrIdFgCcKfOj-1600886442128@nyuu</segment>
+			<segment bytes="728151" number="10">ObGmJlCxIwYsTjWsQyWnYxJw-1600886442203@nyuu</segment>
+			<segment bytes="728151" number="11">TeDaSzJfGjEsChFgYhPsUpXc-1600886442213@nyuu</segment>
+			<segment bytes="728151" number="12">LaGnUbHxDiLtItKtDiFdNfUr-1600886442562@nyuu</segment>
+			<segment bytes="728151" number="13">SrEeYfUnBpOyLhDlWpOcKeUg-1600886442631@nyuu</segment>
+			<segment bytes="728152" number="14">RxVjMkVnEvKvRfPfEjVyEoTw-1600886442638@nyuu</segment>
+			<segment bytes="728153" number="15">OkHvZlOvDyQgYvWfOfQsFlYd-1600886442999@nyuu</segment>
+			<segment bytes="728153" number="16">GbApRtSaNlUtTmVsLmAzRlTb-1600886443075@nyuu</segment>
+			<segment bytes="728153" number="17">GrKpAzSaRkPjTgBpFzEuLcBi-1600886443081@nyuu</segment>
+			<segment bytes="728153" number="18">PoUqKoZbHqPjQzChPaDrYsBo-1600886443438@nyuu</segment>
+			<segment bytes="728153" number="19">WfAeEaEqBfCyVvPmVdYcNpOi-1600886443514@nyuu</segment>
+			<segment bytes="728153" number="20">ElQfVqXjGwXbPuYaSoEnDeMg-1600886443521@nyuu</segment>
+			<segment bytes="728153" number="21">SyUyIaTkJsQrQoSzBeGpWpTj-1600886443874@nyuu</segment>
+			<segment bytes="686572" number="22">SxCyYoUmKuBsDqWrUsLkZyGg-1600886443958@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886443" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [03/15] - &quot;高塔.part3.rar&quot; yEnc (1/22) 15728640">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728149" number="1">ZnPwHyZlNvXwCkZyDuOwAuFw-1600886443963@nyuu</segment>
+			<segment bytes="728148" number="2">TjYhVlTpXdCqYsBwNeVcLqNh-1600886444324@nyuu</segment>
+			<segment bytes="728149" number="3">MdQyMpGoFrLePwPhZwFlDfIr-1600886444425@nyuu</segment>
+			<segment bytes="728149" number="4">GuFcKcJoUvCiVqAnFhZpPvVo-1600886444430@nyuu</segment>
+			<segment bytes="728149" number="5">DkRyJjDwNsGdDoJaItPsEuNb-1600886444760@nyuu</segment>
+			<segment bytes="728149" number="6">MbVhJwZmFsKcHcMlUcJcBgGf-1600886444854@nyuu</segment>
+			<segment bytes="728149" number="7">OjWrAsRxJuKkUrGdSfCmFmVw-1600886444866@nyuu</segment>
+			<segment bytes="728149" number="8">KxFkSgUbLrFqWkMwSnTlOeKs-1600886445192@nyuu</segment>
+			<segment bytes="728149" number="9">XnKgBaFcZbNiUqGmLeMtPbNw-1600886445282@nyuu</segment>
+			<segment bytes="728151" number="10">QqTsSeGlXjGvFpAcWmXkSnKu-1600886445304@nyuu</segment>
+			<segment bytes="728151" number="11">LcHbFhQrBjAgPjKxQzKkFjFe-1600886445649@nyuu</segment>
+			<segment bytes="728151" number="12">FeOtXdSbGpKjBbUtIgYmYvFg-1600886445714@nyuu</segment>
+			<segment bytes="728151" number="13">EhUyWfGjMuKgYfDuGeTwWzEu-1600886445730@nyuu</segment>
+			<segment bytes="728152" number="14">IkAuIuIgFgBcHiTeSuVlSzWn-1600886446093@nyuu</segment>
+			<segment bytes="728153" number="15">FzJzDeCjJkCyKlQaVoKgAaRb-1600886446145@nyuu</segment>
+			<segment bytes="728153" number="16">KbPdRkGhDwTyAqIzXjZtUxSs-1600886446169@nyuu</segment>
+			<segment bytes="728153" number="17">SkRpZsAkGqCgSlKrEpKhZbMw-1600886446532@nyuu</segment>
+			<segment bytes="728153" number="18">IjWhMdQdKvYgSpAbXuDhKdSy-1600886446581@nyuu</segment>
+			<segment bytes="728153" number="19">TcUuWeYdVcPrMiWfXhTbXqTo-1600886446623@nyuu</segment>
+			<segment bytes="728153" number="20">CkJzJqPdDcSxEiRsEiXpAyLi-1600886446970@nyuu</segment>
+			<segment bytes="728153" number="21">IyQkYkAeKqVyXbXeNhEbGpUy-1600886447024@nyuu</segment>
+			<segment bytes="686572" number="22">ZxLuReWqBrYjEuGkXvCbXfKa-1600886447075@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886447" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [04/15] - &quot;高塔.part4.rar&quot; yEnc (1/22) 15728640">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728149" number="1">AkWiAhLpPoKsMcXhUvZyNtAq-1600886447405@nyuu</segment>
+			<segment bytes="728148" number="2">NbVzLaSyQkWuEyNlEeIbJtTk-1600886447457@nyuu</segment>
+			<segment bytes="728149" number="3">OcDiMyBrFiUxMtWqPuPpEpLd-1600886447516@nyuu</segment>
+			<segment bytes="728149" number="4">YfAsYfHlOxOkCyDgSbYaDkXi-1600886447839@nyuu</segment>
+			<segment bytes="728149" number="5">HvHhMdNnHdOxAbQaMhZbTcOq-1600886447893@nyuu</segment>
+			<segment bytes="728149" number="6">PmDuFvXsHmDnZtZyZgHgRiWo-1600886447959@nyuu</segment>
+			<segment bytes="728149" number="7">BkPnNpFeZdJzSoZjBcVeSaBs-1600886448290@nyuu</segment>
+			<segment bytes="728155" number="8">KgFlEwCwCzKeOqDjPpMnGhRt-1600886448327@nyuu</segment>
+			<segment bytes="728149" number="9">DgOkAjTmTyUhRkUyPoWiWlXm-1600886448397@nyuu</segment>
+			<segment bytes="728151" number="10">HzEkObWzOoMkTkPtUdAbMuVj-1600886448725@nyuu</segment>
+			<segment bytes="728151" number="11">RaBzNfFfTvIwXpNqVjOrIqFy-1600886448762@nyuu</segment>
+			<segment bytes="728151" number="12">DxQcZcMoXjQqMqVfDuElDmSw-1600886448847@nyuu</segment>
+			<segment bytes="728151" number="13">BvUwWjBoUlTbUuJwRgEyEzGn-1600886449159@nyuu</segment>
+			<segment bytes="728152" number="14">DyWwLeHyUrNiPbMnDuPpJmLq-1600886449203@nyuu</segment>
+			<segment bytes="728153" number="15">ApOyShKaMtXfOkUwWnMyMvIc-1600886449278@nyuu</segment>
+			<segment bytes="728153" number="16">GvSjMiHrJbUbGeDhPyXyJhAl-1600886449595@nyuu</segment>
+			<segment bytes="728153" number="17">VqDhUfYoCaHxTgAgLiUrZwBm-1600886449640@nyuu</segment>
+			<segment bytes="728153" number="18">DhUdNzVqWyIlUmFzMzHlKeFr-1600886449717@nyuu</segment>
+			<segment bytes="728153" number="19">GgLcWzUcEjIfDrLsOaQyJzQo-1600886450025@nyuu</segment>
+			<segment bytes="728153" number="20">MnMsPhAeMlCzDzRlKjIkEsYx-1600886450076@nyuu</segment>
+			<segment bytes="728153" number="21">XrTvXoVrWwCkAgPmOgVoDfLe-1600886450145@nyuu</segment>
+			<segment bytes="686574" number="22">WuGaFaIwCyCgLdXvZfSaRmMw-1600886450463@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886450" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [05/15] - &quot;高塔.part5.rar&quot; yEnc (1/22) 15728640">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728145" number="1">BgHeBoZlVlLhTlXkAtVtOzYf-1600886450508@nyuu</segment>
+			<segment bytes="728148" number="2">ZmBeQcJjSzSxJwXsUzKfMgWs-1600886450561@nyuu</segment>
+			<segment bytes="728149" number="3">AzErKlMbYcYwHzQlTdTaOzNi-1600886450898@nyuu</segment>
+			<segment bytes="728149" number="4">RbWlGuIsDjJsCxSfCnDoVsLj-1600886450937@nyuu</segment>
+			<segment bytes="728149" number="5">ZfAjHgMxNhNeHeErHnKdJuNz-1600886450986@nyuu</segment>
+			<segment bytes="728149" number="6">RrEoLsXvTnHcIdBnUaHfOxNu-1600886451322@nyuu</segment>
+			<segment bytes="728149" number="7">ApSoWmAzPoIcWxKrDsVtDkAm-1600886451367@nyuu</segment>
+			<segment bytes="728149" number="8">BdAwAzBkOmStTnKmJrFdHfWw-1600886451403@nyuu</segment>
+			<segment bytes="728149" number="9">IxFmHoPjQwGsRbOzTiKuHsGi-1600886451748@nyuu</segment>
+			<segment bytes="728151" number="10">ReWxMmJrXlMsCxDyOeEaAtEb-1600886451791@nyuu</segment>
+			<segment bytes="728151" number="11">EtUmVtPtSzUlNeYzHwMxEhIu-1600886451841@nyuu</segment>
+			<segment bytes="728151" number="12">AcYfVeNoPyIhQvHoJuBsNuJu-1600886452197@nyuu</segment>
+			<segment bytes="728151" number="13">GdRlJcXaJoZnLjUwNwTgBeVj-1600886452246@nyuu</segment>
+			<segment bytes="728152" number="14">MzEoNiKbKoGnPuIxBmAwMuIg-1600886452279@nyuu</segment>
+			<segment bytes="728153" number="15">NsGkZcQzWeLyWrDlFlAtZaZp-1600886452689@nyuu</segment>
+			<segment bytes="728153" number="16">VfPbFlZdOsTuPkWwMlWhNhYd-1600886452709@nyuu</segment>
+			<segment bytes="728153" number="17">VvPpZpNpIwGvFeQrSaJrUcZm-1600886452714@nyuu</segment>
+			<segment bytes="728153" number="18">IbRkBgEiGgUlTrLbTgDuUnRj-1600886453135@nyuu</segment>
+			<segment bytes="728153" number="19">OeClDmQfPeRyIxVrDnCyYnTi-1600886453151@nyuu</segment>
+			<segment bytes="728153" number="20">IyEkSyKeFzPsOoWdOjQvUwRj-1600886453156@nyuu</segment>
+			<segment bytes="728153" number="21">PcXuMmFbEpGaUrXcPgVxWgPx-1600886453568@nyuu</segment>
+			<segment bytes="686571" number="22">SrDiKuWbYgIvAkYjKvVmVoBw-1600886453585@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886453" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [06/15] - &quot;高塔.part6.rar&quot; yEnc (1/22) 15728640">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728145" number="1">XcVwFtFwZhDfStZvVyXeBqCb-1600886453596@nyuu</segment>
+			<segment bytes="728148" number="2">QaLiBlZdUoBiJvLcDyZvUrNr-1600886454001@nyuu</segment>
+			<segment bytes="728149" number="3">OhHpPiDwDxSzSfMuHzLoIhNi-1600886454006@nyuu</segment>
+			<segment bytes="728149" number="4">YaUrCeStMtIlJrCjOkDqCyRk-1600886454082@nyuu</segment>
+			<segment bytes="728149" number="5">EdXsMwVqUnZbJpOwIxVlDmPk-1600886454426@nyuu</segment>
+			<segment bytes="728149" number="6">NxUmTfKnIdXsAbAkPgNuVhLe-1600886454443@nyuu</segment>
+			<segment bytes="728149" number="7">WiErKsEmVqUvLtOsUoQvTmJj-1600886454535@nyuu</segment>
+			<segment bytes="728149" number="8">RsSzEwDkCcVvQmAaXoAeZnZm-1600886454873@nyuu</segment>
+			<segment bytes="728149" number="9">YnCvOqHhJdYeIsHeIaHcWxDo-1600886454875@nyuu</segment>
+			<segment bytes="728151" number="10">VqDsFkMhOzZrYqRkZuMdCcBw-1600886454979@nyuu</segment>
+			<segment bytes="728151" number="11">ZsUuFfFsYdIqEaOnKpPiWjIv-1600886455316@nyuu</segment>
+			<segment bytes="728151" number="12">XvCvElZhIoKzCcBhNeNdXvOm-1600886455323@nyuu</segment>
+			<segment bytes="728151" number="13">PkIbKxNfXxZhRoYaUcRcEyFi-1600886455424@nyuu</segment>
+			<segment bytes="728152" number="14">IuXcUvQxMmMqTlJjHtWhOaBz-1600886455744@nyuu</segment>
+			<segment bytes="728153" number="15">LhIxVfVhAoKfFxFoYaYcHmAj-1600886455774@nyuu</segment>
+			<segment bytes="728153" number="16">EgGlQyYyOzUeOgGnKnFlUhOe-1600886455869@nyuu</segment>
+			<segment bytes="728153" number="17">AgMsKvMxNyIhNsRkYbRcMiPv-1600886456176@nyuu</segment>
+			<segment bytes="728153" number="18">SnNnQfZxWqMxObCwMwSfEoEi-1600886456201@nyuu</segment>
+			<segment bytes="728153" number="19">AcEkZrHaZlCzYjPpHtMeEeKc-1600886456306@nyuu</segment>
+			<segment bytes="728153" number="20">WcDfKoGzRbBsRaTiYvCcYhDw-1600886456631@nyuu</segment>
+			<segment bytes="728153" number="21">ZnKiSsYbBgEmRiSsUjCwLjEr-1600886456635@nyuu</segment>
+			<segment bytes="686571" number="22">YgHoYbPpUsWrWtZkLeHqWdIo-1600886456748@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886457" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [07/15] - &quot;高塔.part7.rar&quot; yEnc (1/15) 10488417">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728145" number="1">AfUbNhEfKnYuTgXwGsWyKbOc-1600886457081@nyuu</segment>
+			<segment bytes="728148" number="2">QwIoIfTsAwCwSrMqSjXiCcPv-1600886457082@nyuu</segment>
+			<segment bytes="728149" number="3">MgQpYyKuVmMvUlXwXkSuIyNy-1600886457176@nyuu</segment>
+			<segment bytes="728149" number="4">SgPpKvDvXaCwGvExDwDsPoVu-1600886457525@nyuu</segment>
+			<segment bytes="728149" number="5">IrDvPeOdMgFqZpZpEdPcUjDf-1600886457527@nyuu</segment>
+			<segment bytes="728149" number="6">ApVgLqJrBjYzLfSoRxGyYxTv-1600886457614@nyuu</segment>
+			<segment bytes="728149" number="7">NrOrDqPwVeLtFmFzPjBiHsHn-1600886457955@nyuu</segment>
+			<segment bytes="728149" number="8">JnOqRkImGrDjJqTyQiIaLeUn-1600886457961@nyuu</segment>
+			<segment bytes="728149" number="9">QoZuZnMjNlDkTwQpMiAqKoVy-1600886458041@nyuu</segment>
+			<segment bytes="728151" number="10">HzFaCtDfZxKzIoKsDgKvFiIy-1600886458394@nyuu</segment>
+			<segment bytes="728151" number="11">FuDhPgWbTuAgDsZuKrCuRkKq-1600886458408@nyuu</segment>
+			<segment bytes="728151" number="12">DfMzXdLoXdBiIxVrWnJxSrPp-1600886458462@nyuu</segment>
+			<segment bytes="728151" number="13">DqJjIoRbZjOgIgUiBqNlUaQl-1600886458840@nyuu</segment>
+			<segment bytes="728152" number="14">AqXaUcShRsYyUiEqPdQcFsNt-1600886458850@nyuu</segment>
+			<segment bytes="460468" number="15">VgNyLlCnFiUvFrMuXnUeNrOv-1600886458888@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886459" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [08/15] - &quot;低石.par2&quot; yEnc (1/1) 41800">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="42609" number="1">BaQzQmKtSgCwPfQhHeKzElIz-1600886459269@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886459" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [09/15] - &quot;低石.vol000+02.par2&quot; yEnc (1/1) 188676">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="191842" number="1">OaAdLlHdHkHeXeHzMgIgAdYu-1600886459293@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886459" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [10/15] - &quot;低石.vol002+04.par2&quot; yEnc (1/1) 335552">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="341091" number="1">OiLaMxRiJlPtNiTmEwRaDgDs-1600886459320@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886459" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [11/15] - &quot;低石.vol006+08.par2&quot; yEnc (1/1) 587604">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="597176" number="1">TnTuFhBqEzPdMhVhWtXvZiMi-1600886459715@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886459" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [12/15] - &quot;低石.vol014+16.par2&quot; yEnc (1/2) 1050008">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728413" number="1">KwLaVvVrOtGfZfIzCjBoJuCr-1600886459779@nyuu</segment>
+			<segment bytes="338715" number="2">BqZaWeTxSjGyKfLdFqSyQgKp-1600886459779@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886460" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [13/15] - &quot;低石.vol030+32.par2&quot; yEnc (1/3) 1933116">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728456" number="1">IdFaPgDaBdTcBwWvFgDoZdYh-1600886460100@nyuu</segment>
+			<segment bytes="728439" number="2">TbDrGvCeZoJfUnBzHsVpQqZt-1600886460108@nyuu</segment>
+			<segment bytes="507699" number="3">KvIeRdWmDhUzJjUoZnQbJaSb-1600886460137@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886460" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [14/15] - &quot;低石.vol062+64.par2&quot; yEnc (1/6) 3657632">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728432" number="1">HrQsFyZfRoOsBwFsXhPrOfZt-1600886460548@nyuu</segment>
+			<segment bytes="728492" number="2">ZvAyQhQkEzEwElKvCuFnRyOb-1600886460551@nyuu</segment>
+			<segment bytes="728472" number="3">BmLiCrIoSjPoEpNkIrNmWxXs-1600886460561@nyuu</segment>
+			<segment bytes="728457" number="4">BuUjSgYkSiPkMsDdVnEtXtJw-1600886460974@nyuu</segment>
+			<segment bytes="728448" number="5">SbEqLoPwVuGtKlZrXxPzDvWs-1600886460993@nyuu</segment>
+			<segment bytes="74978" number="6">NlJgBoFcZlHuJgFwCsKzTpFm-1600886461011@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1600886461" subject="reftestnzb unicode rar par2 and final 6e69267a08ea [15/15] - &quot;低石.vol126+74.par2&quot; yEnc (1/6) 4183512">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728466" number="1">SuXcGqFvRoPbTsAlHlAcSxFb-1600886461398@nyuu</segment>
+			<segment bytes="728484" number="2">HjPiQyCdKeHoRvExEnFwFyUs-1600886461431@nyuu</segment>
+			<segment bytes="728507" number="3">BsZgDiWaQjCmOaMdFfLpHmOk-1600886461439@nyuu</segment>
+			<segment bytes="728453" number="4">WuBpDlNaAyAdKnGfHmLfVyBt-1600886461827@nyuu</segment>
+			<segment bytes="728431" number="5">PmXjWqRzSrVlOwEmNdWwXoMm-1600886461832@nyuu</segment>
+			<segment bytes="609331" number="6">OuSlPrXaMcZaCoSgCoMgUuSq-1600886461863@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
