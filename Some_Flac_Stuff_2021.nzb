@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1615732427" subject="deobfuscate FLAC set with txt files d9e805819cde [02/11] - &quot;02_artist_big.flac&quot; yEnc (1/30) 21000000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728144" number="1">HvVdWfSjTyJvNyJyEdIeQvSc-1615732427992@nyuu</segment>
+			<segment bytes="728150" number="2">AkHiZbEkZtWrSaYpLtCgXmAu-1615732428027@nyuu</segment>
+			<segment bytes="728151" number="3">PiJqKpNrJxVpYkQaVsGsSoBu-1615732428037@nyuu</segment>
+			<segment bytes="728151" number="4">EsAjZiLtQwNdPnCiDvLaClTo-1615732428077@nyuu</segment>
+			<segment bytes="728151" number="5">RhViYjEeBiFmBiTxFaLpAjGt-1615732428113@nyuu</segment>
+			<segment bytes="728151" number="6">EyIbCcDdVoGaSmXuWuOsOwVk-1615732428146@nyuu</segment>
+			<segment bytes="728151" number="7">CkKdYjQwKcPzGqPvQcLwYgYf-1615732428152@nyuu</segment>
+			<segment bytes="728151" number="8">YiOrYnErKjRiTyWlPfZsYeAe-1615732428484@nyuu</segment>
+			<segment bytes="728151" number="9">KbSeWuAvNpTlQvQvRyRjEdBe-1615732428520@nyuu</segment>
+			<segment bytes="728153" number="10">KnYoBsSyDaMeAsZoPgNbBcZc-1615732428544@nyuu</segment>
+			<segment bytes="728153" number="11">FtDnFuBwWiMoIiNsLfSbUlTg-1615732428587@nyuu</segment>
+			<segment bytes="728153" number="12">VrViVtScRiSwUfNmWmIcWkHn-1615732428670@nyuu</segment>
+			<segment bytes="728153" number="13">OhQmSzMjDfXzSkQlNmZqHrQc-1615732428698@nyuu</segment>
+			<segment bytes="728154" number="14">ZtLlOjLrMoHjHnSlViMuGvCf-1615732428997@nyuu</segment>
+			<segment bytes="728155" number="15">UxJfGmEpPrYfLuHoGcVdVlYd-1615732429025@nyuu</segment>
+			<segment bytes="728155" number="16">PrZeVgSgMuTaBvYvIxNwYxRs-1615732429052@nyuu</segment>
+			<segment bytes="728155" number="17">XtNvVgMbQbYnFeJsGaBiDvQk-1615732429075@nyuu</segment>
+			<segment bytes="728155" number="18">McAmDjOhXmGtQkXjCmJtJsQx-1615732429170@nyuu</segment>
+			<segment bytes="728155" number="19">XiYgZuWzAvZxEuOqMeTeYpLg-1615732429202@nyuu</segment>
+			<segment bytes="728155" number="20">PxAlUqRmUeKwSnMoLcHbLtBj-1615732429508@nyuu</segment>
+			<segment bytes="728155" number="21">EnRwTsYcAlFbWwZeYqZxDpAc-1615732429552@nyuu</segment>
+			<segment bytes="728155" number="22">QbDuAuOcBqLsXePeGsSaJrFc-1615732429586@nyuu</segment>
+			<segment bytes="728155" number="23">GvUgVeIhCpKfQgUgOjLaTbCv-1615732429599@nyuu</segment>
+			<segment bytes="728155" number="24">WnUuUnRjNpIkUeZtAdOkEjFr-1615732429676@nyuu</segment>
+			<segment bytes="728155" number="25">VwEcJfBgYzMhMuQeVaBvXsPf-1615732429712@nyuu</segment>
+			<segment bytes="728155" number="26">AfHoXqXkYbPgRmTdVfEiTbSo-1615732429982@nyuu</segment>
+			<segment bytes="728155" number="27">RrIhWqMtDbJzFnNyAnRfMgAl-1615732430066@nyuu</segment>
+			<segment bytes="728155" number="28">ZoGvGsCeLzEmXbElLsYgXjJs-1615732430103@nyuu</segment>
+			<segment bytes="728155" number="29">SxFiGmDmGwJtYcUvMzGuFjNn-1615732430130@nyuu</segment>
+			<segment bytes="216296" number="30">KfDgLhXqEeFtEpFmKmUgXgAc-1615732430187@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1615732426" subject="deobfuscate FLAC set with txt files d9e805819cde [01/11] - &quot;01_artist_super.flac&quot; yEnc (1/28) 20000000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728146" number="1">ZuCtHtQgDtJyIeTrRkTwJwTj-1615732426115@nyuu</segment>
+			<segment bytes="728152" number="2">TbGaGeGlOwRjMzAgLvRoHjKy-1615732426118@nyuu</segment>
+			<segment bytes="728153" number="3">FdPhFuGaZeWvEdTxNfPsHkWk-1615732426119@nyuu</segment>
+			<segment bytes="728153" number="4">CdRfEsXmSaRrNwBsNbTxIvYl-1615732426120@nyuu</segment>
+			<segment bytes="728153" number="5">YvTzBpHxOoVaLqIaBkXpAaRm-1615732426121@nyuu</segment>
+			<segment bytes="728153" number="6">BhJqYlWpHsJbFkBfZvSgZhGi-1615732426172@nyuu</segment>
+			<segment bytes="728153" number="7">TcUwBlWkLbEoTgVlBlTjVaNy-1615732426173@nyuu</segment>
+			<segment bytes="728153" number="8">JkGpYnBfJzSbPjVjVlLtFxDf-1615732426175@nyuu</segment>
+			<segment bytes="728153" number="9">HbUrDrIfKrGjGaUjFzIxFbJj-1615732426184@nyuu</segment>
+			<segment bytes="728155" number="10">GcRaAhGlEtPuHgJcDdImFhYi-1615732426189@nyuu</segment>
+			<segment bytes="728155" number="11">WvMbElYcHvBsBkGiYgOfGzCb-1615732426197@nyuu</segment>
+			<segment bytes="728155" number="12">LnRuSbQqMcJjEgUwQeOeQnBo-1615732426208@nyuu</segment>
+			<segment bytes="728155" number="13">WvOeWtMfCsVpUeWtJkCzCdVa-1615732426209@nyuu</segment>
+			<segment bytes="728156" number="14">EdNjGrDgShPeTlMhFgYoRwSd-1615732426850@nyuu</segment>
+			<segment bytes="728157" number="15">RlCoDlGnFhBhKrSuNgPpQlNu-1615732426855@nyuu</segment>
+			<segment bytes="728157" number="16">BgQaKrFwXaXhSuPvBcEgTzHw-1615732426865@nyuu</segment>
+			<segment bytes="728157" number="17">GdBbOmHbNwKqFlDlYxLfOxCa-1615732426878@nyuu</segment>
+			<segment bytes="728157" number="18">WhJsPbPkUcAlDbQbZfDcPzBv-1615732426879@nyuu</segment>
+			<segment bytes="728157" number="19">LpXgYaSdMpQbLhUwKeQzXbEe-1615732426880@nyuu</segment>
+			<segment bytes="728157" number="20">QiJgXkCdTbOtElCqDyHoPvFp-1615732426901@nyuu</segment>
+			<segment bytes="728157" number="21">TsYwTlHiZxZnKiYyFxByDiGa-1615732426936@nyuu</segment>
+			<segment bytes="728157" number="22">RnDdLvUsCrZxKqTdVyPbZeGr-1615732427461@nyuu</segment>
+			<segment bytes="728157" number="23">MkLySnBdKdMzSrVrQkXgWgHy-1615732427463@nyuu</segment>
+			<segment bytes="728157" number="24">UbVnTfHuDyWbOuRdMnPlLhPz-1615732427478@nyuu</segment>
+			<segment bytes="728157" number="25">VyCqNoSaIjTnExFxIoWvKgYf-1615732427497@nyuu</segment>
+			<segment bytes="728157" number="26">FtIkVeDtQyKpNmBiWyAaCnKr-1615732427545@nyuu</segment>
+			<segment bytes="728157" number="27">CnIsIkSnQfTuIwOkOlEiPtKw-1615732427576@nyuu</segment>
+			<segment bytes="656672" number="28">RdCxErYdFrGfIhCyDeFqXiHw-1615732427577@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1615732430" subject="deobfuscate FLAC set with txt files d9e805819cde [03/11] - &quot;03_artist_slow.flac&quot; yEnc (1/27) 19000000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728145" number="1">LcZhZcVqGpEzDsIjEjTzRbSx-1615732430218@nyuu</segment>
+			<segment bytes="728151" number="2">JuKoXjTlFuAuPhKwZkHkGzVk-1615732430458@nyuu</segment>
+			<segment bytes="728152" number="3">VsYbZnOkPbMjWzEnSdWlQkNo-1615732430554@nyuu</segment>
+			<segment bytes="728152" number="4">NlIjChBoGfIoWePfGtBjObJe-1615732430599@nyuu</segment>
+			<segment bytes="728152" number="5">DhNaFnPgJeMwLoUrBwUvDlVc-1615732430626@nyuu</segment>
+			<segment bytes="728152" number="6">EfTgNlFjZeCpSfHnPzNjUjMi-1615732430691@nyuu</segment>
+			<segment bytes="728152" number="7">HlRkYwJlXzTxGqSpZyHhRiHl-1615732430709@nyuu</segment>
+			<segment bytes="728152" number="8">FnNvAqRpIhXsDtReRsByBbZr-1615732430942@nyuu</segment>
+			<segment bytes="728152" number="9">XbTxBmLvPrYiHaYeMpTmJlJy-1615732431030@nyuu</segment>
+			<segment bytes="728154" number="10">LgXiBqKsEmTnTgBiPmZmUzRv-1615732431061@nyuu</segment>
+			<segment bytes="728154" number="11">XvPnQuMhQpWwIpLxZmIrDoIq-1615732431104@nyuu</segment>
+			<segment bytes="728154" number="12">KtLjCpYtIyJmKeGwYhTuAgDy-1615732431186@nyuu</segment>
+			<segment bytes="728154" number="13">CkScYtKoZfTgEsHgAhGvIyFy-1615732431221@nyuu</segment>
+			<segment bytes="728155" number="14">QvJfJiTqGaJtZxPsKdMlNfAx-1615732431454@nyuu</segment>
+			<segment bytes="728156" number="15">ErAjTqRpGbPbAsQgWuWbIuXc-1615732431528@nyuu</segment>
+			<segment bytes="728156" number="16">JaGpTvOkRjWjXwDlLuIqVeXm-1615732431563@nyuu</segment>
+			<segment bytes="728156" number="17">JjSeWnEdKiUmEkMoDsGqGfEh-1615732431624@nyuu</segment>
+			<segment bytes="728156" number="18">IyNaYzJhQsWqFdHqBqWgWrSq-1615732431680@nyuu</segment>
+			<segment bytes="728156" number="19">DgTbKtYiVnXvMhZfWkRzDrLt-1615732431742@nyuu</segment>
+			<segment bytes="728156" number="20">WuDkCyGxCoMuLbInDpQpYpWp-1615732431755@nyuu</segment>
+			<segment bytes="728156" number="21">LiIzAfEgDfYbYhHlQeHyTbQg-1615732431919@nyuu</segment>
+			<segment bytes="728156" number="22">FvIuHzIhKyBkQkWhKjJnBtKs-1615732432040@nyuu</segment>
+			<segment bytes="728156" number="23">QgDkXtBmRzWfHpBpNfKtDdWe-1615732432130@nyuu</segment>
+			<segment bytes="728156" number="24">ReGwWeGsKaZmEkFdUrNuDlOi-1615732432172@nyuu</segment>
+			<segment bytes="728156" number="25">TiPoJdWrXfMcMzUpRhHcQiZf-1615732432239@nyuu</segment>
+			<segment bytes="728156" number="26">WqLhBqSlRlBsDdKyQzVtPcCz-1615732432258@nyuu</segment>
+			<segment bytes="369047" number="27">BjGqBtRyJhCxRfTqRoBpBdTl-1615732432261@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1615732432" subject="deobfuscate FLAC set with txt files d9e805819cde [04/11] - &quot;04_artist_nice.flac&quot; yEnc (1/28) 20000000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728145" number="1">OnTvUnDsZxWmTyUzFoNgVnDg-1615732432397@nyuu</segment>
+			<segment bytes="728151" number="2">EwLlLaDdFvKsDjVaIcHaYiGq-1615732432540@nyuu</segment>
+			<segment bytes="728152" number="3">HuFwYfAwDvMdLjCaYlYmYbRk-1615732432639@nyuu</segment>
+			<segment bytes="728152" number="4">IfTrVcYdZxCxGhQuOyOcEdAq-1615732432671@nyuu</segment>
+			<segment bytes="728152" number="5">CpVwTqXeNhJcLfAxFwFhMaKz-1615732432745@nyuu</segment>
+			<segment bytes="728152" number="6">EpMoMkAcQkNpPkYiRcPzHpWm-1615732432759@nyuu</segment>
+			<segment bytes="728152" number="7">LnKlEjSdOwWgAnQpBmZaTkZn-1615732432794@nyuu</segment>
+			<segment bytes="728152" number="8">PgDnRdDvEeAfPgAkHuTfMcFu-1615732432815@nyuu</segment>
+			<segment bytes="728152" number="9">OrTkIqCdIvFeUuKtSvAaGgTs-1615732432874@nyuu</segment>
+			<segment bytes="728154" number="10">MkPnWtCwEkOkBhAhNuAqTeTi-1615732433092@nyuu</segment>
+			<segment bytes="728154" number="11">KkZjMmZtGeTbScHpUgSzJqCs-1615732433136@nyuu</segment>
+			<segment bytes="728154" number="12">LoXnBgAmQqDkSfBlXtOfDqDe-1615732433174@nyuu</segment>
+			<segment bytes="728154" number="13">LjCyWtEhFjLaEsJjClYyRpOz-1615732433199@nyuu</segment>
+			<segment bytes="728155" number="14">UgSuNdTrDtYuNqVzEdGfRaNs-1615732433278@nyuu</segment>
+			<segment bytes="728156" number="15">AeJwQtSeXyRmDfZtDoRfWuIa-1615732433314@nyuu</segment>
+			<segment bytes="728156" number="16">NdQnBqKvCaJiJoVaVsKwLmMq-1615732433333@nyuu</segment>
+			<segment bytes="728156" number="17">NeOcAqAcSxGbKwHiAkZxSdJh-1615732433361@nyuu</segment>
+			<segment bytes="728156" number="18">WkOrWcEjAiAmZzAjKjFtIpFc-1615732433604@nyuu</segment>
+			<segment bytes="728156" number="19">WdArNdQdXaKsDaSnVyDvKbAz-1615732433624@nyuu</segment>
+			<segment bytes="728156" number="20">FgGkEeRkFbDxTgNnWxGmXbRh-1615732433668@nyuu</segment>
+			<segment bytes="728156" number="21">NaSzVrRkSlGjYsJoPaXpCzNc-1615732433711@nyuu</segment>
+			<segment bytes="728156" number="22">ToEcRgNmHmVyXsWcUoNyYjFg-1615732433764@nyuu</segment>
+			<segment bytes="728156" number="23">FaVpDoJuZoVwArDtBiNyZdCv-1615732433821@nyuu</segment>
+			<segment bytes="728156" number="24">SgNvJoZcLbVnWkRmIoZxYtVq-1615732433861@nyuu</segment>
+			<segment bytes="728156" number="25">JfRmJqTyFrYvEfHkUnIwPqPa-1615732433869@nyuu</segment>
+			<segment bytes="728156" number="26">UoZbNwJnGkQtXdHzVkJmViIy-1615732434220@nyuu</segment>
+			<segment bytes="728156" number="27">EgRaEsRlHgDoZqGtTsQuKhXe-1615732434221@nyuu</segment>
+			<segment bytes="656671" number="28">DyJhVwNkFzEfRfYyPlOzJlQf-1615732434223@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1615732434" subject="deobfuscate FLAC set with txt files d9e805819cde [05/11] - &quot;fout.txt&quot; yEnc (1/1) 5">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="138" number="1">YxWfYcEcDxDzAeUhHzVzNiSb-1615732434251@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1615732434" subject="deobfuscate FLAC set with txt files d9e805819cde [06/11] - &quot;one.txt&quot; yEnc (1/1) 5">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="137" number="1">EiXxVyChLtOrHhMcSsJgTvFz-1615732434270@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1615732437" subject="deobfuscate FLAC set with txt files d9e805819cde [08/11] - &quot;some_more_info.abc&quot; yEnc (1/1) 15">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="161" number="1">QlWjUfThDmEoDnZeJhUrBgNl-1615732437013@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1615732437" subject="deobfuscate FLAC set with txt files d9e805819cde [10/11] - &quot;three.txt&quot; yEnc (1/1) 5">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="139" number="1">NsJrKjSyNqMuFqDlVlKlSaEv-1615732437052@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1615732437" subject="deobfuscate FLAC set with txt files d9e805819cde [09/11] - &quot;some_text.txt&quot; yEnc (1/1) 8">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="146" number="1">ErQjCwCqEaDhDpVsVrGlJqJk-1615732437015@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1615732434" subject="deobfuscate FLAC set with txt files d9e805819cde [07/11] - &quot;some_binary.iso&quot; yEnc (1/35) 25000000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728141" number="1">PgPpOoOrJiWaFuNqPgCiQxKv-1615732434326@nyuu</segment>
+			<segment bytes="728147" number="2">JoLgRuNfJrFnVbGfVkJxRcKy-1615732434348@nyuu</segment>
+			<segment bytes="728148" number="3">EzQqUyVvHnEuZxHkNzZgUnLa-1615732434391@nyuu</segment>
+			<segment bytes="728148" number="4">UgJmFoQhOpMcMyGdMlAnUwDg-1615732434778@nyuu</segment>
+			<segment bytes="728148" number="5">CfRnWlQmUlVrBeXnVxHjXbVm-1615732434780@nyuu</segment>
+			<segment bytes="728148" number="6">CoQbUtWoRnAfVdTsQcZxUwJp-1615732434784@nyuu</segment>
+			<segment bytes="728148" number="7">YaToEvRqFpSvTeCkXqZwZiRg-1615732434837@nyuu</segment>
+			<segment bytes="728148" number="8">ZkYzAuLoLyDdNuCvAnIgLcGy-1615732434858@nyuu</segment>
+			<segment bytes="728148" number="9">SlDwFyFbPzZpEwBkXzXgKuAt-1615732434871@nyuu</segment>
+			<segment bytes="728150" number="10">RyWiVvQmWrMlHfBoUtWzKwVc-1615732434889@nyuu</segment>
+			<segment bytes="728150" number="11">DcIvQxOhDgTuQpOsAiXeCbGt-1615732434914@nyuu</segment>
+			<segment bytes="728150" number="12">ViWbLlQeRyHfOlTxPbUfHkPo-1615732435244@nyuu</segment>
+			<segment bytes="728150" number="13">EcRcZmBqJmCaTsIzDnAzOpHr-1615732435247@nyuu</segment>
+			<segment bytes="728151" number="14">JhKdVsIfOlSbJuReOyVnGaIb-1615732435280@nyuu</segment>
+			<segment bytes="728152" number="15">HcNbAvNcRxWfRhVbNwAlUcYm-1615732435346@nyuu</segment>
+			<segment bytes="728152" number="16">UgOwTtXpIbQeNlHySzNjJmEm-1615732435379@nyuu</segment>
+			<segment bytes="728152" number="17">XwKoPeNyRwWuIwNzNxQoDuYi-1615732435417@nyuu</segment>
+			<segment bytes="728152" number="18">KeAnMrIhRmFgByXjPkCkWvUb-1615732435472@nyuu</segment>
+			<segment bytes="728152" number="19">RtNyIoDkClOlRnCvInWoOaFt-1615732435489@nyuu</segment>
+			<segment bytes="728152" number="20">MhYcQtPiDzHyWhKtOsMzMoLd-1615732435862@nyuu</segment>
+			<segment bytes="728152" number="21">WjDfSgBuAzGpQrRhGsLnIhZp-1615732435865@nyuu</segment>
+			<segment bytes="728152" number="22">GlLlRyPdTaRrKpPsAbWdTjPd-1615732435867@nyuu</segment>
+			<segment bytes="728152" number="23">QvJkFrCfHpJzCzEpYlAfJiCg-1615732435895@nyuu</segment>
+			<segment bytes="728152" number="24">RmRsCbMlVrMbGnIgZpYwCxRt-1615732435896@nyuu</segment>
+			<segment bytes="728152" number="25">JrClLwHtIwVrDcMjPfMaLwDh-1615732435928@nyuu</segment>
+			<segment bytes="728152" number="26">ZpJpPyKdVqGnBiYsIsGaBcTe-1615732436005@nyuu</segment>
+			<segment bytes="728152" number="27">AuFlGyTsKsGdHqNyAfGxLpJo-1615732436044@nyuu</segment>
+			<segment bytes="728152" number="28">RiFpRxYyXyMnFtZsMwKvOsAl-1615732436444@nyuu</segment>
+			<segment bytes="728152" number="29">ZlZiEoFtZqNwTeFeRwGvWvAx-1615732436446@nyuu</segment>
+			<segment bytes="728152" number="30">SaArRvExZdEfCpZsMdOuLqRm-1615732436470@nyuu</segment>
+			<segment bytes="728152" number="31">GoWhTxZgSuKbRcCxHpPaIiBk-1615732436484@nyuu</segment>
+			<segment bytes="728152" number="32">VjZzHtArMnCyKbJlTrTxDjKd-1615732436496@nyuu</segment>
+			<segment bytes="728152" number="33">ChCaJwLkKpIkDoKjQhKiFmZu-1615732436505@nyuu</segment>
+			<segment bytes="728152" number="34">OcRqAdWzBdPhUhKnYeVyIpAb-1615732436562@nyuu</segment>
+			<segment bytes="638793" number="35">RlFsWcTjPbGfQkYaLvNiDwZn-1615732436601@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1615732437" subject="deobfuscate FLAC set with txt files d9e805819cde [11/11] - &quot;two.txt&quot; yEnc (1/1) 5">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="137" number="1">BdOdPzVdKkVsZrIxAzScAeYi-1615732437053@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
