@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1624025172" subject="reftestnzb No_Extensions 062d817b1907 [03/11] - &quot;no_extension.part3.rar&quot; yEnc (1/1) 12476">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="13006" number="1">JwKfOuSdYgIwTmIzNuKjQeRp-1624025172529@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1624025172" subject="reftestnzb No_Extensions 062d817b1907 [01/11] - &quot;no_extension.part1.rar&quot; yEnc (1/1) 512000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="527231" number="1">ZnGqXyRqKdRiUnKdPgMfBxTk-1624025172525@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1624025172" subject="reftestnzb No_Extensions 062d817b1907 [02/11] - &quot;no_extension.part2.rar&quot; yEnc (1/1) 512000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="527116" number="1">NwUlZlYfRwDtShWpPgXuRpCn-1624025172528@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1624025172" subject="reftestnzb No_Extensions 062d817b1907 [04/11] - &quot;no_extensio.par2&quot; yEnc (1/1) 40780">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="42235" number="1">FfYcQoYvArFnNvFqRrUhGdVv-1624025172586@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1624025172" subject="reftestnzb No_Extensions 062d817b1907 [05/11] - &quot;no_extensio.vol000+02.par2&quot; yEnc (1/1) 82632">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="85430" number="1">QcQrWyFqAqGxTyFwGcNtFjHt-1624025172588@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1624025172" subject="reftestnzb No_Extensions 062d817b1907 [06/11] - &quot;no_extensio.vol002+04.par2&quot; yEnc (1/1) 124484">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="128636" number="1">OuXgVzGmMiNhDiTzKjFgJqIn-1624025172596@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1624025173" subject="reftestnzb No_Extensions 062d817b1907 [07/11] - &quot;no_extensio.vol006+08.par2&quot; yEnc (1/1) 167512">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="173035" number="1">XdAgQxGsMqUbJlJfDdBaIoCz-1624025173020@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1624025173" subject="reftestnzb No_Extensions 062d817b1907 [08/11] - &quot;no_extensio.vol014+16.par2&quot; yEnc (1/1) 212892">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="219865" number="1">ScCgNlOpAjAoUkOjDnBlPdEf-1624025173066@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1624025173" subject="reftestnzb No_Extensions 062d817b1907 [09/11] - &quot;no_extensio.vol030+32.par2&quot; yEnc (1/1) 262976">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="271540" number="1">BwQqPsHqYbRrOiNqTiFcUhMx-1624025173078@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1624025173" subject="reftestnzb No_Extensions 062d817b1907 [11/11] - &quot;no_extensio.vol126+73.par2&quot; yEnc (1/1) 327760">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="338387" number="1">IaSlXlDdNfSqUyPwDvHrEmVo-1624025173459@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1624025173" subject="reftestnzb No_Extensions 062d817b1907 [10/11] - &quot;no_extensio.vol062+64.par2&quot; yEnc (1/1) 322468">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="332965" number="1">RgByZjJrWtIwBtFqIvSkLiHu-1624025173416@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
