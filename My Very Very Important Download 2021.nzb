@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625104" subject="reftestnzb rename 32-ascii f6e1940bdf2d [01/13] - &quot;blablabla.part1.rar&quot; yEnc (1/15) 10485760">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728149" number="1">NhGeCaByKxBfOaYfEdNpYeLj-1626625104725@nyuu</segment>
+			<segment bytes="728151" number="2">LuZzVfUmOhBdMuHcWzUlTmEd-1626625104727@nyuu</segment>
+			<segment bytes="728152" number="3">NmQfIhDpFoIpBrIrMjQvPmMv-1626625104730@nyuu</segment>
+			<segment bytes="728152" number="4">GxSfWzQtIsMgXnJrUtZcCrHh-1626625104731@nyuu</segment>
+			<segment bytes="728152" number="5">KwIbSrUcGzPrUkIlZzRuJdHt-1626625104764@nyuu</segment>
+			<segment bytes="728152" number="6">HoWiUfPkIjNqVsBgKwCoWjAj-1626625104765@nyuu</segment>
+			<segment bytes="728152" number="7">MeFfLuQkVrXyLsRnZtBuYjDj-1626625104766@nyuu</segment>
+			<segment bytes="728152" number="8">KcOxTfQrNtTcFgDaToVlJfQq-1626625104767@nyuu</segment>
+			<segment bytes="728152" number="9">RnQzVfSkPpQkImZdUgGhQkIk-1626625104779@nyuu</segment>
+			<segment bytes="728154" number="10">OxDwTvSzPvOfMaShUuBdXgSe-1626625104790@nyuu</segment>
+			<segment bytes="728154" number="11">LvNsHnCuAxYnHsUaWlElCyCs-1626625105664@nyuu</segment>
+			<segment bytes="728154" number="12">ChPfZhOrAtLvUxSsNdBlRlWr-1626625105664@nyuu</segment>
+			<segment bytes="728154" number="13">ElDnOfNbUzJlLmMpDjZpUcCt-1626625105665@nyuu</segment>
+			<segment bytes="728155" number="14">SgGwTpDmCxSxTpMbEjHiJeFc-1626625105665@nyuu</segment>
+			<segment bytes="457775" number="15">XnGvCrGeZsHhSpBgCnOzKhJr-1626625105666@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625105" subject="reftestnzb rename 32-ascii f6e1940bdf2d [02/13] - &quot;blablabla.part2.rar&quot; yEnc (1/15) 10485760">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">HnJzAoGqKaLgMrJhMxXsMcNq-1626625105667@nyuu</segment>
+			<segment bytes="728151" number="2">UlAhSaSgJfVsTfHiCwHiSnQt-1626625106377@nyuu</segment>
+			<segment bytes="728152" number="3">IiBsXxJlQmAiHjCfNcRsAkOb-1626625106380@nyuu</segment>
+			<segment bytes="728152" number="4">KaRwAtQvMrWlQlItLdXyWaJh-1626625106417@nyuu</segment>
+			<segment bytes="728152" number="5">TpCrUiZkCdZtNtHjShCdIvPg-1626625106441@nyuu</segment>
+			<segment bytes="728152" number="6">MmCaCjTgUvAcQvPjLaBxDuIg-1626625106462@nyuu</segment>
+			<segment bytes="728152" number="7">QvDvKuFsGaXtTdLrKnMgXpAj-1626625106464@nyuu</segment>
+			<segment bytes="728152" number="8">MnFdZiAxJiKiUaVhFrMbTuDh-1626625106900@nyuu</segment>
+			<segment bytes="728152" number="9">HdFmVoXnDmHxVcQmMdKiGiEi-1626625106975@nyuu</segment>
+			<segment bytes="728154" number="10">PtNfLlIoIoDrHzOhLiSkBwTi-1626625106999@nyuu</segment>
+			<segment bytes="728154" number="11">TuDdYlNaBhRcDiUjPlNlPpZg-1626625107115@nyuu</segment>
+			<segment bytes="728154" number="12">KtLaTqTmRbDaMwGsDhYgSdLk-1626625107133@nyuu</segment>
+			<segment bytes="728154" number="13">ZhZdPhEvYxCsWqVfNnCqRhNw-1626625107135@nyuu</segment>
+			<segment bytes="728155" number="14">PkUnRhGbOcGbEgAwHhLpGhPc-1626625107361@nyuu</segment>
+			<segment bytes="457774" number="15">QlUpUbBkEdHuSqJlOqVnTpWx-1626625107482@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625107" subject="reftestnzb rename 32-ascii f6e1940bdf2d [03/13] - &quot;blablabla.part3.rar&quot; yEnc (1/15) 10485760">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">LmYpHlSiIoBpIdBeYvYiEtIq-1626625107503@nyuu</segment>
+			<segment bytes="728151" number="2">LlTvSdRlWiZgYlWdIvIfRqRy-1626625107681@nyuu</segment>
+			<segment bytes="728152" number="3">VhErHrCdSmMrCnEgNeEpOlUw-1626625107699@nyuu</segment>
+			<segment bytes="728152" number="4">PjVlQsMfNeNkKcIiKxMhRzXc-1626625107722@nyuu</segment>
+			<segment bytes="728152" number="5">GlFhGwVpLoQbViBjOzHwUzTo-1626625107833@nyuu</segment>
+			<segment bytes="728152" number="6">YfSjWxUyLuCfKyBzLjGfUzBu-1626625108001@nyuu</segment>
+			<segment bytes="728152" number="7">TvDiRaAbSmCpKwTbHgLjDbBd-1626625108021@nyuu</segment>
+			<segment bytes="728152" number="8">EqPgNkPdNfAjNrHsBqEnXuVs-1626625108222@nyuu</segment>
+			<segment bytes="728152" number="9">LzBzXhTqFfFtInSdDgBsCoQu-1626625108250@nyuu</segment>
+			<segment bytes="728154" number="10">CvQoMeXtPdVfBiIjAyGkUlYi-1626625108278@nyuu</segment>
+			<segment bytes="728154" number="11">YeGiNkYgWvUzEoFjLaIzYbJl-1626625108323@nyuu</segment>
+			<segment bytes="728154" number="12">PiZiCrTvVgRfHdRtLcSoLtVz-1626625108512@nyuu</segment>
+			<segment bytes="728154" number="13">FzTrUnVmUgFxHwFcKeYlXqJk-1626625108549@nyuu</segment>
+			<segment bytes="728155" number="14">GvXlWsHqQwZnDsOcNsLlHtDo-1626625108740@nyuu</segment>
+			<segment bytes="457774" number="15">ObFrWfGfCxUzOuQsPsPgFrGh-1626625108859@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625108" subject="reftestnzb rename 32-ascii f6e1940bdf2d [04/13] - &quot;blablabla.part4.rar&quot; yEnc (1/1) 803">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="966" number="1">BaRvGsNrVxYsHeVqTgIrTuBc-1626625108868@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625108" subject="reftestnzb rename 32-ascii f6e1940bdf2d [05/13] - &quot;blabla.par2&quot; yEnc (1/1) 41116">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="41921" number="1">WiAqBcFjAvCvQgDbBoObEaTm-1626625108902@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625109" subject="reftestnzb rename 32-ascii f6e1940bdf2d [06/13] - &quot;blabla.vol000+001.par2&quot; yEnc (1/1) 56932">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="57997" number="1">QkUqKdChDyEjCwWhHoFhQxQn-1626625109019@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625109" subject="reftestnzb rename 32-ascii f6e1940bdf2d [07/13] - &quot;blabla.vol001+002.par2&quot; yEnc (1/1) 72748">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="74062" number="1">WwKyVmPjAvGgEkYiYiDjZiVs-1626625109084@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625109" subject="reftestnzb rename 32-ascii f6e1940bdf2d [08/13] - &quot;blabla.vol003+004.par2&quot; yEnc (1/1) 145380">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="147860" number="1">EaRoKvRqUgXiUeHbUpIvKuYq-1626625109254@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625109" subject="reftestnzb rename 32-ascii f6e1940bdf2d [09/13] - &quot;blabla.vol007+008.par2&quot; yEnc (1/1) 249644">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="253780" number="1">GdMpYpYrRtMzIbCoClPoGcPb-1626625109392@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625109" subject="reftestnzb rename 32-ascii f6e1940bdf2d [10/13] - &quot;blabla.vol015+016.par2&quot; yEnc (1/1) 417172">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="423971" number="1">IeHxUaQgIiXeReLcMrIbNgMa-1626625109413@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625109" subject="reftestnzb rename 32-ascii f6e1940bdf2d [11/13] - &quot;blabla.vol031+032.par2&quot; yEnc (1/1) 711228">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="722708" number="1">HkFzWlKkLjLnReFlStRkTzLt-1626625109421@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625109" subject="reftestnzb rename 32-ascii f6e1940bdf2d [12/13] - &quot;blabla.vol063+064.par2&quot; yEnc (1/2) 1258340">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728324" number="1">PtOgYpLoPjYkLtFiMiUiYpZs-1626625109505@nyuu</segment>
+			<segment bytes="550323" number="2">MgOvUgWtOfZfNtNsVtQqLyFu-1626625109535@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1626625109" subject="reftestnzb rename 32-ascii f6e1940bdf2d [13/13] - &quot;blabla.vol127+073.par2&quot; yEnc (1/2) 1400684">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728344" number="1">AdXlKfMmDkTvOzPfYuWeLbSm-1626625109758@nyuu</segment>
+			<segment bytes="694920" number="2">TfXkCiOfHlUnGaFtYnNrOfRu-1626625109785@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
