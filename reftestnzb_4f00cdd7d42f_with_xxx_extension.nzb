@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448585" subject="reftestnzb_a4c42d079608_with_xxx_extension [05/14] - &quot;my_file_10GB.part5.rar&quot; yEnc (1/1) 11213">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="11672" number="1">SuKpOqEiRpTvGyYrTfJnIuPb-1648448585001@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448585" subject="reftestnzb_a4c42d079608_with_xxx_extension [06/14] - &quot;the_10GB.par2&quot; yEnc (1/1) 41372">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="42826" number="1">CyArGxKxOfOtOsPdXaWrPgHe-1648448585001@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448584" subject="reftestnzb_a4c42d079608_with_xxx_extension [02/14] - &quot;my_file_10GB.part2.rar&quot; yEnc (1/1) 512000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="528694" number="1">IbFtBoVpPrLySuOlAxDoRzXz-1648448584956@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448584" subject="reftestnzb_a4c42d079608_with_xxx_extension [03/14] - &quot;my_file_10GB.part3.rar&quot; yEnc (1/1) 512000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="527091" number="1">PlOwXeIbRnFsBaAhZgXeUvYw-1648448584957@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448584" subject="reftestnzb_a4c42d079608_with_xxx_extension [01/14] - &quot;my_file_10GB.part1.rar&quot; yEnc (1/1) 512000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="527172" number="1">ScVvUjCnQiEhMoEhUyZrBgTx-1648448584953@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448584" subject="reftestnzb_a4c42d079608_with_xxx_extension [04/14] - &quot;my_file_10GB.part4.rar&quot; yEnc (1/1) 512000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="527298" number="1">RfSuUuJsUqAgOmBcVfXtZnUz-1648448584959@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448585" subject="reftestnzb_a4c42d079608_with_xxx_extension [07/14] - &quot;the_10GB.vol000+001.par2&quot; yEnc (1/1) 42472">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="43967" number="1">PyIjWoUcAsQlRdLaRmNoFvHi-1648448585004@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448585" subject="reftestnzb_a4c42d079608_with_xxx_extension [08/14] - &quot;the_10GB.vol001+002.par2&quot; yEnc (1/1) 43572">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="45109" number="1">DaYfLgQjMpKoXqNcMsAaWrMs-1648448585008@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448585" subject="reftestnzb_a4c42d079608_with_xxx_extension [09/14] - &quot;the_10GB.vol003+004.par2&quot; yEnc (1/1) 87028">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="89933" number="1">NhYoOfVyBpCgJiKjKlHsBqFf-1648448585020@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448585" subject="reftestnzb_a4c42d079608_with_xxx_extension [10/14] - &quot;the_10GB.vol007+008.par2&quot; yEnc (1/1) 132684">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="137026" number="1">BiRgIyYoToLpSpQjAeXaPbTs-1648448585020@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448585" subject="reftestnzb_a4c42d079608_with_xxx_extension [11/14] - &quot;the_10GB.vol015+016.par2&quot; yEnc (1/1) 182740">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="188691" number="1">TmUvPqNrSkDgAvKkBrFpNuCs-1648448585465@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448585" subject="reftestnzb_a4c42d079608_with_xxx_extension [12/14] - &quot;the_10GB.vol031+032.par2&quot; yEnc (1/1) 241596">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="249349" number="1">YrAwYeWtOyRaUtMxDeCwCeDz-1648448585470@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448585" subject="reftestnzb_a4c42d079608_with_xxx_extension [14/14] - &quot;the_10GB.vol127+073.par2&quot; yEnc (1/1) 327952">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="338456" number="1">JtTlIhSjEwOcSgLjCbBjTxJs-1648448585476@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1648448585" subject="reftestnzb_a4c42d079608_with_xxx_extension [13/14] - &quot;the_10GB.vol063+064.par2&quot; yEnc (1/1) 318052">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="328282" number="1">OjYmIcSsZmUfCjKjJjKzUgZq-1648448585472@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
