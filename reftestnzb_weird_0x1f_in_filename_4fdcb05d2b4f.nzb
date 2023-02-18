@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1676705798" subject="reftestnzb_weird_0x1f_in_filename_4fdcb05d2b4f [01/11] - &quot;weird_char.part1.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728148" number="1">NxZeIjSjLzZtNiLiTvTqIsLh-1676705798057@nyuu</segment>
+			<segment bytes="728150" number="2">JpHuNjQqTdToDnKaRgDkClRj-1676705798062@nyuu</segment>
+			<segment bytes="728151" number="3">UzNpGvJiTtPxPcYiMjZgHhCs-1676705798065@nyuu</segment>
+			<segment bytes="728151" number="4">EgFhOeLwJbRvHmTzVhKwFuCg-1676705798067@nyuu</segment>
+			<segment bytes="728151" number="5">YrIvIfUqIdFoCuRxDpFoTiVq-1676705798069@nyuu</segment>
+			<segment bytes="728151" number="6">QsOrDjCiGrYaFxEgNdWfXyHs-1676705803248@nyuu</segment>
+			<segment bytes="728151" number="7">ArBkDaTfHgSkVjYnGvOtTdNc-1676705803250@nyuu</segment>
+			<segment bytes="728156" number="8">GqIrXuJxBxLsOfZvAgUwHtQe-1676705803387@nyuu</segment>
+			<segment bytes="565933" number="9">OhFxVyRbPoMdJdOvFoNoLnZz-1676705804231@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1676705804" subject="reftestnzb_weird_0x1f_in_filename_4fdcb05d2b4f [02/11] - &quot;weird_char.part2.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">PuNfAmTaCeAkCpDoDxHrMmUp-1676705804258@nyuu</segment>
+			<segment bytes="728150" number="2">ElUoBbZnGyEcVhKoNlCwNcIh-1676705804536@nyuu</segment>
+			<segment bytes="728151" number="3">XnNpSoXqZoZcEePxClKyBaCi-1676705805154@nyuu</segment>
+			<segment bytes="728151" number="4">VnWoMjPsWjDwOpUhPnOpSrYs-1676705805157@nyuu</segment>
+			<segment bytes="728151" number="5">LkGdIpVhDdPeDkBkFrYwAwCa-1676705805444@nyuu</segment>
+			<segment bytes="728151" number="6">OwYgOdQrUpUtNfHhZkIuNaXh-1676705806118@nyuu</segment>
+			<segment bytes="728151" number="7">BgIyQrBfGgIjVnXaNcArLxCf-1676705806314@nyuu</segment>
+			<segment bytes="728151" number="8">XuZnQqHkAuPeDmNyGfMxHnQd-1676705806474@nyuu</segment>
+			<segment bytes="565930" number="9">WzHxQlAdTlZdCcXsYbJtTdBr-1676705806759@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1676705808" subject="reftestnzb_weird_0x1f_in_filename_4fdcb05d2b4f [04/11] - &quot;repair_stuff.par2&quot; yEnc (1/1) 40888">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="41706" number="1">FuJxOiSgJyAgLwVcLoYhGtCy-1676705808570@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1676705807" subject="reftestnzb_weird_0x1f_in_filename_4fdcb05d2b4f [03/11] - &quot;weird_char.part3.rar&quot; yEnc (1/5) 3146897">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728147" number="1">UqZmSkJiFdOdQmSkNoLfHkHz-1676705807318@nyuu</segment>
+			<segment bytes="728150" number="2">JzBiRkFxPcRfLpVcAeBhSxZi-1676705807449@nyuu</segment>
+			<segment bytes="728151" number="3">KzCzFxKhPgCvPdZrBnQqOxOt-1676705807602@nyuu</segment>
+			<segment bytes="728151" number="4">KcMhTmFpCwFcQzLtZqYgBhXo-1676705807988@nyuu</segment>
+			<segment bytes="284238" number="5">ZoFjFiLbEbGdVxXyOyLsGjOg-1676705808537@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1676705808" subject="reftestnzb_weird_0x1f_in_filename_4fdcb05d2b4f [05/11] - &quot;repair_stuff.vol000+02.par2&quot; yEnc (1/1) 97544">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="99331" number="1">QySfWmOyPiMpJtOhOhSlWcLo-1676705808772@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1676705809" subject="reftestnzb_weird_0x1f_in_filename_4fdcb05d2b4f [06/11] - &quot;repair_stuff.vol002+04.par2&quot; yEnc (1/1) 154200">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="156938" number="1">WbRlFmSdHnDcWzLtAnVqGsBr-1676705809234@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1676705809" subject="reftestnzb_weird_0x1f_in_filename_4fdcb05d2b4f [07/11] - &quot;repair_stuff.vol006+08.par2&quot; yEnc (1/1) 226728">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="230685" number="1">SzLdZeYzNzEuRvEvYgOvHnWu-1676705809611@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1676705809" subject="reftestnzb_weird_0x1f_in_filename_4fdcb05d2b4f [08/11] - &quot;repair_stuff.vol014+16.par2&quot; yEnc (1/1) 331000">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="336698" number="1">BsYfGrJjUxWxKxSuOsXjZfPq-1676705809713@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1676705810" subject="reftestnzb_weird_0x1f_in_filename_4fdcb05d2b4f [09/11] - &quot;repair_stuff.vol030+32.par2&quot; yEnc (1/1) 498760">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="507470" number="1">BpXdUsQxCgPsEsGmNsJgHvDt-1676705810021@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1676705810" subject="reftestnzb_weird_0x1f_in_filename_4fdcb05d2b4f [10/11] - &quot;repair_stuff.vol062+64.par2&quot; yEnc (1/2) 793496">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="729299" number="1">ZjCkPzOlUnMpKdVaIlWeYfHg-1676705810196@nyuu</segment>
+			<segment bytes="78164" number="2">GoXsXtXkNdYxKlIlVrLzPyLj-1676705810353@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1676705810" subject="reftestnzb_weird_0x1f_in_filename_4fdcb05d2b4f [11/11] - &quot;repair_stuff.vol126+74.par2&quot; yEnc (1/2) 872856">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="729315" number="1">DrTbRaHeNrVwKpDiGsVyKjNe-1676705810477@nyuu</segment>
+			<segment bytes="158873" number="2">XlBxJoJzWmCzAoZbQmTkIqOp-1676705810537@nyuu</segment>
+		</segments>
+	</file>
+</nzb>

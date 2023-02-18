@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1676705856" subject="Bagger &quot;Hello Some Ugly  Char 2023.bin&quot; yEnc (1/15) 10485760">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728157" number="1">QrTzQcZyVrZbWwTjFjFwSlCf-1676705856572@nyuu</segment>
+			<segment bytes="728163" number="2">EmHmPrLwWeAfLiIpUuFaXyWc-1676705856576@nyuu</segment>
+			<segment bytes="728164" number="3">RpNvGwPcReHzKpLyDuOjZvZj-1676705856585@nyuu</segment>
+			<segment bytes="728164" number="4">LmSrYtKaEjVpJtUsPjZtOgAd-1676705856588@nyuu</segment>
+			<segment bytes="728164" number="5">UsFtLxBcQtKmRmSbGsZiEwKk-1676705856591@nyuu</segment>
+			<segment bytes="728164" number="6">CeLtOxKpZjQoHoOfLmStScEt-1676705856652@nyuu</segment>
+			<segment bytes="728164" number="7">JmLeMaFkMoEcCqOiVaGbKlJw-1676705856655@nyuu</segment>
+			<segment bytes="728164" number="8">DpEqKqBgAqBpPkTaYfCvBlTc-1676705856658@nyuu</segment>
+			<segment bytes="728164" number="9">NnUjWkGcNlKvPvRzOoFoGsGn-1676705857706@nyuu</segment>
+			<segment bytes="728166" number="10">FyIiSqBsOyCtKqBpOuYjAgWb-1676705857812@nyuu</segment>
+			<segment bytes="728166" number="11">UiIhOiXvEuHbNiUiCtXbJpHf-1676705857824@nyuu</segment>
+			<segment bytes="728166" number="12">SvSqXxYtBcPyEqZeKeKcSjCs-1676705858659@nyuu</segment>
+			<segment bytes="728166" number="13">XkIwUqMwCcBjZrUeChIuEtHb-1676705858842@nyuu</segment>
+			<segment bytes="728167" number="14">NqVlTzUdCgUfDzTzJsBcEjMy-1676705858893@nyuu</segment>
+			<segment bytes="457783" number="15">GkCrWqSnQzKeQgFwVvPqBmUh-1676705859683@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
