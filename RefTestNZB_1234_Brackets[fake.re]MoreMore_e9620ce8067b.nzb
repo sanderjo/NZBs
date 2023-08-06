@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307328" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [01/29] - &quot;sometestfile.part01.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739650" number="1">ZbPxVfKzNcBmIvKwHdInWqLk-1691307328483@nyuu</segment>
+			<segment bytes="739635" number="2">WkCfOuLjWhQqKhQwOuYmQaIg-1691307328490@nyuu</segment>
+			<segment bytes="739696" number="3">CbIlSsJcCpLlOpZbOlAoPdRg-1691307328495@nyuu</segment>
+			<segment bytes="739638" number="4">OmInGtWpUmRpLxIzIcVwQmLt-1691307328499@nyuu</segment>
+			<segment bytes="739560" number="5">MoNpQnCpGpWsQuYyPgCxWrIq-1691307328505@nyuu</segment>
+			<segment bytes="739482" number="6">RsQtKsPsDmPgLoFsBnFePgCd-1691307328510@nyuu</segment>
+			<segment bytes="739494" number="7">AeJkQbCsVyGsWdHmDpViLoYw-1691307329036@nyuu</segment>
+			<segment bytes="232528" number="8">OmRtXlTlEqSgFoWaQzBdJwJz-1691307329041@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307329" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [02/29] - &quot;sometestfile.part02.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739645" number="1">GaIbRnDqZcBcBvTrWoDtUuWz-1691307329072@nyuu</segment>
+			<segment bytes="739663" number="2">QeWmOgOnQwGbQpPjXrYvHvWr-1691307329076@nyuu</segment>
+			<segment bytes="739363" number="3">MyFmKxWdIaAgUfBmCdDvKcYt-1691307329081@nyuu</segment>
+			<segment bytes="739596" number="4">AjWfFiNjMkIiLaNkEgLqOxIu-1691307329085@nyuu</segment>
+			<segment bytes="739676" number="5">VsNlOiUwMuFpCmGsByLtNmHo-1691307330241@nyuu</segment>
+			<segment bytes="739662" number="6">YnLoCdQtGaPhTfOiTfFfKoGr-1691307330298@nyuu</segment>
+			<segment bytes="739799" number="7">JbXeKuWlEcLrNkOsUxApReWs-1691307330353@nyuu</segment>
+			<segment bytes="232541" number="8">ApDrWaGyKlEkSkGzZcZuGjUr-1691307330668@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307330" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [03/29] - &quot;sometestfile.part03.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739526" number="1">SqCaNjUuNlUqQjYyEoXwIsXx-1691307330784@nyuu</segment>
+			<segment bytes="739608" number="2">DvYaMzIsUgDxSnJiXcNoHlTl-1691307330785@nyuu</segment>
+			<segment bytes="739605" number="3">IjZhUhAiKzXzXjIkXiPkZyFx-1691307330794@nyuu</segment>
+			<segment bytes="739672" number="4">YcNjQhYjMdTaBpVuJyPoRrOp-1691307331199@nyuu</segment>
+			<segment bytes="739579" number="5">QlIoXhXxUyPvCsBeHfPhDaWx-1691307331269@nyuu</segment>
+			<segment bytes="739792" number="6">JzSeBfHsUyKzGuJiPoQnBmKl-1691307332019@nyuu</segment>
+			<segment bytes="739724" number="7">GwDvGmTcDqQpEjWiIjLiEkJi-1691307332170@nyuu</segment>
+			<segment bytes="232640" number="8">QlIuLaUyKiDbOpZtDkLzUcYo-1691307332211@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307332" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [04/29] - &quot;sometestfile.part04.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739606" number="1">IjDnKxLdSoPqFpGyHsStPaCt-1691307332311@nyuu</segment>
+			<segment bytes="739590" number="2">NoKlYdUfYuJfOgHoXdXjByYh-1691307332312@nyuu</segment>
+			<segment bytes="739465" number="3">EaUlBrYdFkMwGaMdRnVlTsDn-1691307332333@nyuu</segment>
+			<segment bytes="739640" number="4">SqBoDnXaYjQdSiYnXhQmEgYq-1691307332427@nyuu</segment>
+			<segment bytes="739695" number="5">YzAtPuOzGrNrHqMxYlCpCnWe-1691307333170@nyuu</segment>
+			<segment bytes="739659" number="6">JeMlVhVlCgQvFdGsXgCmJrXp-1691307333561@nyuu</segment>
+			<segment bytes="739607" number="7">PtQlBpYtJsZgMhFyJcMwYnAc-1691307333563@nyuu</segment>
+			<segment bytes="232517" number="8">GqNvErDbFbYmUjYnRoRfAwEu-1691307333641@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307333" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [05/29] - &quot;sometestfile.part05.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739349" number="1">LqNdIcVbMgPaJfKaJmCiHzQm-1691307333878@nyuu</segment>
+			<segment bytes="739367" number="2">ZpCjMfXxFxOjRyJbOhJeTbIa-1691307333963@nyuu</segment>
+			<segment bytes="739658" number="3">FjEePlEoPjIpGyBcBzWmYfIp-1691307333979@nyuu</segment>
+			<segment bytes="739721" number="4">MnRlKgOnHzLhGgYjNtJwJnKy-1691307334009@nyuu</segment>
+			<segment bytes="739508" number="5">IjJsOwYlCrZaZbFnCwHcPjIc-1691307334828@nyuu</segment>
+			<segment bytes="739503" number="6">IaKfXrQdObQfEoZiHpCaWzUn-1691307335004@nyuu</segment>
+			<segment bytes="739650" number="7">LvOaDvNuEpYcPyFwMdOkHcRo-1691307335048@nyuu</segment>
+			<segment bytes="232644" number="8">UtMhXlMxOeQwRxYgQlOvCpEm-1691307335073@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307335" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [06/29] - &quot;sometestfile.part06.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739645" number="1">DlPxIjFsHhSxJbOtTvGdMuRd-1691307335191@nyuu</segment>
+			<segment bytes="739748" number="2">LzKqXgCtDjShTiYlOvDgFlFh-1691307335448@nyuu</segment>
+			<segment bytes="739628" number="3">KyRfAuAjAqOpXxZoQiYsGaNo-1691307335544@nyuu</segment>
+			<segment bytes="739649" number="4">SiRhLyQgTxTdUyLsSlJhKcRa-1691307335939@nyuu</segment>
+			<segment bytes="739679" number="5">QbOkYhToNcVpMpKdOxGnPaUc-1691307336053@nyuu</segment>
+			<segment bytes="739686" number="6">JcItByYkKbXdZpYaYbPrJtUz-1691307336404@nyuu</segment>
+			<segment bytes="739780" number="7">LjQcBxHsIhKzNcLkUcYsSjKv-1691307336466@nyuu</segment>
+			<segment bytes="232551" number="8">JfFsSxZuOqCiPtScUzSbLsXd-1691307336471@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307336" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [07/29] - &quot;sometestfile.part07.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739814" number="1">ZuDbDqOhWdZjWcAnJxOoVoVv-1691307336885@nyuu</segment>
+			<segment bytes="739748" number="2">PuBvKcQwErFeVdMgPoVuAfMe-1691307336992@nyuu</segment>
+			<segment bytes="739677" number="3">EkEeCvTxRxMaFzEuNqZlNbPy-1691307337284@nyuu</segment>
+			<segment bytes="739734" number="4">ShIrRdNdHoGfHhAgWxMiHxBi-1691307337354@nyuu</segment>
+			<segment bytes="739644" number="5">RlXxAmRfXhUdUmFjFpUxEbSc-1691307337643@nyuu</segment>
+			<segment bytes="739671" number="6">LbIvSpQmNjFzQlTtFtJiCaUa-1691307337834@nyuu</segment>
+			<segment bytes="739459" number="7">GoTjQnPxCtNsZjTbLlLwXhNw-1691307337891@nyuu</segment>
+			<segment bytes="232672" number="8">UeGwInTnAmEoKqYlYzNxBhGz-1691307338000@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307338" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [08/29] - &quot;sometestfile.part08.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739913" number="1">TnGmJcPjSdLbKmCkYxCpKtTo-1691307338276@nyuu</segment>
+			<segment bytes="739708" number="2">McBxPpShJrAiRlXbPcXnDiAv-1691307338721@nyuu</segment>
+			<segment bytes="739672" number="3">DoRmEbSlGaQqHsGjYkOmFiJn-1691307338920@nyuu</segment>
+			<segment bytes="739779" number="4">UgOgXjUbKmOiHzAyMkGvFqXt-1691307338925@nyuu</segment>
+			<segment bytes="739812" number="5">YsGtJmCdJkPdCjOuXwGdMiZc-1691307339124@nyuu</segment>
+			<segment bytes="739702" number="6">WmHpQhQcCqVlTzRfVcSyDbIz-1691307339290@nyuu</segment>
+			<segment bytes="739647" number="7">CwHuYaLtMrBbWtIcEpXrBfHz-1691307339414@nyuu</segment>
+			<segment bytes="232614" number="8">TwLhVzEtBwIlCzZvOiQfUkEn-1691307339847@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307339" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [09/29] - &quot;sometestfile.part09.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739676" number="1">XgLbXvFnWtYvEuCcVnFpMjWk-1691307339902@nyuu</segment>
+			<segment bytes="739347" number="2">GsSmDaLcRlDbHvEaRiLtUwBi-1691307339968@nyuu</segment>
+			<segment bytes="739711" number="3">YrHxYoAmHqYyGfFoSkMrCtGd-1691307340010@nyuu</segment>
+			<segment bytes="739656" number="4">JzUiImSzHrDgTmZzMaMcQiZy-1691307340417@nyuu</segment>
+			<segment bytes="739628" number="5">MvHmQtAjXlQsTpKyRsMsRlWo-1691307340805@nyuu</segment>
+			<segment bytes="739379" number="6">GmSzOuJyZnMrYeZwCxRqAjOe-1691307340892@nyuu</segment>
+			<segment bytes="739585" number="7">SrXrZjHhRlScBsVsBsFoDdUh-1691307340917@nyuu</segment>
+			<segment bytes="232602" number="8">RvGnMfYbGkHxGyKjEcKvHsVc-1691307341055@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307341" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [10/29] - &quot;sometestfile.part10.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739689" number="1">JeTtNfVwEgSaMyUuIfFaOcQd-1691307341348@nyuu</segment>
+			<segment bytes="739374" number="2">UeImEvVhZdRpRhNjFwZuHlUt-1691307341586@nyuu</segment>
+			<segment bytes="739677" number="3">MeIoMqWoOeTeMnHqDcHoAsTe-1691307341716@nyuu</segment>
+			<segment bytes="739825" number="4">VyAdQsGbPaKbEkPqQqYzAhUx-1691307341992@nyuu</segment>
+			<segment bytes="739623" number="5">JrVkEoGjFzQtGtNeBdXxPkRt-1691307342138@nyuu</segment>
+			<segment bytes="739530" number="6">JkPeAcCdKvGmRaZmYlGwFcFp-1691307342201@nyuu</segment>
+			<segment bytes="739536" number="7">JyKhJiBkCoGmKuMiDoEtHfNp-1691307342250@nyuu</segment>
+			<segment bytes="232621" number="8">XeAxHrUfItSjSnUzHkQhGoOh-1691307342772@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307342" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [11/29] - &quot;sometestfile.part11.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739354" number="1">NwJvMfNbTlFrGhHpUxFpEeEv-1691307342934@nyuu</segment>
+			<segment bytes="739579" number="2">BrIeHmAsLzCnDvVaTfJqTbNi-1691307343022@nyuu</segment>
+			<segment bytes="739668" number="3">BpZmDjSnEsHcOyNeDyOqMnPn-1691307343168@nyuu</segment>
+			<segment bytes="739582" number="4">MnIaQgIiXbQtCyVxXqHgRcXk-1691307343183@nyuu</segment>
+			<segment bytes="739674" number="5">QxSwEjAaTsCdReZuUdCtAqDv-1691307343463@nyuu</segment>
+			<segment bytes="739751" number="6">UcBfVuJqEqBbMrTyTySpZtGc-1691307343777@nyuu</segment>
+			<segment bytes="739598" number="7">WfDbDaWiUoNbTzOdEaTmClQt-1691307343992@nyuu</segment>
+			<segment bytes="232663" number="8">LqFxDoQtWrAgRjPtOgHkVuBj-1691307344130@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307344" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [12/29] - &quot;sometestfile.part12.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739461" number="1">SvTlWgSuGhDnLvKvMmAoKhPe-1691307344297@nyuu</segment>
+			<segment bytes="739497" number="2">SwKxYlTnVwSlRkErIgIuPcOu-1691307344423@nyuu</segment>
+			<segment bytes="739514" number="3">IiUnNfHgWnOaDnYbWpOxIdEr-1691307344499@nyuu</segment>
+			<segment bytes="739544" number="4">JuHsWyCeCsWtUjAiFgDlIlBg-1691307344560@nyuu</segment>
+			<segment bytes="739725" number="5">DeKbRgKgCtAaMkAnAbXvXaNn-1691307345034@nyuu</segment>
+			<segment bytes="739647" number="6">NyLwLyAbGvLrJnSxRcTpCeJl-1691307345292@nyuu</segment>
+			<segment bytes="739692" number="7">JoDyWwLpMwXxItOsGzRkVdAk-1691307345590@nyuu</segment>
+			<segment bytes="232631" number="8">LnUoMmRnQtOuRaYyXmNnNcBb-1691307345680@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307345" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [13/29] - &quot;sometestfile.part13.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739660" number="1">YgJuAdJqBiDnMkOpIkWzAdTb-1691307345755@nyuu</segment>
+			<segment bytes="739711" number="2">QhBuCfIrNwWeUcMwZdVbTfYq-1691307345823@nyuu</segment>
+			<segment bytes="739875" number="3">QqDwAeSrVbFcAbTgInIuNtKy-1691307345828@nyuu</segment>
+			<segment bytes="739833" number="4">GzMlQwKeFrIwSgUmPwMxUlBf-1691307346002@nyuu</segment>
+			<segment bytes="739694" number="5">OuLdDiUnNxVsOnLlMzChAjLs-1691307346870@nyuu</segment>
+			<segment bytes="739899" number="6">UbJrYcPgSdAyPyNxJaQyWsRp-1691307346931@nyuu</segment>
+			<segment bytes="739458" number="7">DnDeHpYwMtYjKcZaWyRfYrLi-1691307346975@nyuu</segment>
+			<segment bytes="232644" number="8">BoIgSlBpEgBfLlCaXqUqOjFa-1691307347038@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307347" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [14/29] - &quot;sometestfile.part14.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739638" number="1">VcXaMbFcZlAcYiHkBwYyVkGs-1691307347141@nyuu</segment>
+			<segment bytes="739756" number="2">UkEpYfCzUlKvPkAaYtJnWfJx-1691307347221@nyuu</segment>
+			<segment bytes="739588" number="3">MmTlRePgUoKhNfYxYeEqTxJo-1691307347360@nyuu</segment>
+			<segment bytes="739543" number="4">IiTvYpFrTuFwJlKkBnIhZbRu-1691307348071@nyuu</segment>
+			<segment bytes="739689" number="5">IgEjBuNtKtVaPmBbInYoHwKc-1691307348119@nyuu</segment>
+			<segment bytes="739526" number="6">FqQqEfIyPnBkYxHlHlMjRgKz-1691307348215@nyuu</segment>
+			<segment bytes="739441" number="7">OwBhDxZeEpAlSiIbSmEgMmXf-1691307348353@nyuu</segment>
+			<segment bytes="232537" number="8">NpJcVjJxFcFjAfMlHvHdTjQa-1691307348474@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307348" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [15/29] - &quot;sometestfile.part15.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739549" number="1">YiBoOxGvDaBrZeGpLoZoPkEi-1691307348547@nyuu</segment>
+			<segment bytes="739717" number="2">NfHxKqBlGgZcGhVqGcYkAfWq-1691307348725@nyuu</segment>
+			<segment bytes="739781" number="3">JeVfJpNbHeCzNuYdJfGjGfJl-1691307349061@nyuu</segment>
+			<segment bytes="739670" number="4">ZmGcTiQcHnCwGwYnYbTfEtZu-1691307349500@nyuu</segment>
+			<segment bytes="739807" number="5">HyPhXjEjMyOzSyAmYaPzWzFl-1691307349575@nyuu</segment>
+			<segment bytes="739576" number="6">ZfUqQtOtUqRoVvFdJmErScUb-1691307349663@nyuu</segment>
+			<segment bytes="739783" number="7">YrOoDlYzTgYnFnFbKzOlSiGq-1691307349799@nyuu</segment>
+			<segment bytes="232588" number="8">WsOvYpXyKuRwKkXaWlSuMwSc-1691307349844@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307350" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [16/29] - &quot;sometestfile.part16.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739754" number="1">HvAmRjAqXoWaStKrZbXjZeTi-1691307350192@nyuu</segment>
+			<segment bytes="739736" number="2">ZrUsStPxPgMpAuYhMdGpBrTo-1691307350193@nyuu</segment>
+			<segment bytes="739794" number="3">AjOhAwFyJsCfKlMoVjRlBlXy-1691307350921@nyuu</segment>
+			<segment bytes="739532" number="4">RkMxGvXdGlYfOwHlRjUgSpYe-1691307350926@nyuu</segment>
+			<segment bytes="739787" number="5">NbZsThWxBoQkJvKgXkGlUbPq-1691307350944@nyuu</segment>
+			<segment bytes="739606" number="6">JxHfHtAtWxQyBaVxQzFaHkGw-1691307351212@nyuu</segment>
+			<segment bytes="739628" number="7">JzNqDkQyGsHxCvWsOkUsOrGw-1691307351392@nyuu</segment>
+			<segment bytes="232591" number="8">HaZgHaYgAxUiUpKbUsMvQvCe-1691307351721@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307351" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [17/29] - &quot;sometestfile.part17.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739573" number="1">HyPyEwDnWsTwWqMvYaCcRbJr-1691307351782@nyuu</segment>
+			<segment bytes="739502" number="2">KlDiAjLyGeHgRiWbAtSlZjWf-1691307351957@nyuu</segment>
+			<segment bytes="739534" number="3">KtPmUsRyOwMnEiWsDlIoIlJo-1691307352067@nyuu</segment>
+			<segment bytes="739587" number="4">AtAnCbYySiSvBfVhAkOpUeMs-1691307352212@nyuu</segment>
+			<segment bytes="739592" number="5">HzPzJvLyMjEqMzGzNzFuKjQw-1691307352434@nyuu</segment>
+			<segment bytes="739543" number="6">MkRpNwInMuHpJqUuGiYmWfWl-1691307352949@nyuu</segment>
+			<segment bytes="739747" number="7">PyAeAyKvEnNhNvWdCxFwVmBe-1691307352971@nyuu</segment>
+			<segment bytes="232550" number="8">XxLwIiWrQiFlHyHzVvKvGrHh-1691307353048@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307353" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [18/29] - &quot;sometestfile.part18.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739663" number="1">VdVbMwJjUaOpNvXkZnImCtOx-1691307353239@nyuu</segment>
+			<segment bytes="739700" number="2">EuDyPiOgKrSaEeSgDgQzGaEr-1691307353479@nyuu</segment>
+			<segment bytes="739720" number="3">KjLeIxFrKqGyCmIeWlFwViQl-1691307353487@nyuu</segment>
+			<segment bytes="739668" number="4">KzUeHtHsYhGwWnYjWmKcYaJw-1691307353492@nyuu</segment>
+			<segment bytes="739517" number="5">AjRkMgDwFdHnTeSmMrUcSdMf-1691307354075@nyuu</segment>
+			<segment bytes="739715" number="6">YmBeOdSjHdNfLfFnVxScPjEf-1691307354209@nyuu</segment>
+			<segment bytes="739628" number="7">SgBoLkEyIbAyTmDnHjBqMvBq-1691307354281@nyuu</segment>
+			<segment bytes="232646" number="8">SpNcMoOeJxExOsPsQaOnAyPv-1691307354648@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307354" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [19/29] - &quot;sometestfile.part19.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739609" number="1">RkTbSqElJdMiWrTpOfJuLhBb-1691307354782@nyuu</segment>
+			<segment bytes="739545" number="2">DvDzXlBgOpDzOuXjOuAbYhJd-1691307354880@nyuu</segment>
+			<segment bytes="739810" number="3">NbOzYoVcMcCpMmSnHmZnIiAh-1691307355091@nyuu</segment>
+			<segment bytes="739638" number="4">QsQcZdXeRgZqTqHhGbKeSmVl-1691307355136@nyuu</segment>
+			<segment bytes="739693" number="5">HjSoIgXnFcEgVkHuIpGcFwPl-1691307355329@nyuu</segment>
+			<segment bytes="739725" number="6">PtWgYgPdWgZyCxQwIoIbPoBp-1691307355801@nyuu</segment>
+			<segment bytes="739676" number="7">MeHeEyXzGxLvXlGqDhBnZwLh-1691307355959@nyuu</segment>
+			<segment bytes="232505" number="8">XbOxVrVgOhZaFtJzPnFfNnVh-1691307356100@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307357" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [21/29] - &quot;sometestfile.part21.rar&quot; yEnc (1/1) 4946">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="5254" number="1">IhIeLuRzXdRpZvHmIjSsJeFt-1691307357621@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307357" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [22/29] - &quot;somepar2files.par2&quot; yEnc (1/1) 44840">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="46380" number="1">SbEeWcVsLsNmDiIvQkElPzLl-1691307357635@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307357" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [23/29] - &quot;somepar2files.vol000+02.par2&quot; yEnc (1/1) 195632">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="201940" number="1">GvObXvOfGgHjSuYhHrIdXgIt-1691307357756@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307356" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [20/29] - &quot;sometestfile.part20.rar&quot; yEnc (1/8) 5242880">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739659" number="1">DuPnMcNqUhEqWpCwKdCiVuKl-1691307356226@nyuu</segment>
+			<segment bytes="739451" number="2">DdPaFnUkUbMqZfOsYcKvBuCc-1691307356298@nyuu</segment>
+			<segment bytes="739632" number="3">AlClDmEbXmGdQdCsHaFsCtFz-1691307356337@nyuu</segment>
+			<segment bytes="739559" number="4">NrZeYxVjFrPxLpSbSgNnMzEl-1691307356353@nyuu</segment>
+			<segment bytes="739672" number="5">WhBuFkYsEpYzSeIhHnRcNxOf-1691307357285@nyuu</segment>
+			<segment bytes="739683" number="6">ZaRyHuXfKvNuJfWyIoAiRaTl-1691307357331@nyuu</segment>
+			<segment bytes="739761" number="7">XzAhMyFnFaLxGpWeXnAhWjJd-1691307357515@nyuu</segment>
+			<segment bytes="232616" number="8">YvYsJoIxBsRmWqRhRlYpJvQn-1691307357562@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307358" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [24/29] - &quot;somepar2files.vol002+04.par2&quot; yEnc (1/1) 346424">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="357535" number="1">WbShUpIvGoBlCaUzFhDaMdMr-1691307358428@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307358" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [25/29] - &quot;somepar2files.vol006+08.par2&quot; yEnc (1/1) 603272">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="622379" number="1">XiRoPnUkGgJrHgBqByGbAtFm-1691307358692@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307358" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [26/29] - &quot;somepar2files.vol014+16.par2&quot; yEnc (1/2) 1072232">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739581" number="1">PrAiSiOpWbErYxFyEcKzKjUv-1691307358723@nyuu</segment>
+			<segment bytes="366801" number="2">IfZqFtMqVlOtTvGuCxDtXoEm-1691307358724@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307358" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [27/29] - &quot;somepar2files.vol030+32.par2&quot; yEnc (1/3) 1965416">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739664" number="1">EcXjEsPdNqIgUeBiNeRyLgIj-1691307358964@nyuu</segment>
+			<segment bytes="739629" number="2">WzIlCpFqKwNbSzGpRqWuRySs-1691307358995@nyuu</segment>
+			<segment bytes="548828" number="3">BeWbBjBjKpKvXyQiCoRqNtJt-1691307359136@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307359" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [28/29] - &quot;somepar2files.vol062+64.par2&quot; yEnc (1/6) 3707048">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739520" number="1">WkHzHzVfZbAfDhYiEcVnOsKr-1691307359184@nyuu</segment>
+			<segment bytes="739526" number="2">XwWgXxFpObSeTbCvWhElWvKj-1691307359185@nyuu</segment>
+			<segment bytes="739742" number="3">QbBkOaIoRoOhGhPfJbFpImKa-1691307359434@nyuu</segment>
+			<segment bytes="739558" number="4">UtIuQuGoGiZwKuWgQqNdJxHp-1691307359446@nyuu</segment>
+			<segment bytes="739463" number="5">WvSbNtNmZwVzYnAqKlXrYhJf-1691307359856@nyuu</segment>
+			<segment bytes="127102" number="6">XuVfKvVwNpIdNtMsKbLnBqUv-1691307359964@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1691307360" subject="RefTestNZB_1234_Brackets[fake.re]MoreMore_e9620ce8067b [29/29] - &quot;somepar2files.vol126+72.par2&quot; yEnc (1/6) 4131272">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="739397" number="1">HqRzCyNgQuGvYoGhFvBjPhIg-1691307360024@nyuu</segment>
+			<segment bytes="739683" number="2">RsPtAcDvDoGbXpEwHqRqPiVe-1691307360106@nyuu</segment>
+			<segment bytes="739532" number="3">WdTuNmEdAaZeSyMfXvNaFlSy-1691307360545@nyuu</segment>
+			<segment bytes="739600" number="4">JiPyOkBfDcMtHjQeLsHcSfUw-1691307360562@nyuu</segment>
+			<segment bytes="739668" number="5">AtEnAbByKvUtWlPbGaTlBtUx-1691307360732@nyuu</segment>
+			<segment bytes="564873" number="6">LxJiRpMjAoEzMoWtMwCcNwJo-1691307361068@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
