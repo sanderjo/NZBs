@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1702894854" subject="reftestnzb_toverdoos_nyuu_article-size_5111222__90df1401f5e1 &quot;blabla.bin&quot; yEnc (1/21) 104857600">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="5191225" number="1">RiKcNeOxQmNgQmUkIiGxCiBx-1702894854687@nyuu</segment>
+			<segment bytes="5191232" number="2">DrZxWxQgBcHzGnLlGyIgToMc-1702894854700@nyuu</segment>
+			<segment bytes="5191233" number="3">ZeTpItBnCyRnXmBqFsZjSeJg-1702894854712@nyuu</segment>
+			<segment bytes="5191233" number="4">GwUyZuNxRvNpNhEfPlUnIqCv-1702894854723@nyuu</segment>
+			<segment bytes="5191233" number="5">WyWaVfFmPvKxQpCvFtLjYgCk-1702894854734@nyuu</segment>
+			<segment bytes="5191233" number="6">VvEjBtPtPoRnEjMxMiRjZmVs-1702894854744@nyuu</segment>
+			<segment bytes="5191233" number="7">GpGqCeAiBaEgEuWcAdKcTyVh-1702894855127@nyuu</segment>
+			<segment bytes="5191233" number="8">OsIaTvEpQbRpQuCrItHhYaQa-1702894855160@nyuu</segment>
+			<segment bytes="5191233" number="9">MiOsXtGcDzMnNlCmHnFsLwCo-1702894855182@nyuu</segment>
+			<segment bytes="5191235" number="10">UuDbMsXqToYqUwWcZnAuIeUs-1702894855199@nyuu</segment>
+			<segment bytes="5191235" number="11">XqMbIfGpMqYjUrNiHsSxZrFu-1702894855218@nyuu</segment>
+			<segment bytes="5191235" number="12">MuYjOcNfEiGtJfWiVpFgErDv-1702894855230@nyuu</segment>
+			<segment bytes="5191235" number="13">EaExRqKtPuEnGzZnCaAnBmNm-1702894857841@nyuu</segment>
+			<segment bytes="5191235" number="14">CbZtBbXjYsOiLuRdBpVyEzPb-1702894857914@nyuu</segment>
+			<segment bytes="5191235" number="15">MpVhRoXnVpIoIsCtCkRcXgSq-1702894859210@nyuu</segment>
+			<segment bytes="5191235" number="16">HsBgRlBzHbUbWsKvMlDrCwHh-1702894859223@nyuu</segment>
+			<segment bytes="5191235" number="17">VeBpRrAdXuDvXuLhYnWnJlIy-1702894859249@nyuu</segment>
+			<segment bytes="5191235" number="18">NuTdDpNxRtQhDiXhMrAqScPr-1702894859819@nyuu</segment>
+			<segment bytes="5191235" number="19">AxAyLvFpZdLpNoYkBcJoAbSy-1702894860164@nyuu</segment>
+			<segment bytes="5191236" number="20">QvKcXvXeVvKvAtVuVlBrDdQd-1702894860289@nyuu</segment>
+			<segment bytes="2674470" number="21">PgJlGqTwVcThAdXyJpTvJkDi-1702894862564@nyuu</segment>
+		</segments>
+	</file>
+</nzb>

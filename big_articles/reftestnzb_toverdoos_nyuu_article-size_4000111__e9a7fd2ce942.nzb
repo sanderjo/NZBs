@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1702895166" subject="reftestnzb_toverdoos_nyuu_article-size_4000111__e9a7fd2ce942 &quot;blabla.bin&quot; yEnc (1/27) 104857600">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="4062752" number="1">WkNyTfWkYsGuEaOmNbKmEoLw-1702895166500@nyuu</segment>
+			<segment bytes="4062758" number="2">JoLaHeSkIjQlLcQeBtGoTrEs-1702895166511@nyuu</segment>
+			<segment bytes="4062759" number="3">AcKsHrWiKoFjCpXkThWpTyTu-1702895166520@nyuu</segment>
+			<segment bytes="4062760" number="4">BaIfCyHbRxBdGoGhVvZiNmMe-1702895166529@nyuu</segment>
+			<segment bytes="4062760" number="5">UxJvYfYfVdGyYyAwJcKdXvZw-1702895166538@nyuu</segment>
+			<segment bytes="4062760" number="6">HdOxMaZjPzAiQzGgCrRgKyQu-1702895166546@nyuu</segment>
+			<segment bytes="4062760" number="7">PoNmXnHqEqQvNdRfLxUxHaJl-1702895166930@nyuu</segment>
+			<segment bytes="4062760" number="8">AdDrNkYlIfLtBmSuXpCsEqIo-1702895166956@nyuu</segment>
+			<segment bytes="4062760" number="9">MrAwHmMfVyFeUzEgKtUtYiPa-1702895166983@nyuu</segment>
+			<segment bytes="4062762" number="10">UsNtWmEcUgUgDsJiDsZoMpCr-1702895167000@nyuu</segment>
+			<segment bytes="4062762" number="11">FcKrRvRsKkOqEnHdHlXtXrBt-1702895167021@nyuu</segment>
+			<segment bytes="4062762" number="12">OvYsGmSzWeIwFsJuAjLiPdIe-1702895167033@nyuu</segment>
+			<segment bytes="4062762" number="13">TkLqOtPyCpPtTzGmIgYxVwNu-1702895168879@nyuu</segment>
+			<segment bytes="4062762" number="14">JwUlHaNhHkPvFcQyBpYsItVs-1702895169200@nyuu</segment>
+			<segment bytes="4062762" number="15">HwXcDsUgRrApGuXmHoGhSuIh-1702895169891@nyuu</segment>
+			<segment bytes="4062762" number="16">HnWcMmErWyGfPvAfOeBzNjZk-1702895170327@nyuu</segment>
+			<segment bytes="4062762" number="17">KyFgGhMkLnLjKdUbMoTdSiDo-1702895170432@nyuu</segment>
+			<segment bytes="4062762" number="18">UlLbYtByHqCrJjGcHvJaOgDg-1702895170831@nyuu</segment>
+			<segment bytes="4062762" number="19">BqVyCiNyWnEqJeKbTsDmItWr-1702895171042@nyuu</segment>
+			<segment bytes="4062762" number="20">XwInAmOqZiSiRsBtEhOrBxVc-1702895171056@nyuu</segment>
+			<segment bytes="4062762" number="21">DvEaXvOoOmNhQcFjYuXnKkIi-1702895171763@nyuu</segment>
+			<segment bytes="4062762" number="22">LsDeJwGoWkUlUsZbYkJvBxSc-1702895173229@nyuu</segment>
+			<segment bytes="4062762" number="23">QlIeFfBkIdRzVrKjXwRnTgAl-1702895173383@nyuu</segment>
+			<segment bytes="4062762" number="24">YuYvDcNgXlIvVlVaAzMlZpCu-1702895173460@nyuu</segment>
+			<segment bytes="4062763" number="25">LpLhIxVjWqVhHjTlHfKsEyVv-1702895173671@nyuu</segment>
+			<segment bytes="4062764" number="26">HyWlPfJePjDvAsFeBgAaYlLp-1702895173880@nyuu</segment>
+			<segment bytes="868235" number="27">HyFzMgSsFmSiWkVlOlUoHgBh-1702895174473@nyuu</segment>
+		</segments>
+	</file>
+</nzb>

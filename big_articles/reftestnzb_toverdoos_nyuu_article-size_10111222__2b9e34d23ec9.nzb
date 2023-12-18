@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1702894928" subject="reftestnzb_toverdoos_nyuu_article-size_10111222__2b9e34d23ec9 &quot;blabla.bin&quot; yEnc (1/11) 104857600">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="10269351" number="1">VlCmTyQgWhPmPoLgIyRzHjVn-1702894928430@nyuu</segment>
+			<segment bytes="10269358" number="2">EoMsCkPrRoSsOuEuSqEhQsOw-1702894928453@nyuu</segment>
+			<segment bytes="10269358" number="3">QnDcCkQzOiYgGpYhWpXoLhFr-1702894928473@nyuu</segment>
+			<segment bytes="10269358" number="4">NxPcMgIpMaWtPgSsPyStQyKe-1702894928496@nyuu</segment>
+			<segment bytes="10269358" number="5">RaEuFyMlLcJiQpWbQgOgJiXa-1702894928517@nyuu</segment>
+			<segment bytes="10269358" number="6">NhCvGvUsGdFqNdEqQaNaRaTl-1702894928540@nyuu</segment>
+			<segment bytes="10269358" number="7">CuSdLaBkHbTyMqWoXvPnHnSo-1702894928909@nyuu</segment>
+			<segment bytes="10269358" number="8">CbMkEbOcEgPxZeVvRvMmXyKb-1702894928973@nyuu</segment>
+			<segment bytes="10269358" number="9">SnJbGeTxMxPrDjQeVpMdGoZs-1702894929018@nyuu</segment>
+			<segment bytes="10269361" number="10">HaFlYpCmCkWgGjIiSaRzGbMv-1702894929045@nyuu</segment>
+			<segment bytes="3804068" number="11">BmMzLzWpLcWxHzVoYrDtItDh-1702894929070@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
