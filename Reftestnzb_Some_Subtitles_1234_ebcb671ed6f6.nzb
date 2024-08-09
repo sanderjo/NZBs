@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1723210026" subject="Reftestnzb_Some_Subtitles_1234_ebcb671ed6f6 [01/11] - &quot;postfile.par2&quot; yEnc (1/1) 40892">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="41691" number="1">JdOrReNyZuAuPwAcPcOyDxHj-1723210026153@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1723210026" subject="Reftestnzb_Some_Subtitles_1234_ebcb671ed6f6 [02/11] - &quot;postfile.part1.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728149" number="1">GbUvYtPgMzKuLqRoSdIpAxUs-1723210026155@nyuu</segment>
+			<segment bytes="728148" number="2">AdOiNyAoNhLrOcCdFgGgJtWg-1723210026156@nyuu</segment>
+			<segment bytes="728149" number="3">FvZhReWyUaVjWeRxEpDyCuIm-1723210026157@nyuu</segment>
+			<segment bytes="728149" number="4">AfOpEuStPhDoFpCeCcFhUoOn-1723210026157@nyuu</segment>
+			<segment bytes="728149" number="5">EdWiFtFjDdWxVbOwFpTtQqOg-1723210027279@nyuu</segment>
+			<segment bytes="728149" number="6">NdYrLxJmOuQlYtPkIfGeZfDr-1723210027383@nyuu</segment>
+			<segment bytes="728149" number="7">RyQjCjMlVqOpBcKuBzPwFfWy-1723210027385@nyuu</segment>
+			<segment bytes="728149" number="8">ZuDiToOtKpTnFuXrHbCaIzNf-1723210027590@nyuu</segment>
+			<segment bytes="565931" number="9">RnKiLmKxOyGyJbEeIiHeUlFh-1723210028084@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1723210028" subject="Reftestnzb_Some_Subtitles_1234_ebcb671ed6f6 [03/11] - &quot;postfile.part2.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728145" number="1">MlFfPxQgVrGxEeYfRpEtBaJw-1723210028096@nyuu</segment>
+			<segment bytes="728148" number="2">AyJbPnYrTeBoNuFaMvNzKtKy-1723210028097@nyuu</segment>
+			<segment bytes="728149" number="3">NqYfDtLoVtMqZjYaBoBhBgFz-1723210028358@nyuu</segment>
+			<segment bytes="728149" number="4">IjZgFtCbQuArWcWhUnOjTpIz-1723210028374@nyuu</segment>
+			<segment bytes="728149" number="5">UtQbXaMtHmOxBgLdDtNvQdFb-1723210028375@nyuu</segment>
+			<segment bytes="728149" number="6">QcJmHmIfUxUuXeTuDsXoWpLv-1723210028585@nyuu</segment>
+			<segment bytes="728149" number="7">FnJnCmMuPjNnXxOtOvHqWpWb-1723210028618@nyuu</segment>
+			<segment bytes="728149" number="8">YaEiSdJcMbOrZwZaLpJqMaHs-1723210028629@nyuu</segment>
+			<segment bytes="565929" number="9">IrJcEpKtQgHeRzFiEdBjVmQb-1723210028810@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1723210028" subject="Reftestnzb_Some_Subtitles_1234_ebcb671ed6f6 [04/11] - &quot;postfile.part3.rar&quot; yEnc (1/5) 3546174">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728145" number="1">LeQlPoDwDyFuBnRoUtFfAcNw-1723210028886@nyuu</segment>
+			<segment bytes="728148" number="2">HgOrYeXhQxBuNzEmBkKkAfCc-1723210028913@nyuu</segment>
+			<segment bytes="728149" number="3">YhDzHlUxXdTqCiQdHlVxYkZj-1723210029037@nyuu</segment>
+			<segment bytes="728149" number="4">BiMiRcUuTyQxUnXzBgLgRlVb-1723210029090@nyuu</segment>
+			<segment bytes="689751" number="5">WeQsPyFyVaLzOxEbKvCoKqVj-1723210029141@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1723210029" subject="Reftestnzb_Some_Subtitles_1234_ebcb671ed6f6 [05/11] - &quot;postfile.vol000+02.par2&quot; yEnc (1/1) 97948">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="99684" number="1">PlDiRtKfYgSyBuYqBaFsBxDf-1723210029262@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1723210029" subject="Reftestnzb_Some_Subtitles_1234_ebcb671ed6f6 [06/11] - &quot;postfile.vol002+04.par2&quot; yEnc (1/1) 155004">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="157676" number="1">EeRiCgLpQkYlDtMaAeAuKkVb-1723210029320@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1723210029" subject="Reftestnzb_Some_Subtitles_1234_ebcb671ed6f6 [07/11] - &quot;postfile.vol006+08.par2&quot; yEnc (1/1) 228332">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="232204" number="1">SfQcRcVvAlFuMyIxCyLwGoTm-1723210029371@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1723210029" subject="Reftestnzb_Some_Subtitles_1234_ebcb671ed6f6 [08/11] - &quot;postfile.vol014+16.par2&quot; yEnc (1/1) 334204">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="339864" number="1">DuCmPzRwItOqToZqMaVvQvQq-1723210029495@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1723210029" subject="Reftestnzb_Some_Subtitles_1234_ebcb671ed6f6 [09/11] - &quot;postfile.vol030+32.par2&quot; yEnc (1/1) 505164">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="513710" number="1">RnKpSzJpUxWvTuUzIbDzZgFm-1723210029556@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1723210029" subject="Reftestnzb_Some_Subtitles_1234_ebcb671ed6f6 [10/11] - &quot;postfile.vol062+64.par2&quot; yEnc (1/2) 806300">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728987" number="1">EcSeOpIfRlLlSjCyQdDvWrRe-1723210029607@nyuu</segment>
+			<segment bytes="91178" number="2">JtEpEoViKfTvOsLcGxUaXzUp-1723210029714@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1723210029" subject="Reftestnzb_Some_Subtitles_1234_ebcb671ed6f6 [11/11] - &quot;postfile.vol126+74.par2&quot; yEnc (1/2) 887660">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728975" number="1">RaZaKhRxXxIpKkJjHcIkGaOu-1723210029776@nyuu</segment>
+			<segment bytes="173889" number="2">SeTnKkHeVrIzYtCkRqEoCmOw-1723210029797@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
