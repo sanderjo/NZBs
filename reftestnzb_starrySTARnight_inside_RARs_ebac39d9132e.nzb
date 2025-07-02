@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1751480654" subject="reftestnzb starry*night inside rar ebac39d9132e [2/4] - &quot;postfile.part2.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728145" number="1">XnTnPyFmFrDnNxQlGxFpRfMk-1751480654525@nyuu</segment>
+			<segment bytes="728148" number="2">CtBsVtOdTuMuBgOxPtQzXxVh-1751480654527@nyuu</segment>
+			<segment bytes="728149" number="3">UlHcGxImHyYkQlWfTiGwGyVo-1751480654595@nyuu</segment>
+			<segment bytes="728149" number="4">BfOqBvMoRdFhHaSkGpAgPzZu-1751480655590@nyuu</segment>
+			<segment bytes="728149" number="5">EjIwLoHhEdUxPzLuOzGlPqUd-1751480655722@nyuu</segment>
+			<segment bytes="728149" number="6">ZuUjUqHmLpGzQxApPxYsLwGo-1751480656049@nyuu</segment>
+			<segment bytes="728149" number="7">QgBiYwYyIwAiNiOkPoUfFkCm-1751480656057@nyuu</segment>
+			<segment bytes="728149" number="8">QrQmMeTkVsAxUbPqDuBjDkHs-1751480656061@nyuu</segment>
+			<segment bytes="565927" number="9">LqKzAbJfIoYeZlGjZoIqQdAw-1751480656329@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1751480656" subject="reftestnzb starry*night inside rar ebac39d9132e [3/4] - &quot;postfile.part3.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728145" number="1">YqUqBsBoIjNlObErJiMvEiUy-1751480656523@nyuu</segment>
+			<segment bytes="728148" number="2">SdQxBfOdDhPvBqGuYlUqLgBl-1751480656671@nyuu</segment>
+			<segment bytes="728149" number="3">ZsOgLnDnTzBxZzDuToSlHaAv-1751480657302@nyuu</segment>
+			<segment bytes="728149" number="4">XaDqTxYtAlUaCzLoYtKsKgDv-1751480657352@nyuu</segment>
+			<segment bytes="728149" number="5">WnXzYwCmFaUbBpRsFrWxGpGm-1751480657648@nyuu</segment>
+			<segment bytes="728149" number="6">FqQuXuXcPiYyXtThVwWbClGv-1751480657689@nyuu</segment>
+			<segment bytes="728149" number="7">BhLeNqWuFzUbPrUlBpLuXeIf-1751480657741@nyuu</segment>
+			<segment bytes="728149" number="8">VvEiZuVpPmSdHoSvQxQxKzOj-1751480658112@nyuu</segment>
+			<segment bytes="565927" number="9">XkCpAdSbAjDeUjOaOoNwEkBw-1751480658529@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1751480658" subject="reftestnzb starry*night inside rar ebac39d9132e [4/4] - &quot;postfile.part4.rar&quot; yEnc (1/3) 2097904">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728146" number="1">JoJcNaUqBsXeLxDjUwWfMlLn-1751480658578@nyuu</segment>
+			<segment bytes="728148" number="2">NfZpAnVnKbOpAwPvUtDoGaJx-1751480659061@nyuu</segment>
+			<segment bytes="674849" number="3">VkXrRpKtTqWcNoVcOuOmXrCk-1751480659065@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1751480654" subject="reftestnzb starry*night inside rar ebac39d9132e [1/4] - &quot;postfile.part1.rar&quot; yEnc (1/9) 6291456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="728146" number="1">PgNxAvYmOdTyRrExPpCcWhOt-1751480654001@nyuu</segment>
+			<segment bytes="728148" number="2">HiFzSmIlXxOkViYgDbUcQxBa-1751480654004@nyuu</segment>
+			<segment bytes="728149" number="3">EwIrDgWmNnOiWmJsLzBeCxAl-1751480654005@nyuu</segment>
+			<segment bytes="728149" number="4">CeUjTsAwLfKyKcWlBhNpGyOc-1751480654006@nyuu</segment>
+			<segment bytes="728149" number="5">AqBsImTwNyCvUvOjHyCzXmTh-1751480654007@nyuu</segment>
+			<segment bytes="728149" number="6">VhZpZlWtAhDwUuMpAfXlPtWr-1751480654008@nyuu</segment>
+			<segment bytes="728149" number="7">FeOlQxDkAwCfFyGxFjJgHxRl-1751480654486@nyuu</segment>
+			<segment bytes="728149" number="8">OeXfAyWjGdNjEuIqUkXvMjCu-1751480654516@nyuu</segment>
+			<segment bytes="565928" number="9">XsSaHxYhCgDoStHvLtXqRwDv-1751480654519@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
