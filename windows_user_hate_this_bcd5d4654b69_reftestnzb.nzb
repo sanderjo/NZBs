@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1759228680" subject="windows user hate this bcd5d4654b69 [1/9] - &quot;windows_users_hate_this.rar&quot; yEnc (1/1) 4541">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="4913" number="1">XzBmOkRsGdJfZbPaLkRuHfIx-1759228680171@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1759228680" subject="windows user hate this bcd5d4654b69 [2/9] - &quot;par_stuff.par2&quot; yEnc (1/1) 23144">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="24033" number="1">LaCjXjMgJqJyAzFlIgMkYlRf-1759228680173@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1759228680" subject="windows user hate this bcd5d4654b69 [3/9] - &quot;par_stuff.vol000+01.par2&quot; yEnc (1/1) 23216">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="24124" number="1">GnWeBuRrDpMkKvUkUkGtRwXm-1759228680173@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1759228680" subject="windows user hate this bcd5d4654b69 [5/9] - &quot;par_stuff.vol003+04.par2&quot; yEnc (1/1) 69512">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="71899" number="1">ZhJnItFvZqTfUdHyWkVcOcRm-1759228680174@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1759228680" subject="windows user hate this bcd5d4654b69 [4/9] - &quot;par_stuff.vol001+02.par2&quot; yEnc (1/1) 46328">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="47975" number="1">KwOaGfJfBwPfUbKdCtJmJzPx-1759228680174@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1759228680" subject="windows user hate this bcd5d4654b69 [6/9] - &quot;par_stuff.vol007+08.par2&quot; yEnc (1/1) 92840">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="95981" number="1">FaYkGiCnFeRdHeFiQiNvPkDc-1759228680175@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1759228681" subject="windows user hate this bcd5d4654b69 [7/9] - &quot;par_stuff.vol015+16.par2&quot; yEnc (1/1) 116456">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="120353" number="1">OwEoNkHyLpKdSqJkImLeNgKo-1759228681414@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1759228681" subject="windows user hate this bcd5d4654b69 [9/9] - &quot;par_stuff.vol063+51.par2&quot; yEnc (1/1) 142016">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="146740" number="1">XgSzXiGmIySrYvZdOeFcHkZu-1759228681423@nyuu</segment>
+		</segments>
+	</file>
+	<file poster="blablamannetje &lt;blabla@example.com&gt;" date="1759228681" subject="windows user hate this bcd5d4654b69 [8/9] - &quot;par_stuff.vol031+32.par2&quot; yEnc (1/1) 140648">
+		<groups>
+			<group>alt.binaries.test</group>
+		</groups>
+		<segments>
+			<segment bytes="145321" number="1">KbTaSpLxUnIuMxVjYcRwFeEz-1759228681417@nyuu</segment>
+		</segments>
+	</file>
+</nzb>
